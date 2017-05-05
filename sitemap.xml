@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mikaliod.com/index.html</loc>
+    <loc>http://mikedong.github.io/index.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.com/chemistry.html</loc>
+    <loc>http://mikedong.github.io/chemistry.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.com/design.html</loc>
+    <loc>http://mikedong.github.io/design.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.com/photography.html</loc>
+    <loc>http://mikedong.github.io/photography.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.com/projects.html</loc>
+    <loc>http://mikedong.github.io/projects.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.com/research.html</loc>
+    <loc>http://mikedong.github.io/research.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.com/about-me.html</loc>
+    <loc>http://mikedong.github.io/about-me.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.com/cheme-car.html</loc>
+    <loc>http://mikedong.github.io/cheme-car.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.com/posters.html</loc>
+    <loc>http://mikedong.github.io/posters.html</loc>
     <lastmod>2017-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mikaliod.com/images/comskill_yilind_horizontal.jpg</image:loc>
+      <image:loc>http://mikedong.github.io/images/comskill_yilind_horizontal.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mikaliod.com/images/bmeposter_rrevised_yilind%20copy.jpg</image:loc>
+      <image:loc>http://mikedong.github.io/images/bmeposter_rrevised_yilind%20copy.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -1,19 +1,19 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.com" resolutions="1x" timestamp="1493964075209">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://mikedong.github.io" resolutions="1x" timestamp="1493964947149">
   <folder name="css">
     <file name="site_global.css" crc="4001726669"/>
-    <file name="master_contents.css" crc="4177470046" ref="posters:about-me:photography:cheme-car:projects:chemistry:research:design"/>
-    <file name="nomq_preview_master_contents.css" crc="3824530138" ref="posters:about-me:photography:cheme-car:projects:chemistry:research:design"/>
-    <file name="posters.css" crc="45940969" ref="posters"/>
-    <file name="about-me.css" crc="3887935460" ref="about-me"/>
-    <file name="photography.css" crc="441737710" ref="photography"/>
-    <file name="index.css" crc="4273038593" ref="index"/>
-    <file name="nomq_index.css" crc="3824530138" ref="index"/>
-    <file name="cheme-car.css" crc="204649434" ref="cheme-car"/>
-    <file name="projects.css" crc="448929285" ref="projects"/>
-    <file name="chemistry.css" crc="309145201" ref="chemistry"/>
-    <file name="nomq_chemistry.css" crc="377801776" ref="chemistry"/>
-    <file name="research.css" crc="4060825391" ref="research"/>
+    <file name="master_contents.css" crc="335910395" ref="design:projects:research:chemistry:posters:photography:about-me:cheme-car"/>
+    <file name="nomq_preview_master_contents.css" crc="3824530138" ref="design:projects:research:chemistry:posters:photography:about-me:cheme-car"/>
     <file name="design.css" crc="324418352" ref="design"/>
+    <file name="projects.css" crc="448929285" ref="projects"/>
+    <file name="research.css" crc="4060825391" ref="research"/>
+    <file name="chemistry.css" crc="45583264" ref="chemistry"/>
+    <file name="nomq_chemistry.css" crc="377801776" ref="chemistry"/>
+    <file name="posters.css" crc="45940969" ref="posters"/>
+    <file name="index.css" crc="4210193136" ref="index"/>
+    <file name="nomq_index.css" crc="3824530138" ref="index"/>
+    <file name="photography.css" crc="441737710" ref="photography"/>
+    <file name="about-me.css" crc="3887935460" ref="about-me"/>
+    <file name="cheme-car.css" crc="204649434" ref="cheme-car"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters"/>
@@ -38,13 +38,13 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="posters"/>
   </folder>
-  <file name="index.html" crc="301408667" seo="true" mt="1493963278872" redirect="true"/>
-  <file name="chemistry.html" crc="479707944" seo="true" mt="1493963971243" redirect="true"/>
-  <file name="design.html" crc="3776854215" seo="true" mt="1493963971243" redirect="true"/>
-  <file name="photography.html" crc="24537102" seo="true" mt="1493963971243" redirect="true"/>
-  <file name="projects.html" crc="442280503" seo="true" mt="1493963971243" redirect="true"/>
-  <file name="research.html" crc="121444669" seo="true" mt="1493963971243" redirect="true"/>
-  <file name="about-me.html" crc="3774087944" seo="true" mt="1493963971243" redirect="true"/>
-  <file name="cheme-car.html" crc="297819719" seo="true" mt="1493963971243" redirect="true"/>
-  <file name="posters.html" crc="441768032" seo="true" mt="1493963971243" redirect="true"/>
+  <file name="index.html" crc="4093873994" seo="true" mt="1493963278872" redirect="true"/>
+  <file name="chemistry.html" crc="4107891412" seo="true" mt="1493963971243" redirect="true"/>
+  <file name="design.html" crc="212494467" seo="true" mt="1493963971243" redirect="true"/>
+  <file name="photography.html" crc="291777458" seo="true" mt="1493963971243" redirect="true"/>
+  <file name="projects.html" crc="4262855942" seo="true" mt="1493963971243" redirect="true"/>
+  <file name="research.html" crc="94171324" seo="true" mt="1493963971243" redirect="true"/>
+  <file name="about-me.html" crc="467025183" seo="true" mt="1493963971243" redirect="true"/>
+  <file name="cheme-car.html" crc="3867917162" seo="true" mt="1493963971243" redirect="true"/>
+  <file name="posters.html" crc="3923443134" seo="true" mt="1493963971243" redirect="true"/>
 </manifest>
