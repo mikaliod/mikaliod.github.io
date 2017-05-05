@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://mikedong.github.io" resolutions="1x" timestamp="1493965109458">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://mikedong.github.io" resolutions="1x" timestamp="1493965211027">
   <folder name="css">
     <file name="site_global.css" crc="4001726669"/>
     <file name="master_contents.css" crc="335910395" ref="design:projects:research:chemistry:posters:photography:about-me:cheme-car"/>
