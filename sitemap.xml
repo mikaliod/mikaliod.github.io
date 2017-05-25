@@ -7,6 +7,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mikaliod.github.io/cheme-car.html</loc>
+    <lastmod>2017-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mikaliod.github.io/posters.html</loc>
+    <lastmod>2017-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mikaliod.github.io/images/comskill_yilind_horizontal.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mikaliod.github.io/images/bmeposter_rrevised_yilind%20copy.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://mikaliod.github.io/chemistry.html</loc>
     <lastmod>2017-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -52,22 +70,16 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/cheme-car.html</loc>
+    <loc>http://mikaliod.github.io/chemecarwebsite.html</loc>
     <lastmod>2017-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/posters.html</loc>
+    <loc>http://mikaliod.github.io/icancope.html</loc>
     <lastmod>2017-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mikaliod.github.io/images/comskill_yilind_horizontal.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mikaliod.github.io/images/bmeposter_rrevised_yilind%20copy.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://mikaliod.github.io/drawing.html</loc>
@@ -82,20 +94,41 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/chemecarwebsite.html</loc>
-    <lastmod>2017-05-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikaliod.github.io/icancope.html</loc>
-    <lastmod>2017-05-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mikaliod.github.io/hack112.html</loc>
     <lastmod>2017-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mikaliod.github.io/photography-copy.html</loc>
+    <lastmod>2017-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mikaliod.github.io/images/cactus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mikaliod.github.io/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mikaliod.github.io/images/trees.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mikaliod.github.io/home.html</loc>
+    <lastmod>2017-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mikaliod.github.io/assets/hollywood.jpg</loc>
+    <lastmod>2017-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mikaliod.github.io/assets/santamonica.jpg</loc>
+    <lastmod>2017-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -15,32 +15,51 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=3786047461"/>
-  <title>Home</title>
+  <title>Split Me</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4001726669"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=468855264" id="pagesheet"/>
-  <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/ZadAl-s6oeojyP-dwKQs4A6N86eX4ScNxzuCymft8WIfeGtgfJWLE3wPH263FQjaw28LwRIhFD9hZQI352sRjQJoFRSkZ2SojAFq5AJhw2ZyZR6-VKG0dA8njAUTdhb0Zh8X-YmKOc8zOeuT-hBC-ANqOciTieyujKoTdkUaiaS0dA8njAUTdhb0Zh8X-YmKOc8zJ6sk-AZXH6GJTrJgIMMjMkMfP6sFiWF8qMek_4D4gb.js" type="text/javascript"></script>
-  <!-- Other scripts -->
-  <script type="text/javascript">
-   try {Typekit.load();} catch(e) {}
-</script>
-   </head>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4198139351"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3948756470" id="pagesheet"/>
+    <!--HTML Widget code-->
+  
+<style>
+.u5365 {
+  position: relative;
+}
+ .u5365right, .u5365left {
+    position: absolute;
+  }
+
+
+.u5365left {
+  overflow: hidden;
+}
+</style>
+
+ </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="clearfix colelem" id="u198"><!-- group -->
-    <div class="clearfix grpelem" id="u122-4"><!-- content -->
-     <p id="u122-2">Mike</p>
-    </div>
-    <div class="rounded-corners grpelem" id="u195"><!-- simple frame --></div>
-    <div class="clearfix grpelem" id="u118-4"><!-- content -->
-     <p id="u118-2">Dong</p>
-    </div>
-   </div>
-   <a class="nonblock nontext Button clearfix colelem" id="buttonu2959" href="about-me.html"><!-- container box --><div class="Text clearfix grpelem" id="u2960-4"><!-- content --><p>Enter</p></div></a>
-   <div class="verticalspacer" data-offset-top="417" data-content-above-spacer="416" data-content-below-spacer="732"></div>
+   <div class="size_fixed pinned-colelem" id="u5365"><!-- custom html -->
+    
+<div class="u5365">
+  <div class="u5365right">
+    <img src="assets/santamonica.jpg" width="1440"/>
   </div>
+  <div class="u5365left">
+    <img src="assets/hollywood.jpg" width="1440"/>
+  </div>
+</div>
+
+   </div>
+   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="794"></div>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
@@ -59,5 +78,27 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=4234670167" type="text/javascript" async data-main="scripts/museconfig.js?crc=4152223963" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+<script type="text/javascript">
+var $u5365left = $('.u5365left'),
+		img_width = $('.u5365left img').width(),
+		init_split = Math.round(img_width/2);
+  
+  $u5365left.width(init_split);  
+
+		$('.u5365').mousemove(function(e){
+		var offX  = (e.offsetX || e.clientX - $u5365left.offset().left);
+			$u5365left.width(offX);
+		});
+
+		$('.u5365').mouseleave(function(e){
+		$u5365left.stop().animate({
+		width: init_split
+		},500)
+		});
+</script>
+
    </body>
 </html>
