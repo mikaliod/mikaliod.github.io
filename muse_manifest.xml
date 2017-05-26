@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.github.io" resolutions="1x" timestamp="1495753560837">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.github.io" resolutions="1x" timestamp="1495757152406">
   <folder name="assets">
     <file name="hollywood.jpg" crc="3984026799" seo="true" mt="1490394164000"/>
     <file name="santamonica.jpg" crc="302387515" seo="true" mt="1489699764000"/>
@@ -6,11 +6,11 @@
   <folder name="css">
     <file name="site_global.css" crc="4198139351"/>
     <file name="master_contents.css" crc="354763182" ref="112tp:research:chemecarwebsite:icancope:about-me:chemistry:cheme-car:design:posters:photography:drawing:hack112:projects:photography-copy"/>
-    <file name="nomq_preview_master_contents.css" crc="3824530138" ref="112tp:research:chemecarwebsite:icancope:about-me:chemistry:cheme-car:design:posters:drawing:hack112:projects:photography:photography-copy"/>
+    <file name="nomq_preview_master_contents.css" crc="3824530138" ref="112tp:research:chemecarwebsite:icancope:about-me:chemistry:cheme-car:posters:hack112:photography:photography-copy:design:projects"/>
     <file name="112tp.css" crc="3900285703" ref="112tp"/>
     <file name="research.css" crc="152566275" ref="research"/>
     <file name="chemecarwebsite.css" crc="3899143603" ref="chemecarwebsite"/>
-    <file name="index.css" crc="3948756470" ref="index"/>
+    <file name="index.css" crc="3788407115" ref="index"/>
     <file name="icancope.css" crc="3780749711" ref="icancope"/>
     <file name="about-me.css" crc="4119215217" ref="about-me"/>
     <file name="chemistry.css" crc="4130757533" ref="chemistry"/>
@@ -23,15 +23,15 @@
     <file name="hack112.css" crc="4158148084" ref="hack112"/>
     <file name="projects.css" crc="82940213" ref="projects"/>
     <file name="photography-copy.css" crc="4037744229" ref="photography-copy"/>
-    <file name="home.css" crc="4250579257" ref="home"/>
+    <file name="splitme.css" crc="228890258" ref="splitme"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:home"/>
-    <file name="museutils.js" crc="4232573551" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:home"/>
-    <file name="whatinput.js" crc="86476730" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:home"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:home"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:home"/>
-    <file name="require.js" crc="4234670167" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:home"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:splitme"/>
+    <file name="museutils.js" crc="4232573551" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:splitme"/>
+    <file name="whatinput.js" crc="86476730" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:splitme"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:splitme"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:splitme"/>
+    <file name="require.js" crc="4234670167" ref="index:chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy:splitme"/>
     <file name="webpro.js" crc="3770351119" ref="chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="chemistry:design:photography:projects:research:about-me:cheme-car:posters:drawing:112tp:chemecarwebsite:icancope:hack112:photography-copy"/>
@@ -40,7 +40,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="projects:about-me"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="chemistry:design:photography:projects:posters:112tp:chemecarwebsite:icancope:hack112:photography-copy"/>
+    <file name="blank.gif" crc="4208392903" ref="chemistry:design:photography:projects:posters:112tp:chemecarwebsite:icancope:hack112:photography-copy:drawing"/>
     <file name="santamonica.jpg" crc="75153158" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
     </file>
@@ -65,7 +65,7 @@
     <file name="bmeposter_rrevised_yilind copy.jpg" crc="3955770042" seo="true" ref="posters">
       <caption webpage="posters" alt=""/>
     </file>
-    <file name="favicon.ico" crc="3786047461" ref="home"/>
+    <file name="favicon.ico" crc="3786047461" ref="index:splitme:chemistry"/>
     <file name="cactus.jpg" crc="491424337" seo="true" ref="photography-copy">
       <caption webpage="photography-copy" alt=""/>
     </file>
@@ -76,20 +76,20 @@
       <caption webpage="photography-copy" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3877823442" seo="true" mt="1495753408709" redirect="true"/>
-  <file name="chemistry.html" crc="392451178" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="design.html" crc="4054959373" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="photography.html" crc="99897619" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="projects.html" crc="3825382663" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="research.html" crc="3809715713" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="about-me.html" crc="84453027" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="cheme-car.html" crc="399685455" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="posters.html" crc="187143441" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="drawing.html" crc="4187282592" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="112tp.html" crc="193828319" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="chemecarwebsite.html" crc="4067773711" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="icancope.html" crc="57910475" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="hack112.html" crc="3931232254" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="photography-copy.html" crc="188816081" seo="true" mt="1495752989095" redirect="true"/>
-  <file name="home.html" crc="4096021623" seo="true" mt="1495753551591" redirect="true"/>
+  <file name="index.html" crc="4046451778" seo="true" mt="1495757137580" redirect="true"/>
+  <file name="chemistry.html" crc="270244793" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="design.html" crc="463179675" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="photography.html" crc="4279596013" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="projects.html" crc="3839657345" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="research.html" crc="4061861823" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="about-me.html" crc="4236575332" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="cheme-car.html" crc="3982040499" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="posters.html" crc="3825806874" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="drawing.html" crc="97006354" seo="true" mt="1495756850790" redirect="true"/>
+  <file name="112tp.html" crc="4013764289" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="chemecarwebsite.html" crc="3963127212" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="icancope.html" crc="3791422865" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="hack112.html" crc="3895705195" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="photography-copy.html" crc="425748295" seo="true" mt="1495756468536" redirect="true"/>
+  <file name="splitme.html" crc="409774362" seo="true" mt="1495754504852" redirect="true"/>
 </manifest>
