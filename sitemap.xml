@@ -7,20 +7,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mikaliod.github.io/cheme-car.html</loc>
+    <lastmod>2017-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mikaliod.github.io/chemistry.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mikaliod.github.io/design.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mikaliod.github.io/photography.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,31 +41,31 @@
   </url>
   <url>
     <loc>http://mikaliod.github.io/projects.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mikaliod.github.io/research.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mikaliod.github.io/about-me.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/cheme-car.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <loc>http://mikaliod.github.io/chemecarwebsite.html</loc>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mikaliod.github.io/posters.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,37 +77,31 @@
   </url>
   <url>
     <loc>http://mikaliod.github.io/drawing.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mikaliod.github.io/112tp.html</loc>
-    <lastmod>2017-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikaliod.github.io/chemecarwebsite.html</loc>
-    <lastmod>2017-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikaliod.github.io/icancope.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mikaliod.github.io/hack112.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mikaliod.github.io/icancope.html</loc>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mikaliod.github.io/photography-copy.html</loc>
-    <lastmod>2017-05-26</lastmod>
+    <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -113,5 +113,11 @@
     <image:image>
       <image:loc>http://mikaliod.github.io/images/trees.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://mikaliod.github.io/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
+    <lastmod>2017-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
