@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.github.io" resolutions="1x" timestamp="1503290127182">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.github.io" resolutions="1x" timestamp="1503290347557">
   <folder name="assets">
     <file name="美蟹.jpg" crc="179678164" seo="true" mt="1500419860000"/>
   </folder>
@@ -79,7 +79,7 @@
       <caption webpage="photography-copy" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="293409920" seo="true" mt="1503289961803" redirect="true"/>
+  <file name="index.html" crc="229375610" seo="true" mt="1503290341332" redirect="true"/>
   <file name="chemistry.html" crc="3800067579" seo="true" mt="1503282546095" redirect="true"/>
   <file name="design.html" crc="3704916" seo="true" mt="1503282546095" redirect="true"/>
   <file name="photography.html" crc="466843704" seo="true" mt="1503282546095" redirect="true"/>
