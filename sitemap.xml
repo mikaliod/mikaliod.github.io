@@ -1,121 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mikaliod.github.io/index.html</loc>
+    <loc>http://mike-dong.com/index.html</loc>
     <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/cheme-car.html</loc>
+    <loc>http://mike-dong.com/cheme-car.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/chemistry.html</loc>
+    <loc>http://mike-dong.com/chemistry.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/design.html</loc>
+    <loc>http://mike-dong.com/design.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/photography.html</loc>
-    <lastmod>2017-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mikaliod.github.io/images/santamonica.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mikaliod.github.io/images/santamonicasunset.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mikaliod.github.io/images/hollywood.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://mikaliod.github.io/projects.html</loc>
-    <lastmod>2017-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikaliod.github.io/research.html</loc>
-    <lastmod>2017-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikaliod.github.io/about-me.html</loc>
-    <lastmod>2017-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikaliod.github.io/chemecarwebsite.html</loc>
-    <lastmod>2017-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mikaliod.github.io/posters.html</loc>
+    <loc>http://mike-dong.com/photography.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mikaliod.github.io/images/comskill_yilind_horizontal.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/santamonica.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mikaliod.github.io/images/bmeposter_rrevised_yilind%20copy.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/santamonicasunset.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/hollywood.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/drawing.html</loc>
+    <loc>http://mike-dong.com/projects.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/112tp.html</loc>
+    <loc>http://mike-dong.com/research.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/hack112.html</loc>
+    <loc>http://mike-dong.com/about-me.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/icancope.html</loc>
+    <loc>http://mike-dong.com/chemecarwebsite.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/photography-copy.html</loc>
+    <loc>http://mike-dong.com/posters.html</loc>
     <lastmod>2017-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mikaliod.github.io/images/cactus.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/comskill_yilind_horizontal.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mikaliod.github.io/images/road.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mikaliod.github.io/images/trees.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/bmeposter_rrevised_yilind%20copy.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://mikaliod.github.io/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
+    <loc>http://mike-dong.com/drawing.html</loc>
+    <lastmod>2017-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/112tp.html</loc>
+    <lastmod>2017-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/hack112.html</loc>
+    <lastmod>2017-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/icancope.html</loc>
+    <lastmod>2017-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/photography-copy.html</loc>
+    <lastmod>2017-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/cactus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/trees.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
     <lastmod>2017-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
