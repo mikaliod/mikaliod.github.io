@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1503343544144">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mike-dong.com" resolutions="1x" timestamp="1503343671423">
   <folder name="css">
     <file name="site_global.css" crc="160062470"/>
     <file name="master_contents.css" crc="300113930" ref="chemecarwebsite:112tp:lofo:about-me:science:med:projects:icancope:art:hack112"/>
@@ -43,15 +43,15 @@
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="404660135" seo="true" mt="1503301206839" redirect="true"/>
-  <file name="science.html" crc="268814322" seo="true" mt="1503301581693" redirect="true"/>
-  <file name="art.html" crc="198708079" seo="true" mt="1503301592536" redirect="true"/>
-  <file name="projects.html" crc="4249006281" seo="true" mt="1503301833575" redirect="true"/>
-  <file name="about-me.html" crc="535574529" seo="true" mt="1503301658915" redirect="true"/>
-  <file name="112tp.html" crc="232474262" seo="true" mt="1503301363785" redirect="true"/>
-  <file name="chemecarwebsite.html" crc="4276573824" seo="true" mt="1503301317552" redirect="true"/>
-  <file name="icancope.html" crc="177983881" seo="true" mt="1503301317552" redirect="true"/>
-  <file name="hack112.html" crc="4171126807" seo="true" mt="1503301317552" redirect="true"/>
-  <file name="med.html" crc="379539432" seo="true" mt="1503301348298" redirect="true"/>
-  <file name="lofo.html" crc="3929554433" seo="true" mt="1503301343936" redirect="true"/>
+  <file name="index.html" crc="212170951" seo="true" mt="1503301206839" redirect="true"/>
+  <file name="science.html" crc="3878869542" seo="true" mt="1503301581693" redirect="true"/>
+  <file name="art.html" crc="4243527355" seo="true" mt="1503301592536" redirect="true"/>
+  <file name="projects.html" crc="47565247" seo="true" mt="1503301833575" redirect="true"/>
+  <file name="about-me.html" crc="3839396854" seo="true" mt="1503301658915" redirect="true"/>
+  <file name="112tp.html" crc="165129575" seo="true" mt="1503301363785" redirect="true"/>
+  <file name="chemecarwebsite.html" crc="4180705579" seo="true" mt="1503301317552" redirect="true"/>
+  <file name="icancope.html" crc="3788588766" seo="true" mt="1503301317552" redirect="true"/>
+  <file name="hack112.html" crc="252514561" seo="true" mt="1503301317552" redirect="true"/>
+  <file name="med.html" crc="4200805955" seo="true" mt="1503301348298" redirect="true"/>
+  <file name="lofo.html" crc="98366552" seo="true" mt="1503301343936" redirect="true"/>
 </manifest>
