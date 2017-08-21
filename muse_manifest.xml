@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.github.io" resolutions="1x" timestamp="1503288900849">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.github.io" resolutions="1x" timestamp="1503290127182">
   <folder name="assets">
     <file name="美蟹.jpg" crc="179678164" seo="true" mt="1500419860000"/>
   </folder>
@@ -22,7 +22,7 @@
     <file name="112tp.css" crc="3982999684" ref="112tp"/>
     <file name="chemecarwebsite.css" crc="493504268" ref="chemecarwebsite"/>
     <file name="about-me.css" crc="3879830133" ref="about-me"/>
-    <file name="index.css" crc="415642201" ref="index"/>
+    <file name="index.css" crc="326066540" ref="index"/>
     <file name="research.css" crc="416358217" ref="research"/>
     <file name="drawing.css" crc="361193725" ref="drawing"/>
     <file name="cheme-car.css" crc="3809066054" ref="cheme-car"/>
@@ -43,7 +43,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="projects:about-me"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3786047461" ref="index"/>
+    <file name="favicon.ico" crc="238392154" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="chemistry:design:photography:projects:posters:112tp:chemecarwebsite:icancope:hack112:photography-copy:index"/>
     <file name="santamonica.jpg" crc="75153158" seo="true" ref="photography">
       <caption webpage="photography" alt=""/>
@@ -79,7 +79,7 @@
       <caption webpage="photography-copy" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4042983976" seo="true" mt="1503285512299" redirect="true"/>
+  <file name="index.html" crc="293409920" seo="true" mt="1503289961803" redirect="true"/>
   <file name="chemistry.html" crc="3800067579" seo="true" mt="1503282546095" redirect="true"/>
   <file name="design.html" crc="3704916" seo="true" mt="1503282546095" redirect="true"/>
   <file name="photography.html" crc="466843704" seo="true" mt="1503282546095" redirect="true"/>
