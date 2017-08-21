@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.github.io" resolutions="1x" timestamp="1503284253239">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaliod.github.io" resolutions="1x" timestamp="1503284561563">
   <folder name="assets">
     <file name="美蟹.jpg" crc="179678164" seo="true" mt="1500419860000"/>
   </folder>
@@ -8,7 +8,7 @@
     <file name="simple-line-icons.svg" crc="366436234"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="435179671"/>
+    <file name="site_global.css" crc="4247547996"/>
     <file name="master_contents.css" crc="495265806" ref="photography:projects:design:photography-copy:icancope:chemistry:hack112:112tp:chemecarwebsite:about-me:research:drawing:cheme-car:posters"/>
     <file name="nomq_preview_master_contents.css" crc="3824530138" ref="photography:projects:design:photography-copy:icancope:chemistry:hack112:112tp:chemecarwebsite:about-me:research:drawing:cheme-car:posters"/>
     <file name="photography.css" crc="62521369" ref="photography"/>
@@ -79,7 +79,7 @@
       <caption webpage="photography-copy" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="158732127" seo="true" mt="1503284223183" redirect="true"/>
+  <file name="index.html" crc="4234298456" seo="true" mt="1503284542781" redirect="true"/>
   <file name="chemistry.html" crc="3800067579" seo="true" mt="1503282546095" redirect="true"/>
   <file name="design.html" crc="3704916" seo="true" mt="1503282546095" redirect="true"/>
   <file name="photography.html" crc="466843704" seo="true" mt="1503282546095" redirect="true"/>
