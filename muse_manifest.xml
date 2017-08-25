@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mike-dong.com" resolutions="1x" timestamp="1503645142381">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mike-dong.com" resolutions="1x" timestamp="1503645188627">
   <folder name="css">
     <file name="site_global.css" crc="480759304"/>
     <file name="master_projects.css" crc="404025070" ref="construction:airbnbredesign:icancope:hack112:lofo:chemecarwebsite:wardrobe:pablo"/>
-    <file name="master_grandmaster.css" crc="4017877407" ref="construction:about-me:airbnbredesign:icancope:hack112:lofo:chemecarwebsite:science:wardrobe:pablo:art:projects"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="construction:about-me:airbnbredesign:icancope:hack112:lofo:chemecarwebsite:science:wardrobe:pablo:art:projects:index"/>
     <file name="master_directories.css" crc="371847302" ref="about-me:science:art:projects"/>
     <file name="construction.css" crc="3842997767" ref="construction"/>
     <file name="about-me.css" crc="3829574841" ref="about-me"/>
@@ -11,7 +11,7 @@
     <file name="hack112.css" crc="92447237" ref="hack112"/>
     <file name="lofo.css" crc="4221500118" ref="lofo"/>
     <file name="chemecarwebsite.css" crc="375492111" ref="chemecarwebsite"/>
-    <file name="index.css" crc="56977355" ref="index"/>
+    <file name="index.css" crc="250155273" ref="index"/>
     <file name="science.css" crc="3843715011" ref="science"/>
     <file name="wardrobe.css" crc="390852911" ref="wardrobe"/>
     <file name="pablo.css" crc="4126780440" ref="pablo"/>
@@ -45,7 +45,7 @@
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3958557540" seo="true" mt="1503644551095" redirect="true"/>
+  <file name="index.html" crc="3892306200" seo="true" mt="1503645177312" redirect="true"/>
   <file name="science.html" crc="4239029322" seo="true" mt="1503644630430" redirect="true"/>
   <file name="art.html" crc="4016683776" seo="true" mt="1503644630430" redirect="true"/>
   <file name="projects.html" crc="485083857" seo="true" mt="1503644630430" redirect="true"/>
