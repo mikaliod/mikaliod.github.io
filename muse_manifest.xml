@@ -1,22 +1,22 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mike-dong.com" resolutions="1x" timestamp="1503645188627">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mike-dong.com" resolutions="1x" timestamp="1503727228148">
   <folder name="css">
-    <file name="site_global.css" crc="480759304"/>
-    <file name="master_projects.css" crc="404025070" ref="construction:airbnbredesign:icancope:hack112:lofo:chemecarwebsite:wardrobe:pablo"/>
+    <file name="site_global.css" crc="4237323448"/>
+    <file name="master_projects.css" crc="87783491" ref="construction:airbnbredesign:icancope:hack112:lofo:chemecarwebsite:wardrobe:pablo"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="construction:about-me:airbnbredesign:icancope:hack112:lofo:chemecarwebsite:science:wardrobe:pablo:art:projects:index"/>
-    <file name="master_directories.css" crc="371847302" ref="about-me:science:art:projects"/>
-    <file name="construction.css" crc="3842997767" ref="construction"/>
-    <file name="about-me.css" crc="3829574841" ref="about-me"/>
-    <file name="airbnbredesign.css" crc="4126780440" ref="airbnbredesign"/>
-    <file name="icancope.css" crc="3948521032" ref="icancope"/>
-    <file name="hack112.css" crc="92447237" ref="hack112"/>
-    <file name="lofo.css" crc="4221500118" ref="lofo"/>
-    <file name="chemecarwebsite.css" crc="375492111" ref="chemecarwebsite"/>
-    <file name="index.css" crc="250155273" ref="index"/>
-    <file name="science.css" crc="3843715011" ref="science"/>
-    <file name="wardrobe.css" crc="390852911" ref="wardrobe"/>
-    <file name="pablo.css" crc="4126780440" ref="pablo"/>
-    <file name="art.css" crc="4251968006" ref="art"/>
-    <file name="projects.css" crc="409284403" ref="projects"/>
+    <file name="master_directories.css" crc="71428874" ref="about-me:science:art:projects"/>
+    <file name="construction.css" crc="3776692025" ref="construction"/>
+    <file name="about-me.css" crc="149045076" ref="about-me"/>
+    <file name="airbnbredesign.css" crc="3838215159" ref="airbnbredesign"/>
+    <file name="icancope.css" crc="4134141661" ref="icancope"/>
+    <file name="hack112.css" crc="3913394137" ref="hack112"/>
+    <file name="lofo.css" crc="461682782" ref="lofo"/>
+    <file name="chemecarwebsite.css" crc="4249249788" ref="chemecarwebsite"/>
+    <file name="index.css" crc="525237670" ref="index"/>
+    <file name="science.css" crc="4287308797" ref="science"/>
+    <file name="wardrobe.css" crc="498238225" ref="wardrobe"/>
+    <file name="pablo.css" crc="3838215159" ref="pablo"/>
+    <file name="art.css" crc="48484908" ref="art"/>
+    <file name="projects.css" crc="306474750" ref="projects"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -36,26 +36,37 @@
     <file name="museconfig.js" crc="278381782" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
     <file name="jquery.watch.js" crc="4240030481" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
     <file name="require.js" crc="3861931657" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="about-me"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="about-me:lofo"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index"/>
+    <file name="favicon.ico" crc="238392154" ref="index:lofo:projects"/>
     <file name="blank.gif" crc="4208392903" ref="index:projects:lofo"/>
     <file name="mikedong.jpg" crc="3869679665" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
+    <file name="lofo logo.png" crc="139178866" ref="lofo">
+      <caption webpage="lofo" alt=""/>
+      <caption webpage="lofo" alt=""/>
+    </file>
+    <file name="perspective app screens mock-up.jpg" crc="4066672306" ref="lofo">
+      <caption webpage="lofo" alt=""/>
+      <caption webpage="lofo" alt=""/>
+    </file>
+    <file name="stakeholder.jpg" crc="256157776" seo="true" ref="lofo">
+      <caption webpage="lofo" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3892306200" seo="true" mt="1503645177312" redirect="true"/>
-  <file name="science.html" crc="4239029322" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="art.html" crc="4016683776" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="projects.html" crc="485083857" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="about-me.html" crc="4255225532" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="wardrobe.html" crc="20316177" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="chemecarwebsite.html" crc="372053619" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="icancope.html" crc="526852548" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="hack112.html" crc="416245959" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="pablo.html" crc="332634582" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="lofo.html" crc="237989726" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="airbnbredesign.html" crc="4232601427" seo="true" mt="1503644630430" redirect="true"/>
-  <file name="construction.html" crc="3838984028" seo="true" mt="1503644630430" redirect="true"/>
+  <file name="index.html" crc="374711758" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="science.html" crc="3812664875" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="art.html" crc="3790208421" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="projects.html" crc="3960647706" seo="true" mt="1503727054843" redirect="true"/>
+  <file name="about-me.html" crc="315888544" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="wardrobe.html" crc="3866684204" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="chemecarwebsite.html" crc="4003722980" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="icancope.html" crc="12223435" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="hack112.html" crc="4196263341" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="pablo.html" crc="4210180264" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="lofo.html" crc="79724364" seo="true" mt="1503727220452" redirect="true"/>
+  <file name="airbnbredesign.html" crc="298149296" seo="true" mt="1503716293890" redirect="true"/>
+  <file name="construction.html" crc="322393475" seo="true" mt="1503716293890" redirect="true"/>
 </manifest>
