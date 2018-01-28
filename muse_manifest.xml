@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517175710515">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517176048515">
   <folder name="css">
     <file name="site_global.css" crc="4074981158"/>
     <file name="master_projects.css" crc="172040803" ref="helixredesign:financialfeud:construction:upark:lofo"/>
-    <file name="master_directories.css" crc="42558060" ref="projects:index:science:about-me"/>
+    <file name="master_directories.css" crc="368672820" ref="projects:index:science:about-me"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:construction:upark:index:lofo:science:about-me"/>
     <file name="helixredesign.css" crc="4239966138" ref="helixredesign"/>
     <file name="financialfeud.css" crc="327293065" ref="financialfeud"/>
@@ -53,13 +53,13 @@
       <caption webpage="lofo" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="328219215" seo="true" mt="1517175702070" redirect="true"/>
-  <file name="science.html" crc="307789560" seo="true" mt="1517175353775" redirect="true"/>
-  <file name="projects.html" crc="158520302" seo="true" mt="1517175353775" redirect="true"/>
-  <file name="about-me.html" crc="168715392" seo="true" mt="1517175353775" redirect="true"/>
-  <file name="financialfeud.html" crc="4287543786" seo="true" mt="1517174346225" redirect="true"/>
-  <file name="upark.html" crc="3884585361" seo="true" mt="1517174346225" redirect="true"/>
-  <file name="lofo.html" crc="496977231" seo="true" mt="1517174346225" redirect="true"/>
-  <file name="helixredesign.html" crc="3993279997" seo="true" mt="1517174346225" redirect="true"/>
-  <file name="construction.html" crc="103392388" seo="true" mt="1517174346225" redirect="true"/>
+  <file name="index.html" crc="84481335" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="science.html" crc="251968112" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="projects.html" crc="513288916" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="about-me.html" crc="3812157833" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="financialfeud.html" crc="4056005156" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="upark.html" crc="4217361392" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="lofo.html" crc="224223956" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="helixredesign.html" crc="3850918049" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="construction.html" crc="4157889531" seo="true" mt="1517176025206" redirect="true"/>
 </manifest>
