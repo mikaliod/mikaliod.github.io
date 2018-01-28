@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517173746469">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517175710515">
   <folder name="css">
     <file name="site_global.css" crc="4074981158"/>
     <file name="master_projects.css" crc="172040803" ref="helixredesign:financialfeud:construction:upark:lofo"/>
-    <file name="master_directories.css" crc="4127584505" ref="projects:index:science:about-me"/>
+    <file name="master_directories.css" crc="42558060" ref="projects:index:science:about-me"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:construction:upark:index:lofo:science:about-me"/>
-    <file name="helixredesign.css" crc="3889340942" ref="helixredesign"/>
-    <file name="financialfeud.css" crc="4161330366" ref="financialfeud"/>
-    <file name="projects.css" crc="384047634" ref="projects"/>
-    <file name="construction.css" crc="324800770" ref="construction"/>
-    <file name="upark.css" crc="3889340942" ref="upark"/>
-    <file name="index.css" crc="4172736047" ref="index"/>
-    <file name="lofo.css" crc="299243456" ref="lofo"/>
-    <file name="science.css" crc="44825744" ref="science"/>
-    <file name="about-me.css" crc="3901875074" ref="about-me"/>
+    <file name="helixredesign.css" crc="4239966138" ref="helixredesign"/>
+    <file name="financialfeud.css" crc="327293065" ref="financialfeud"/>
+    <file name="projects.css" crc="135662641" ref="projects"/>
+    <file name="construction.css" crc="4087446522" ref="construction"/>
+    <file name="upark.css" crc="4239966138" ref="upark"/>
+    <file name="index.css" crc="4085985778" ref="index"/>
+    <file name="lofo.css" crc="38106764" ref="lofo"/>
+    <file name="science.css" crc="4050566488" ref="science"/>
+    <file name="about-me.css" crc="469579322" ref="about-me"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -53,13 +53,13 @@
       <caption webpage="lofo" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4025541115" seo="true" mt="1517173686289" redirect="true"/>
-  <file name="science.html" crc="502254151" seo="true" mt="1517172355646" redirect="true"/>
-  <file name="projects.html" crc="3961225170" seo="true" mt="1517172355646" redirect="true"/>
-  <file name="about-me.html" crc="528408899" seo="true" mt="1517172355646" redirect="true"/>
-  <file name="financialfeud.html" crc="101933502" seo="true" mt="1517171946733" redirect="true"/>
-  <file name="upark.html" crc="305850552" seo="true" mt="1517171946733" redirect="true"/>
-  <file name="lofo.html" crc="3958025307" seo="true" mt="1517171946733" redirect="true"/>
-  <file name="helixredesign.html" crc="342241891" seo="true" mt="1517171946733" redirect="true"/>
-  <file name="construction.html" crc="4183316845" seo="true" mt="1517171946737" redirect="true"/>
+  <file name="index.html" crc="328219215" seo="true" mt="1517175702070" redirect="true"/>
+  <file name="science.html" crc="307789560" seo="true" mt="1517175353775" redirect="true"/>
+  <file name="projects.html" crc="158520302" seo="true" mt="1517175353775" redirect="true"/>
+  <file name="about-me.html" crc="168715392" seo="true" mt="1517175353775" redirect="true"/>
+  <file name="financialfeud.html" crc="4287543786" seo="true" mt="1517174346225" redirect="true"/>
+  <file name="upark.html" crc="3884585361" seo="true" mt="1517174346225" redirect="true"/>
+  <file name="lofo.html" crc="496977231" seo="true" mt="1517174346225" redirect="true"/>
+  <file name="helixredesign.html" crc="3993279997" seo="true" mt="1517174346225" redirect="true"/>
+  <file name="construction.html" crc="103392388" seo="true" mt="1517174346225" redirect="true"/>
 </manifest>
