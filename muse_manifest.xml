@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517176831054">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517178346270">
   <folder name="css">
-    <file name="site_global.css" crc="4074981158"/>
+    <file name="site_global.css" crc="9253406"/>
     <file name="master_projects.css" crc="172040803" ref="helixredesign:financialfeud:construction:upark:lofo"/>
-    <file name="master_directories.css" crc="42558060" ref="projects:index:science:about-me"/>
+    <file name="master_directories.css" crc="3975575025" ref="projects:index:science:about-me"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:construction:upark:index:lofo:science:about-me"/>
     <file name="helixredesign.css" crc="4239966138" ref="helixredesign"/>
     <file name="financialfeud.css" crc="4239966138" ref="financialfeud"/>
-    <file name="projects.css" crc="3908825410" ref="projects"/>
+    <file name="projects.css" crc="358803147" ref="projects"/>
     <file name="construction.css" crc="4087446522" ref="construction"/>
     <file name="upark.css" crc="4239966138" ref="upark"/>
-    <file name="index.css" crc="303820377" ref="index"/>
+    <file name="index.css" crc="408207270" ref="index"/>
     <file name="lofo.css" crc="299243456" ref="lofo"/>
-    <file name="science.css" crc="4050566488" ref="science"/>
-    <file name="about-me.css" crc="469579322" ref="about-me"/>
+    <file name="science.css" crc="1112725" ref="science"/>
+    <file name="about-me.css" crc="3978831909" ref="about-me"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -36,7 +36,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about-me:lofo"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index"/>
+    <file name="favicon.ico" crc="238392154" ref="index:projects"/>
     <file name="blank.gif" crc="4208392903" ref="lofo"/>
     <file name="mikedong.jpg" crc="3869679665" ref="about-me">
       <caption webpage="about-me" alt=""/>
@@ -53,10 +53,10 @@
       <caption webpage="lofo" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="277795193" seo="true" mt="1517176825127" redirect="true"/>
-  <file name="science.html" crc="251968112" seo="true" mt="1517176025206" redirect="true"/>
-  <file name="projects.html" crc="284371815" seo="true" mt="1517176587160" redirect="true"/>
-  <file name="about-me.html" crc="3812157833" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="index.html" crc="3772925070" seo="true" mt="1517177454607" redirect="true"/>
+  <file name="science.html" crc="333459877" seo="true" mt="1517177221618" redirect="true"/>
+  <file name="projects.html" crc="156270383" seo="true" mt="1517178250856" redirect="true"/>
+  <file name="about-me.html" crc="3801412859" seo="true" mt="1517177221618" redirect="true"/>
   <file name="financialfeud.html" crc="420628980" seo="true" mt="1517176626167" redirect="true"/>
   <file name="upark.html" crc="4217361392" seo="true" mt="1517176025206" redirect="true"/>
   <file name="lofo.html" crc="304366455" seo="true" mt="1517176665152" redirect="true"/>
