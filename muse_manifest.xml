@@ -1,22 +1,18 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1504471131164">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517171300910">
   <folder name="css">
-    <file name="site_global.css" crc="4039646442"/>
-    <file name="master_projects.css" crc="404025070" ref="wardrobe:icancope:chemecarwebsite:construction:airbnbredesign:lofo:pablo:hack112"/>
-    <file name="master_directories.css" crc="3818382230" ref="science:about-me:art:projects"/>
-    <file name="master_grandmaster.css" crc="4017877407" ref="wardrobe:science:icancope:about-me:chemecarwebsite:construction:art:airbnbredesign:lofo:pablo:projects:hack112"/>
-    <file name="wardrobe.css" crc="4218978499" ref="wardrobe"/>
-    <file name="science.css" crc="13876039" ref="science"/>
-    <file name="icancope.css" crc="4245666142" ref="icancope"/>
-    <file name="index.css" crc="3913146152" ref="index"/>
-    <file name="about-me.css" crc="422104468" ref="about-me"/>
-    <file name="chemecarwebsite.css" crc="3973215009" ref="chemecarwebsite"/>
+    <file name="site_global.css" crc="122379214"/>
+    <file name="master_projects.css" crc="172040803" ref="helixredesign:financialfeud:construction:upark:lofo"/>
+    <file name="master_directories.css" crc="4241114223" ref="projects:index:science:about-me"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:construction:upark:index:lofo:science:about-me"/>
+    <file name="helixredesign.css" crc="3889340942" ref="helixredesign"/>
+    <file name="financialfeud.css" crc="4161330366" ref="financialfeud"/>
+    <file name="projects.css" crc="384047634" ref="projects"/>
     <file name="construction.css" crc="324800770" ref="construction"/>
-    <file name="art.css" crc="47503979" ref="art"/>
-    <file name="airbnbredesign.css" crc="3889340942" ref="airbnbredesign"/>
-    <file name="lofo.css" crc="314869480" ref="lofo"/>
-    <file name="pablo.css" crc="3889340942" ref="pablo"/>
-    <file name="projects.css" crc="3815339629" ref="projects"/>
-    <file name="hack112.css" crc="522729778" ref="hack112"/>
+    <file name="upark.css" crc="3889340942" ref="upark"/>
+    <file name="index.css" crc="234319779" ref="index"/>
+    <file name="lofo.css" crc="299243456" ref="lofo"/>
+    <file name="science.css" crc="44825744" ref="science"/>
+    <file name="about-me.css" crc="3901875074" ref="about-me"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -30,19 +26,23 @@
     <file name="美蟹.jpg" crc="179678164" seo="true" mt="1500419860000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
-    <file name="museutils.js" crc="17924269" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
-    <file name="whatinput.js" crc="86476730" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
-    <file name="museconfig.js" crc="278381782" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
-    <file name="require.js" crc="3861931657" ref="index:science:art:projects:about-me:wardrobe:chemecarwebsite:icancope:hack112:pablo:lofo:airbnbredesign:construction"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="about-me:lofo"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:construction"/>
+    <file name="museutils.js" crc="3803043152" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:construction"/>
+    <file name="whatinput.js" crc="86476730" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:construction"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:construction"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:construction"/>
+    <file name="require.js" crc="4157109226" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:construction"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about-me:lofo"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="238392154" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:projects:lofo"/>
+    <file name="blank.gif" crc="4208392903" ref="projects:lofo"/>
     <file name="mikedong.jpg" crc="3869679665" ref="about-me">
       <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="lofo logo.png" crc="139178866" ref="lofo">
+      <caption webpage="lofo" alt=""/>
+      <caption webpage="lofo" alt=""/>
     </file>
     <file name="perspective app screens mock-up.jpg" crc="4066672306" ref="lofo">
       <caption webpage="lofo" alt=""/>
@@ -51,22 +51,14 @@
     <file name="stakeholder.jpg" crc="256157776" seo="true" ref="lofo">
       <caption webpage="lofo" alt=""/>
     </file>
-    <file name="lofo logo.png" crc="139178866" ref="lofo">
-      <caption webpage="lofo" alt=""/>
-      <caption webpage="lofo" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4002843183" seo="true" mt="1503786706547" redirect="true"/>
-  <file name="science.html" crc="493817358" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="art.html" crc="3220468" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="projects.html" crc="84691535" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="about-me.html" crc="4056274829" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="wardrobe.html" crc="4058414382" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="chemecarwebsite.html" crc="4219698779" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="icancope.html" crc="4155853215" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="hack112.html" crc="3891416558" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="pablo.html" crc="4259713341" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="lofo.html" crc="157243764" seo="true" mt="1504277328505" redirect="true"/>
-  <file name="airbnbredesign.html" crc="28349140" seo="true" mt="1503786483880" redirect="true"/>
-  <file name="construction.html" crc="4155036322" seo="true" mt="1503786483880" redirect="true"/>
+  <file name="index.html" crc="193172831" seo="true" mt="1517171270226" redirect="true"/>
+  <file name="science.html" crc="4072171279" seo="true" mt="1517171270226" redirect="true"/>
+  <file name="projects.html" crc="4173758150" seo="true" mt="1517171270226" redirect="true"/>
+  <file name="about-me.html" crc="424461760" seo="true" mt="1517171270226" redirect="true"/>
+  <file name="financialfeud.html" crc="4194049829" seo="true" mt="1517170562586" redirect="true"/>
+  <file name="upark.html" crc="81282265" seo="true" mt="1517170562586" redirect="true"/>
+  <file name="lofo.html" crc="446745486" seo="true" mt="1517170562586" redirect="true"/>
+  <file name="helixredesign.html" crc="81241101" seo="true" mt="1517170562586" redirect="true"/>
+  <file name="construction.html" crc="20983876" seo="true" mt="1517170562586" redirect="true"/>
 </manifest>
