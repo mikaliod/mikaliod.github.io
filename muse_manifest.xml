@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517196142921">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517202376706">
   <folder name="css">
     <file name="site_global.css" crc="4074981158"/>
     <file name="master_projects.css" crc="404025070" ref="helixredesign:financialfeud:construction:upark:lofo"/>
-    <file name="master_directories.css" crc="296919797" ref="projects:index:science:about-me"/>
+    <file name="master_directories.css" crc="65271152" ref="projects:index:science:about-me"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:construction:upark:index:lofo:science:about-me"/>
     <file name="helixredesign.css" crc="4239966138" ref="helixredesign"/>
     <file name="financialfeud.css" crc="4239966138" ref="financialfeud"/>
@@ -12,7 +12,7 @@
     <file name="index.css" crc="4229926006" ref="index"/>
     <file name="lofo.css" crc="299243456" ref="lofo"/>
     <file name="science.css" crc="447494641" ref="science"/>
-    <file name="about-me.css" crc="391112897" ref="about-me"/>
+    <file name="about-me.css" crc="4007250953" ref="about-me"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -24,7 +24,7 @@
   </folder>
   <folder name="assets">
     <file name="美蟹.jpg" crc="179678164" seo="true" mt="1500419860000"/>
-    <file name="resume_s18_yilind.pdf" crc="4238546698" seo="true" mt="1516593091000"/>
+    <file name="resume_s18_yilind.pdf" crc="45135170" seo="true" mt="1517198021000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:construction"/>
@@ -57,7 +57,7 @@
   <file name="index.html" crc="3966919704" seo="true" mt="1517195949428" redirect="true"/>
   <file name="science.html" crc="3971762396" seo="true" mt="1517195343436" redirect="true"/>
   <file name="projects.html" crc="4176571416" seo="true" mt="1517195343436" redirect="true"/>
-  <file name="about-me.html" crc="4041296265" seo="true" mt="1517196132815" redirect="true"/>
+  <file name="about-me.html" crc="3772412435" seo="true" mt="1517202275310" redirect="true"/>
   <file name="financialfeud.html" crc="420628980" seo="true" mt="1517176626167" redirect="true"/>
   <file name="upark.html" crc="261288327" seo="true" mt="1517192873592" redirect="true"/>
   <file name="lofo.html" crc="304366455" seo="true" mt="1517176665152" redirect="true"/>
