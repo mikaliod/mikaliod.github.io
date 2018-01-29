@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517178346270">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517196142921">
   <folder name="css">
-    <file name="site_global.css" crc="9253406"/>
-    <file name="master_projects.css" crc="172040803" ref="helixredesign:financialfeud:construction:upark:lofo"/>
-    <file name="master_directories.css" crc="3975575025" ref="projects:index:science:about-me"/>
+    <file name="site_global.css" crc="4074981158"/>
+    <file name="master_projects.css" crc="404025070" ref="helixredesign:financialfeud:construction:upark:lofo"/>
+    <file name="master_directories.css" crc="296919797" ref="projects:index:science:about-me"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:construction:upark:index:lofo:science:about-me"/>
     <file name="helixredesign.css" crc="4239966138" ref="helixredesign"/>
     <file name="financialfeud.css" crc="4239966138" ref="financialfeud"/>
-    <file name="projects.css" crc="358803147" ref="projects"/>
+    <file name="projects.css" crc="4264776232" ref="projects"/>
     <file name="construction.css" crc="4087446522" ref="construction"/>
     <file name="upark.css" crc="4239966138" ref="upark"/>
-    <file name="index.css" crc="408207270" ref="index"/>
+    <file name="index.css" crc="4229926006" ref="index"/>
     <file name="lofo.css" crc="299243456" ref="lofo"/>
-    <file name="science.css" crc="1112725" ref="science"/>
-    <file name="about-me.css" crc="3978831909" ref="about-me"/>
+    <file name="science.css" crc="447494641" ref="science"/>
+    <file name="about-me.css" crc="391112897" ref="about-me"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -36,11 +36,8 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about-me:lofo"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index:projects"/>
+    <file name="favicon.ico" crc="238392154" ref="index:about-me"/>
     <file name="blank.gif" crc="4208392903" ref="lofo"/>
-    <file name="mikedong.jpg" crc="3869679665" ref="about-me">
-      <caption webpage="about-me" alt=""/>
-    </file>
     <file name="lofo logo.png" crc="139178866" ref="lofo">
       <caption webpage="lofo" alt=""/>
       <caption webpage="lofo" alt=""/>
@@ -52,13 +49,17 @@
     <file name="stakeholder.jpg" crc="256157776" seo="true" ref="lofo">
       <caption webpage="lofo" alt=""/>
     </file>
+    <file name="img_5726.jpg" crc="447181372" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3772925070" seo="true" mt="1517177454607" redirect="true"/>
-  <file name="science.html" crc="333459877" seo="true" mt="1517177221618" redirect="true"/>
-  <file name="projects.html" crc="156270383" seo="true" mt="1517178250856" redirect="true"/>
-  <file name="about-me.html" crc="3801412859" seo="true" mt="1517177221618" redirect="true"/>
+  <file name="index.html" crc="3966919704" seo="true" mt="1517195949428" redirect="true"/>
+  <file name="science.html" crc="3971762396" seo="true" mt="1517195343436" redirect="true"/>
+  <file name="projects.html" crc="4176571416" seo="true" mt="1517195343436" redirect="true"/>
+  <file name="about-me.html" crc="4041296265" seo="true" mt="1517196132815" redirect="true"/>
   <file name="financialfeud.html" crc="420628980" seo="true" mt="1517176626167" redirect="true"/>
-  <file name="upark.html" crc="4217361392" seo="true" mt="1517176025206" redirect="true"/>
+  <file name="upark.html" crc="261288327" seo="true" mt="1517192873592" redirect="true"/>
   <file name="lofo.html" crc="304366455" seo="true" mt="1517176665152" redirect="true"/>
   <file name="helixredesign.html" crc="3850918049" seo="true" mt="1517176025206" redirect="true"/>
   <file name="construction.html" crc="4157889531" seo="true" mt="1517176025206" redirect="true"/>
