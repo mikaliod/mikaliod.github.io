@@ -1,23 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517390156601">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517391641367">
   <folder name="css">
-    <file name="site_global.css" crc="4074981158"/>
+    <file name="site_global.css" crc="9253406"/>
     <file name="master_projects.css" crc="172040803" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi"/>
-    <file name="master_grandmaster.css" crc="4162716549" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi"/>
     <file name="helixredesign.css" crc="4092908038" ref="helixredesign"/>
     <file name="financialfeud.css" crc="438695618" ref="financialfeud"/>
-    <file name="projects.css" crc="448159197" ref="projects"/>
+    <file name="projects.css" crc="37589239" ref="projects"/>
     <file name="upark.css" crc="4087665448" ref="upark"/>
-    <file name="index.css" crc="3948787033" ref="index"/>
+    <file name="index.css" crc="3955655355" ref="index"/>
     <file name="lofo.css" crc="299243456" ref="lofo"/>
-    <file name="science.css" crc="3872292261" ref="science"/>
-    <file name="about-me.css" crc="3887854851" ref="about-me"/>
+    <file name="science.css" crc="265443148" ref="science"/>
+    <file name="about-me.css" crc="4031727310" ref="about-me"/>
     <file name="daslab.css" crc="203111506" ref="daslab"/>
     <file name="liver.css" crc="3823245234" ref="liver"/>
     <file name="labi.css" crc="4035873234" ref="labi"/>
-    <file name="master_directoriestemp.css" crc="3793665444" ref="science:index:projects:about-me"/>
-    <file name="nomq_preview_master_grandmaster.css" crc="3824530138" ref="index"/>
-    <file name="nomq_preview_master_directoriestemp.css" crc="3824530138" ref="index"/>
-    <file name="nomq_index.css" crc="3943352470" ref="index"/>
+    <file name="master_directoriestemp.css" crc="335417874" ref="science:index:projects:about-me"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -43,7 +40,6 @@
     <file name="musewpslideshow.js" crc="457073769" ref="projects:science"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="projects:science"/>
     <file name="touchswipe.js" crc="4066113679" ref="projects:science"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="238392154" ref="index"/>
@@ -64,10 +60,10 @@
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3860156954" seo="true" mt="1517390150336" redirect="true"/>
-  <file name="science.html" crc="3939603654" seo="true" mt="1517389571651" redirect="true"/>
-  <file name="projects.html" crc="3958634503" seo="true" mt="1517389560432" redirect="true"/>
-  <file name="about-me.html" crc="4204641755" seo="true" mt="1517389574035" redirect="true"/>
+  <file name="index.html" crc="254227655" seo="true" mt="1517391529526" redirect="true"/>
+  <file name="science.html" crc="4121009980" seo="true" mt="1517391046018" redirect="true"/>
+  <file name="projects.html" crc="4234984534" seo="true" mt="1517391046018" redirect="true"/>
+  <file name="about-me.html" crc="4291376562" seo="true" mt="1517391046018" redirect="true"/>
   <file name="financialfeud.html" crc="332539275" seo="true" mt="1517388765848" redirect="true"/>
   <file name="upark.html" crc="4081861231" seo="true" mt="1517388740858" redirect="true"/>
   <file name="lofo.html" crc="304366455" seo="true" mt="1517176665152" redirect="true"/>
