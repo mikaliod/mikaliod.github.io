@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517389326572">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517389423205">
   <folder name="css">
     <file name="site_global.css" crc="9253406"/>
     <file name="master_projects.css" crc="172040803" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi"/>
@@ -10,7 +10,7 @@
     <file name="upark.css" crc="4087665448" ref="upark"/>
     <file name="index.css" crc="34833772" ref="index"/>
     <file name="lofo.css" crc="299243456" ref="lofo"/>
-    <file name="science.css" crc="184394951" ref="science"/>
+    <file name="science.css" crc="3761038876" ref="science"/>
     <file name="about-me.css" crc="315937929" ref="about-me"/>
     <file name="daslab.css" crc="203111506" ref="daslab"/>
     <file name="liver.css" crc="3823245234" ref="liver"/>
@@ -61,7 +61,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4285750009" seo="true" mt="1517388220033" redirect="true"/>
-  <file name="science.html" crc="4021931478" seo="true" mt="1517389317843" redirect="true"/>
+  <file name="science.html" crc="303239073" seo="true" mt="1517389409560" redirect="true"/>
   <file name="projects.html" crc="241985555" seo="true" mt="1517388884787" redirect="true"/>
   <file name="about-me.html" crc="227484011" seo="true" mt="1517388220033" redirect="true"/>
   <file name="financialfeud.html" crc="332539275" seo="true" mt="1517388765848" redirect="true"/>
