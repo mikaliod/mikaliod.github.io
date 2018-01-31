@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517379294071">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517379963798">
   <folder name="css">
     <file name="site_global.css" crc="9253406"/>
     <file name="master_projects.css" crc="172040803" ref="helixredesign:financialfeud:construction:upark:lofo"/>
