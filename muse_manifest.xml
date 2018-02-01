@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517522913074">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517523426113">
   <folder name="css">
     <file name="site_global.css" crc="4001486685"/>
     <file name="master_projects.css" crc="171991329" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi"/>
     <file name="helixredesign.css" crc="4076771262" ref="helixredesign"/>
     <file name="financialfeud.css" crc="3973803821" ref="financialfeud"/>
-    <file name="projects.css" crc="4159202765" ref="projects"/>
+    <file name="projects.css" crc="3836427702" ref="projects"/>
     <file name="upark.css" crc="502657380" ref="upark"/>
-    <file name="index.css" crc="7916525" ref="index"/>
+    <file name="index.css" crc="4282890741" ref="index"/>
     <file name="lofo.css" crc="3846165391" ref="lofo"/>
-    <file name="science.css" crc="265443148" ref="science"/>
-    <file name="about-me.css" crc="3886389285" ref="about-me"/>
+    <file name="science.css" crc="4213689941" ref="science"/>
+    <file name="about-me.css" crc="35428573" ref="about-me"/>
     <file name="daslab.css" crc="203111506" ref="daslab"/>
     <file name="liver.css" crc="3823245234" ref="liver"/>
     <file name="labi.css" crc="4035873234" ref="labi"/>
-    <file name="master_directoriestemp.css" crc="192065451" ref="science:index:projects:about-me"/>
+    <file name="master_directoriestemp.css" crc="475685789" ref="science:index:projects:about-me"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -46,7 +46,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="projects:science"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index:science:projects:lofo:about-me"/>
+    <file name="favicon.ico" crc="238392154" ref="index:lofo"/>
     <file name="img_5726.jpg" crc="447181372" ref="about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -146,11 +146,11 @@
       <caption webpage="financialfeud" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="390560646" seo="true" mt="1517521968250" redirect="true"/>
-  <file name="science.html" crc="4122260590" seo="true" mt="1517457249572" redirect="true"/>
-  <file name="projects.html" crc="3763193341" seo="true" mt="1517522907238" redirect="true"/>
-  <file name="about-me.html" crc="123498473" seo="true" mt="1517522203786" redirect="true"/>
-  <file name="financialfeud.html" crc="514045395" seo="true" mt="1517521826252" redirect="true"/>
+  <file name="index.html" crc="532238716" seo="true" mt="1517523333347" redirect="true"/>
+  <file name="science.html" crc="298899542" seo="true" mt="1517523333347" redirect="true"/>
+  <file name="projects.html" crc="4082567843" seo="true" mt="1517523333347" redirect="true"/>
+  <file name="about-me.html" crc="3847522126" seo="true" mt="1517523333347" redirect="true"/>
+  <file name="financialfeud.html" crc="3878085785" seo="true" mt="1517523223026" redirect="true"/>
   <file name="upark.html" crc="4040361258" seo="true" mt="1517506191107" redirect="true"/>
   <file name="lofo.html" crc="302606394" seo="true" mt="1517464753385" redirect="true"/>
   <file name="helixredesign.html" crc="3855900118" seo="true" mt="1517464633205" redirect="true"/>
