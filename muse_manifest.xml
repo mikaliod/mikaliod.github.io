@@ -1,21 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517523874620">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517526084297">
   <folder name="css">
     <file name="site_global.css" crc="4001486685"/>
-    <file name="master_projects.css" crc="171991329" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi"/>
-    <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi"/>
-    <file name="helixredesign.css" crc="4076771262" ref="helixredesign"/>
-    <file name="financialfeud.css" crc="3973803821" ref="financialfeud"/>
+    <file name="master_projects.css" crc="209060140" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi:financialfeudtemp:lofotemp"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi:financialfeudtemp:lofotemp"/>
+    <file name="helixredesign.css" crc="4253718527" ref="helixredesign"/>
+    <file name="financialfeud.css" crc="271627460" ref="financialfeud"/>
     <file name="projects.css" crc="309283050" ref="projects"/>
-    <file name="upark.css" crc="502657380" ref="upark"/>
+    <file name="upark.css" crc="252857989" ref="upark"/>
     <file name="index.css" crc="7916525" ref="index"/>
-    <file name="lofo.css" crc="3846165391" ref="lofo"/>
+    <file name="lofo.css" crc="4128919616" ref="lofo"/>
     <file name="science.css" crc="195095684" ref="science"/>
     <file name="about-me.css" crc="31841417" ref="about-me"/>
-    <file name="daslab.css" crc="203111506" ref="daslab"/>
-    <file name="liver.css" crc="3823245234" ref="liver"/>
-    <file name="labi.css" crc="4035873234" ref="labi"/>
+    <file name="daslab.css" crc="3980695232" ref="daslab"/>
+    <file name="liver.css" crc="3771949837" ref="liver"/>
+    <file name="labi.css" crc="4278222933" ref="labi"/>
     <file name="master_directoriestemp.css" crc="475685789" ref="science:index:about-me"/>
     <file name="master_projectsdirectoriestemp.css" crc="233203149" ref="projects"/>
+    <file name="financialfeudtemp.css" crc="4228602275" ref="financialfeudtemp"/>
+    <file name="lofotemp.css" crc="4288283043" ref="lofotemp"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -34,20 +36,20 @@
     <file name="service-design---final-process-book.pdf" crc="515912626" seo="true" mt="1517469818000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
-    <file name="museutils.js" crc="3803043152" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
-    <file name="whatinput.js" crc="86476730" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
-    <file name="require.js" crc="4157109226" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about-me:lofo:projects:helixredesign:upark:financialfeud"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver:lofotemp:financialfeudtemp"/>
+    <file name="museutils.js" crc="3803043152" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver:lofotemp:financialfeudtemp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver:lofotemp:financialfeudtemp"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver:lofotemp:financialfeudtemp"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver:lofotemp:financialfeudtemp"/>
+    <file name="require.js" crc="4157109226" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver:lofotemp:financialfeudtemp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about-me:lofo:projects:helixredesign:upark:financialfeud:lofotemp:financialfeudtemp"/>
     <file name="webpro.js" crc="242022427" ref="projects:science"/>
     <file name="musewpslideshow.js" crc="457073769" ref="projects:science"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="projects:science"/>
     <file name="touchswipe.js" crc="4066113679" ref="projects:science"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index:lofo:projects"/>
+    <file name="favicon.ico" crc="238392154" ref="index:projects"/>
     <file name="img_5726.jpg" crc="447181372" ref="about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -110,22 +112,25 @@
     <file name="lofo.jpg" crc="476382483" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
-    <file name="lofo-u11328-fr.jpg" crc="420610622" ref="lofo"/>
+    <file name="lofo-u11328-fr.jpg" crc="420610622" ref="lofo:lofotemp"/>
     <file name="helix-u11051-fr.jpg" crc="3861087122" ref="helixredesign"/>
     <file name="upark.png" crc="102315002" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
     <file name="upark-u11677-fr.png" crc="57629527" ref="upark"/>
-    <file name="storyboards3.jpg" crc="3890469399" ref="upark:financialfeud">
+    <file name="storyboards3.jpg" crc="3890469399" ref="upark:financialfeud:financialfeudtemp">
       <caption webpage="upark" alt=""/>
+      <caption webpage="financialfeudtemp" alt=""/>
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="jessica.jpg" crc="76680678" ref="upark:financialfeud">
+    <file name="jessica.jpg" crc="76680678" ref="upark:financialfeud:financialfeudtemp">
       <caption webpage="upark" alt=""/>
+      <caption webpage="financialfeudtemp" alt=""/>
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="seaarchmap.png" crc="4171366867" ref="upark:financialfeud">
+    <file name="seaarchmap.png" crc="4171366867" ref="upark:financialfeud:financialfeudtemp">
       <caption webpage="upark" alt=""/>
+      <caption webpage="financialfeudtemp" alt=""/>
       <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="listing.png" crc="209828068" ref="upark">
@@ -143,19 +148,30 @@
     <file name="ff2.jpg" crc="4229509353" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
-    <file name="ff1.jpg" crc="3773356101" ref="financialfeud">
+    <file name="ff1.jpg" crc="3773356101" ref="financialfeud:financialfeudtemp">
+      <caption webpage="financialfeudtemp" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="initial stakeholder analysis.jpg" crc="4022843122" ref="financialfeud:financialfeudtemp">
+      <caption webpage="financialfeudtemp" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="stakeholders.jpg" crc="4178556563" ref="financialfeud:financialfeudtemp">
+      <caption webpage="financialfeudtemp" alt=""/>
       <caption webpage="financialfeud" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="3914537657" seo="true" mt="1517523573476" redirect="true"/>
   <file name="science.html" crc="44156034" seo="true" mt="1517523573476" redirect="true"/>
-  <file name="projects.html" crc="4019172083" seo="true" mt="1517523866484" redirect="true"/>
+  <file name="projects.html" crc="4212359044" seo="true" mt="1517526076330" redirect="true"/>
   <file name="about-me.html" crc="4252455210" seo="true" mt="1517523573476" redirect="true"/>
-  <file name="financialfeud.html" crc="3878085785" seo="true" mt="1517523223026" redirect="true"/>
-  <file name="upark.html" crc="4040361258" seo="true" mt="1517506191107" redirect="true"/>
-  <file name="lofo.html" crc="302606394" seo="true" mt="1517464753385" redirect="true"/>
-  <file name="helixredesign.html" crc="3855900118" seo="true" mt="1517464633205" redirect="true"/>
-  <file name="daslab.html" crc="337717050" seo="true" mt="1517456508737" redirect="true"/>
-  <file name="labi.html" crc="4040703976" seo="true" mt="1517456508737" redirect="true"/>
-  <file name="liver.html" crc="513306933" seo="true" mt="1517456508737" redirect="true"/>
+  <file name="financialfeud.html" crc="3930068191" seo="true" mt="1517525865068" redirect="true"/>
+  <file name="upark.html" crc="3804079447" seo="true" mt="1517525725796" redirect="true"/>
+  <file name="lofo.html" crc="3817636407" seo="true" mt="1517525725796" redirect="true"/>
+  <file name="helixredesign.html" crc="303673612" seo="true" mt="1517525725796" redirect="true"/>
+  <file name="daslab.html" crc="473347565" seo="true" mt="1517525725796" redirect="true"/>
+  <file name="labi.html" crc="4121784896" seo="true" mt="1517525725796" redirect="true"/>
+  <file name="liver.html" crc="4143571646" seo="true" mt="1517525725796" redirect="true"/>
+  <file name="lofotemp.html" crc="3827197591" seo="true" mt="1517525833702" redirect="true"/>
+  <file name="financialfeudtemp.html" crc="532422131" seo="true" mt="1517525884533" redirect="true"/>
 </manifest>
