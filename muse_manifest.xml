@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517464760849">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517470777512">
   <folder name="css">
     <file name="site_global.css" crc="490593679"/>
     <file name="master_projects.css" crc="4269933513" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi"/>
     <file name="helixredesign.css" crc="4076771262" ref="helixredesign"/>
-    <file name="financialfeud.css" crc="438695618" ref="financialfeud"/>
-    <file name="projects.css" crc="4187557292" ref="projects"/>
-    <file name="upark.css" crc="317313152" ref="upark"/>
+    <file name="financialfeud.css" crc="4236938337" ref="financialfeud"/>
+    <file name="projects.css" crc="53844173" ref="projects"/>
+    <file name="upark.css" crc="273919794" ref="upark"/>
     <file name="index.css" crc="4207614880" ref="index"/>
     <file name="lofo.css" crc="3846165391" ref="lofo"/>
     <file name="science.css" crc="265443148" ref="science"/>
@@ -27,6 +27,10 @@
   <folder name="assets">
     <file name="美蟹.jpg" crc="179678164" seo="true" mt="1500419860000"/>
     <file name="resume_s18_yilind.pdf" crc="45135170" seo="true" mt="1517198021000"/>
+    <file name="process-book.pdf" crc="121756626" seo="true" mt="1510374385000"/>
+    <file name="team-6-project-3-pitch.pdf" crc="4118769430" seo="true" mt="1510374704000"/>
+    <file name="final-poster.png" crc="4025344845" seo="true" mt="1517469785000"/>
+    <file name="service-design---final-process-book.pdf" crc="515912626" seo="true" mt="1517469818000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
@@ -35,7 +39,7 @@
     <file name="museconfig.js" crc="4153641093" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
     <file name="require.js" crc="4157109226" ref="index:science:projects:about-me:financialfeud:upark:lofo:helixredesign:daslab:labi:liver"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about-me:lofo:projects:helixredesign:upark"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about-me:lofo:projects:helixredesign:upark:financialfeud"/>
     <file name="webpro.js" crc="242022427" ref="projects:science"/>
     <file name="musewpslideshow.js" crc="457073769" ref="projects:science"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="projects:science"/>
@@ -47,55 +51,54 @@
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="sync.png" crc="390259538" ref="helixredesign:lofo:upark">
+    <file name="sync.png" crc="390259538" ref="helixredesign:lofo">
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
     </file>
-    <file name="apple iphone 8 silver.png" crc="4146490797" ref="helixredesign:lofo:upark">
+    <file name="apple iphone 8 silver.png" crc="4146490797" ref="helixredesign:lofo">
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="upark" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="upark" alt=""/>
     </file>
-    <file name="search.gif" crc="328564339" ref="helixredesign:lofo:upark">
-      <caption webpage="helixredesign" alt=""/>
-      <caption webpage="lofo" alt=""/>
-      <caption webpage="upark" alt=""/>
-    </file>
-    <file name="green.png" crc="3782666734" ref="helixredesign:lofo:upark">
+    <file name="search.gif" crc="328564339" ref="helixredesign:lofo">
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
     </file>
-    <file name="red.png" crc="4244782607" ref="helixredesign:lofo:upark">
+    <file name="green.png" crc="3782666734" ref="helixredesign:lofo">
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
     </file>
-    <file name="swipe.gif" crc="26593918" ref="helixredesign:lofo:upark">
+    <file name="red.png" crc="4244782607" ref="helixredesign:lofo">
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
     </file>
-    <file name="adddrug.gif" crc="497771774" ref="helixredesign:lofo:upark">
+    <file name="swipe.gif" crc="26593918" ref="helixredesign:lofo">
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
     </file>
-    <file name="logo-helix.svg" crc="4080703492" ref="helixredesign:upark"/>
-    <file name="logo-helix_poster_u11230.png" crc="15985251" ref="helixredesign:upark"/>
-    <file name="pgxpl16-000212_v3_pain_0516172.jpg" crc="4146491794" ref="helixredesign:lofo:upark">
+    <file name="adddrug.gif" crc="497771774" ref="helixredesign:lofo">
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
     </file>
-    <file name="pgxpl16-000212_v3_pain_051617.jpg" crc="64738846" ref="helixredesign:lofo:upark">
+    <file name="logo-helix.svg" crc="4080703492" ref="helixredesign"/>
+    <file name="logo-helix_poster_u11230.png" crc="15985251" ref="helixredesign"/>
+    <file name="pgxpl16-000212_v3_pain_0516172.jpg" crc="4146491794" ref="helixredesign:lofo">
+      <caption webpage="helixredesign" alt=""/>
+      <caption webpage="lofo" alt=""/>
+      <caption webpage="upark" alt=""/>
+    </file>
+    <file name="pgxpl16-000212_v3_pain_051617.jpg" crc="64738846" ref="helixredesign:lofo">
       <caption webpage="helixredesign" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
@@ -106,19 +109,41 @@
     <file name="lofo.jpg" crc="476382483" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
-    <file name="upark.jpg" crc="4234042264" ref="projects">
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="upark-u11677-fr.jpg" crc="4246858709" ref="upark"/>
     <file name="lofo-u11328-fr.jpg" crc="420610622" ref="lofo"/>
     <file name="helix-u11051-fr.jpg" crc="3861087122" ref="helixredesign"/>
+    <file name="upark.png" crc="102315002" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="upark-u11677-fr.png" crc="57629527" ref="upark"/>
+    <file name="storyboards3.jpg" crc="3890469399" ref="upark:financialfeud">
+      <caption webpage="upark" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="jessica.jpg" crc="76680678" ref="upark:financialfeud">
+      <caption webpage="upark" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="seaarchmap.png" crc="4171366867" ref="upark:financialfeud">
+      <caption webpage="upark" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="listing.png" crc="209828068" ref="upark">
+      <caption webpage="upark" alt=""/>
+    </file>
+    <file name="upcomingreservation.png" crc="4106085627" ref="upark">
+      <caption webpage="upark" alt=""/>
+    </file>
+    <file name="final poster.jpg" crc="98969323" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="final poster-u11958-fr.jpg" crc="4023742515" ref="financialfeud"/>
   </folder>
   <file name="index.html" crc="3967105238" seo="true" mt="1517455083120" redirect="true"/>
   <file name="science.html" crc="4122260590" seo="true" mt="1517457249572" redirect="true"/>
-  <file name="projects.html" crc="54320897" seo="true" mt="1517464720100" redirect="true"/>
+  <file name="projects.html" crc="404160381" seo="true" mt="1517470773449" redirect="true"/>
   <file name="about-me.html" crc="3763205685" seo="true" mt="1517391933842" redirect="true"/>
-  <file name="financialfeud.html" crc="84975718" seo="true" mt="1517456508737" redirect="true"/>
-  <file name="upark.html" crc="447106129" seo="true" mt="1517464633360" redirect="true"/>
+  <file name="financialfeud.html" crc="3924811521" seo="true" mt="1517470773446" redirect="true"/>
+  <file name="upark.html" crc="4121050403" seo="true" mt="1517470263713" redirect="true"/>
   <file name="lofo.html" crc="302606394" seo="true" mt="1517464753385" redirect="true"/>
   <file name="helixredesign.html" crc="3855900118" seo="true" mt="1517464633205" redirect="true"/>
   <file name="daslab.html" crc="337717050" seo="true" mt="1517456508737" redirect="true"/>
