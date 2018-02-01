@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517523687251">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1517523874620">
   <folder name="css">
     <file name="site_global.css" crc="4001486685"/>
     <file name="master_projects.css" crc="171991329" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi"/>
     <file name="helixredesign.css" crc="4076771262" ref="helixredesign"/>
     <file name="financialfeud.css" crc="3973803821" ref="financialfeud"/>
-    <file name="projects.css" crc="42091459" ref="projects"/>
+    <file name="projects.css" crc="309283050" ref="projects"/>
     <file name="upark.css" crc="502657380" ref="upark"/>
     <file name="index.css" crc="7916525" ref="index"/>
     <file name="lofo.css" crc="3846165391" ref="lofo"/>
@@ -47,7 +47,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="projects:science"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index:lofo"/>
+    <file name="favicon.ico" crc="238392154" ref="index:lofo:projects"/>
     <file name="img_5726.jpg" crc="447181372" ref="about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -149,7 +149,7 @@
   </folder>
   <file name="index.html" crc="3914537657" seo="true" mt="1517523573476" redirect="true"/>
   <file name="science.html" crc="44156034" seo="true" mt="1517523573476" redirect="true"/>
-  <file name="projects.html" crc="3967239835" seo="true" mt="1517523678122" redirect="true"/>
+  <file name="projects.html" crc="4019172083" seo="true" mt="1517523866484" redirect="true"/>
   <file name="about-me.html" crc="4252455210" seo="true" mt="1517523573476" redirect="true"/>
   <file name="financialfeud.html" crc="3878085785" seo="true" mt="1517523223026" redirect="true"/>
   <file name="upark.html" crc="4040361258" seo="true" mt="1517506191107" redirect="true"/>
