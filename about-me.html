@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=238392154"/>
   <title>About Me</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4001486685"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=296799713"/>
   <link rel="stylesheet" type="text/css" href="css/master_grandmaster.css?crc=4017877407"/>
-  <link rel="stylesheet" type="text/css" href="css/master_directoriestemp.css?crc=475685789"/>
-  <link rel="stylesheet" type="text/css" href="css/about-me.css?crc=31841417" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_directoriestemp.css?crc=348025010"/>
+  <link rel="stylesheet" type="text/css" href="css/about-me.css?crc=274660001" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/s1v2c_5aIibtB6w9E6wURP-N_G_oh1LJmm9I8Dlz_qJfe7tgfJWLE3wPH263FQjaw28LwhmcFAjk52SXwcFcw2sqjQs8FQFy52mqwA9hZQFRjDb-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJy43wRJliAoqZW41ScNudcblSewKfcuoSc8yZfu3Scv7fbRTOgMMeM96MKG4f5SCIMMjMkMfH6qJ3Q9bMs62JM4HgIuuShAbMp-8DlwB.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/yhEQvqICUFSOd9n9Bke9GImvOy10MIjr53hLzQvqHDIfe7tgfJWLE3wPH263FQjaw28LwhmcFAjk52SXwcFcw2sqjQs8FQFy52mqwA9hZQFRjDb-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6TlpW4TjAblSY4zJy43wRJliAoqZW41ScNudcblSew7fbRgFsMMeMw6MKG4f5qCIMIjgPMfH6qJok3bMs62JM4HgIuuShAbMjHU_F9B.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -242,6 +242,7 @@ setTimeout(function(){g(!0)},5E3):g()}};
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */

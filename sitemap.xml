@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mike-dong.com/index.html</loc>
-    <lastmod>2018-03-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/about-me.html</loc>
     <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/about-me.html</loc>
+    <lastmod>2018-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/financialfeud.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://mike-dong.com/images/logo2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/logo2_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -53,7 +56,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/science.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -65,7 +68,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/upark.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -77,11 +80,14 @@
   </url>
   <url>
     <loc>http://mike-dong.com/lofo.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://mike-dong.com/images/group%204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/group%204_2x.png</image:loc>
     </image:image>
   </url>
   <url>

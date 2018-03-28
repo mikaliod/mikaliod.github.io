@@ -11,18 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "require.js", "science.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "science.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=238392154"/>
   <title>Science</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3901115436"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=296799713"/>
   <link rel="stylesheet" type="text/css" href="css/master_grandmaster.css?crc=4017877407"/>
-  <link rel="stylesheet" type="text/css" href="css/master_directoriestemp.css?crc=335417874"/>
+  <link rel="stylesheet" type="text/css" href="css/master_directoriestemp.css?crc=348025010"/>
   <link rel="stylesheet" type="text/css" href="css/science.css?crc=265443148" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/dxKigthOVwLj6NyGwNshpr2WkbW5WAPW4DbYT-BZgW9fenbgfJWLE3wPH263FQjaw28LwhmcFAjk52SXwcFcw2sqjQs8FQFy52mqwA9hZQFRjDb-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJy43wRJliAoqZW41ScNudcblSewK2hZkZA81-Ybljc81OWgkdkG4f5qCIMMjgPMfH6qJok3bMg62JMJ7f6KkqMIbMs6IJM4HgIuuShAbMS7ZzFbB.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/ZbaN9Ug4y7_I5qnOILkgF2dptRQG72BoErdNaZqkha3fenbgfJWLE3wPH263FQjaw28LwhmcFAjk52SXwcFcw2sqjQs8FQFy52mqwA9hZQFRjDb-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6NcScmTZhyXOA4TZku3ScvKI1MkwKuudcs8Scikdam0Zfu3jkGHfOHbMsMMeMb6MKG4f5qCIMIjgPMfH6qJok3bMs62JM4HgIuuShAbMLE3_F9B.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -279,6 +279,7 @@ setTimeout(function(){g(!0)},5E3):g()}};
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","webpro","musewpslideshow","jquery.museoverlay","touchswipe"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */

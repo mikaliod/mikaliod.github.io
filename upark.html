@@ -11,18 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "require.js", "upark.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.musepolyfill.bgsize.js", "upark.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=238392154"/>
   <title>UPark</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3901115436"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=296799713"/>
   <link rel="stylesheet" type="text/css" href="css/master_grandmaster.css?crc=4017877407"/>
   <link rel="stylesheet" type="text/css" href="css/master_projects.css?crc=209142382"/>
-  <link rel="stylesheet" type="text/css" href="css/upark.css?crc=474466534" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/upark.css?crc=3786155815" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/-a7AENPakK_sBYvGF471hWnea0OtszCRVuczCgS_SXIfeljgfJWLE3wPH263FQjaw28LwhmcFAjk52SXwcFcw2sqjQs8FQFy52mqwA9hZQFRjDb-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6TlpW4TjAblSY4zJy43wRJliAoqZW41ScNudcblSewK2hZkZA81-Ybljc81OWgkdkG4fwIuIMMjMkMfH6qJ3D9bMg6IJMJ7fbR1OgMgeMw6MKG4f56CIMIjgfMfH6GJCTMgIMJjgfMfP6sFiWF8qMe7h_D9gb.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/q9cOSU4OXgbPnGNOlQyXNqrM4O7k2gRXqTQLAzpQC5jfeljgfJWLE3wPH263FQjaw28LwhmcFAjk52SXwcFcw2sqjQs8FQFy52mqwA9hZQFRjDb-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6NcScmTZhyXOA4TZku3ScvKfcuoSc8yZfu3ScvKI1MkwKuudcs8Scikdam0Zfu3jkGHfOHbMsMMeMb6MKG4fwIuIMIjMkMfH6qJ3D9bMs6IJMJ7fbR1OgMfeMw6MKG4f56CIMJjgfMfP6sFiWF8qMewCpDmgb.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -345,6 +345,7 @@ setTimeout(function(){g(!0)},5E3):g()}};
 var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
