@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522210969324">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522214436510">
   <folder name="css">
     <file name="site_global.css" crc="296799713"/>
-    <file name="master_projects.css" crc="209142382" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi:misc"/>
+    <file name="master_projects.css" crc="4114622800" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi:misc"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi:misc:projectsgrid"/>
-    <file name="helixredesign.css" crc="433052111" ref="helixredesign"/>
+    <file name="helixredesign.css" crc="4125675848" ref="helixredesign"/>
     <file name="financialfeud.css" crc="4133751796" ref="financialfeud"/>
     <file name="projects.css" crc="3955768357" ref="projects"/>
     <file name="upark.css" crc="3786155815" ref="upark"/>
@@ -16,7 +16,7 @@
     <file name="labi.css" crc="4278222933" ref="labi"/>
     <file name="master_directoriestemp.css" crc="348025010" ref="science:index:about-me"/>
     <file name="master_projectsdirectoriestemp.css" crc="359323764" ref="projects"/>
-    <file name="misc.css" crc="210124591" ref="misc"/>
+    <file name="misc.css" crc="4044590573" ref="misc"/>
     <file name="master_directories.css" crc="501626642" ref="projectsgrid"/>
     <file name="projectsgrid.css" crc="4025774496" ref="projectsgrid"/>
   </folder>
@@ -51,24 +51,24 @@
     <file name="touchswipe.js" crc="4066113679" ref="projects:science"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index"/>
+    <file name="favicon.ico" crc="238392154" ref="index:helixredesign"/>
     <file name="img_5726.jpg" crc="127801281" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="search.gif" crc="328564339" ref="helixredesign">
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
+      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="swipe.gif" crc="26593918" ref="helixredesign">
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
+      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="adddrug.gif" crc="497771774" ref="helixredesign">
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
+      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="logo-helix.svg" crc="4080703492" ref="helixredesign"/>
     <file name="logo-helix_poster_u11230.png" crc="15985251" ref="helixredesign"/>
@@ -180,6 +180,42 @@
     <file name="icofinancial feud0-u13382-fr_2x.jpg" crc="4197049466" ref="projectsgrid"/>
     <file name="icofinancial feud-u13382-r-fr.jpg" crc="42250872" ref="projectsgrid"/>
     <file name="icofinancial feud-u13382-r-fr_2x.jpg" crc="4233508220" ref="projectsgrid"/>
+    <file name="bluehacked.png" crc="4212750780" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="bluehacked_2x.png" crc="264921638" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="list.png" crc="4000438993" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="list_2x.png" crc="92209032" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="redattack.png" crc="178578816" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="redattack_2x.png" crc="532048767" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="chemecarlogodate.png" crc="327039059" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="chemecarlogodate_2x.png" crc="10138456" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="catbenzene2x.png" crc="333347226" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="catbenzene2x_2x.png" crc="4211031317" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="chemecarlogo-line.png" crc="509964722" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="chemecarlogo-line_2x.png" crc="7472947" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4042516523" seo="true" mt="1517523573476" redirect="true"/>
   <file name="science.html" crc="247796097" seo="true" mt="1517523573476" redirect="true"/>
@@ -188,10 +224,10 @@
   <file name="financialfeud.html" crc="4241226217" seo="true" mt="1522210931205" redirect="true"/>
   <file name="upark.html" crc="66636145" seo="true" mt="1522210906163" redirect="true"/>
   <file name="lofo.html" crc="4018381839" seo="true" mt="1522210927677" redirect="true"/>
-  <file name="helixredesign.html" crc="39177372" seo="true" mt="1522210898080" redirect="true"/>
+  <file name="helixredesign.html" crc="4007445077" seo="true" mt="1522214422366" redirect="true"/>
   <file name="daslab.html" crc="473347565" seo="true" mt="1517525725796" redirect="true"/>
   <file name="labi.html" crc="4121784896" seo="true" mt="1517525725796" redirect="true"/>
   <file name="liver.html" crc="4143571646" seo="true" mt="1517525725796" redirect="true"/>
-  <file name="misc.html" crc="4225858745" seo="true" mt="1522210938703" redirect="true"/>
+  <file name="misc.html" crc="216287364" seo="true" mt="1522214313912" redirect="true"/>
   <file name="projectsgrid.html" crc="4147624866" seo="true" mt="1522210940296" redirect="true"/>
 </manifest>
