@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mike-dong.com/index.html</loc>
-    <lastmod>2018-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/projects.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <lastmod>2018-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -28,20 +22,26 @@
     </image:image>
   </url>
   <url>
+    <loc>http://mike-dong.com/misc.html</loc>
+    <lastmod>2018-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/liver.html</loc>
     <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/labi.html</loc>
-    <lastmod>2018-02-01</lastmod>
+    <loc>http://mike-dong.com/projectsgrid.html</loc>
+    <lastmod>2018-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/misc.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://mike-dong.com/daslab.html</loc>
+    <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -58,7 +58,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/daslab.html</loc>
+    <loc>http://mike-dong.com/projects.html</loc>
+    <lastmod>2018-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/upark.html</loc>
+    <lastmod>2018-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/labi.html</loc>
     <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,37 +85,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mike-dong.com/upark.html</loc>
-    <lastmod>2018-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
-    <lastmod>2017-07-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/blueprint.png</loc>
-    <lastmod>2018-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/assets/process-book.pdf</loc>
-    <lastmod>2017-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/resume-2018-spring.pdf</loc>
-    <lastmod>2018-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/team-6-project-3-pitch.pdf</loc>
     <lastmod>2017-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -115,8 +97,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/resume-2018-spring.pdf</loc>
+    <lastmod>2018-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/blueprint.png</loc>
+    <lastmod>2018-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
+    <lastmod>2017-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/final-poster.png</loc>
     <lastmod>2018-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/team-6-project-3-pitch.pdf</loc>
+    <lastmod>2017-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
