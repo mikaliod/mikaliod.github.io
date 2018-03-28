@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522264884542">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522265114484">
   <folder name="css">
     <file name="site_global.css" crc="3901115436"/>
     <file name="master_projects.css" crc="486647253" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi:misc"/>
@@ -8,7 +8,7 @@
     <file name="projects.css" crc="3765896976" ref="projects"/>
     <file name="upark.css" crc="313013762" ref="upark"/>
     <file name="index.css" crc="119872152" ref="index"/>
-    <file name="lofo.css" crc="3990325763" ref="lofo"/>
+    <file name="lofo.css" crc="254733553" ref="lofo"/>
     <file name="science.css" crc="265443148" ref="science"/>
     <file name="about-me.css" crc="274660001" ref="about-me"/>
     <file name="daslab.css" crc="3864895338" ref="daslab"/>
@@ -51,7 +51,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="projects:science"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index:projects:lofo"/>
+    <file name="favicon.ico" crc="238392154" ref="index:projects:helixredesign"/>
     <file name="img_5726.jpg" crc="127801281" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -223,8 +223,8 @@
   <file name="about-me.html" crc="4126656439" seo="true" mt="1522210891179" redirect="true"/>
   <file name="financialfeud.html" crc="385892795" seo="true" mt="1522263366084" redirect="true"/>
   <file name="upark.html" crc="4059489806" seo="true" mt="1522263366084" redirect="true"/>
-  <file name="lofo.html" crc="31294156" seo="true" mt="1522264878426" redirect="true"/>
-  <file name="helixredesign.html" crc="205962610" seo="true" mt="1522264515996" redirect="true"/>
+  <file name="lofo.html" crc="20517215" seo="true" mt="1522265071378" redirect="true"/>
+  <file name="helixredesign.html" crc="336442278" seo="true" mt="1522265082670" redirect="true"/>
   <file name="daslab.html" crc="237225226" seo="true" mt="1522263366084" redirect="true"/>
   <file name="labi.html" crc="68309742" seo="true" mt="1522263366084" redirect="true"/>
   <file name="liver.html" crc="505802301" seo="true" mt="1522263366084" redirect="true"/>
