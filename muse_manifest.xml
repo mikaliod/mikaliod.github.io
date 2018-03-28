@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1522206701224">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x" timestamp="1522210716684">
   <folder name="css">
     <file name="site_global.css" crc="296799713"/>
-    <file name="master_projects.css" crc="4114622800" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi:misc"/>
+    <file name="master_projects.css" crc="209142382" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi:misc"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi:misc:projectsgrid"/>
-    <file name="helixredesign.css" crc="35105185" ref="helixredesign"/>
+    <file name="helixredesign.css" crc="225152268" ref="helixredesign"/>
     <file name="financialfeud.css" crc="3817163049" ref="financialfeud"/>
     <file name="projects.css" crc="34562071" ref="projects"/>
     <file name="upark.css" crc="474466534" ref="upark"/>
@@ -16,9 +16,9 @@
     <file name="labi.css" crc="4278222933" ref="labi"/>
     <file name="master_directoriestemp.css" crc="335417874" ref="science:index:about-me"/>
     <file name="master_projectsdirectoriestemp.css" crc="359323764" ref="projects"/>
-    <file name="misc.css" crc="529490546" ref="misc"/>
+    <file name="misc.css" crc="102878998" ref="misc"/>
     <file name="master_directories.css" crc="501626642" ref="projectsgrid"/>
-    <file name="projectsgrid.css" crc="4103273554" ref="projectsgrid"/>
+    <file name="projectsgrid.css" crc="447266157" ref="projectsgrid"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -51,7 +51,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="projects:science"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index:science:lofo:projects:projectsgrid:misc"/>
+    <file name="favicon.ico" crc="238392154" ref="index:science:lofo:projects"/>
     <file name="img_5726.jpg" crc="447181372" ref="about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -66,53 +66,53 @@
       <caption webpage="lofo" alt=""/>
     </file>
     <file name="apple iphone 8 silver.png" crc="4146490797" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
+      <caption webpage="helixredesign" alt=""/>
+      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="lofo" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="search.gif" crc="328564339" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="green.png" crc="3782666734" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="red.png" crc="4244782607" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="swipe.gif" crc="26593918" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="adddrug.gif" crc="497771774" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="logo-helix.svg" crc="4080703492" ref="helixredesign"/>
     <file name="logo-helix_poster_u11230.png" crc="15985251" ref="helixredesign"/>
     <file name="pgxpl16-000212_v3_pain_0516172.jpg" crc="4146491794" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="pgxpl16-000212_v3_pain_051617.jpg" crc="64738846" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="lofo" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
     </file>
-    <file name="helix.jpg" crc="4134953644" ref="projects:projectsgrid">
+    <file name="helix.jpg" crc="4254324388" ref="projects">
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
@@ -123,7 +123,7 @@
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projects" alt=""/>
     </file>
-    <file name="lofo.jpg" crc="4223435828" ref="projects:projectsgrid">
+    <file name="lofo.jpg" crc="476382483" ref="projects">
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
@@ -245,7 +245,16 @@
     <file name="blueprint.png" crc="122617681" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="helix0.jpg" crc="3955481866" ref="projectsgrid">
+    <file name="wardrobeimac.png" crc="4256470480" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="item.png" crc="496796214" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="mockup.jpg" crc="402985577" ref="misc">
+      <caption webpage="misc" alt=""/>
+    </file>
+    <file name="icohelix0.jpg" crc="3955481866" ref="projectsgrid">
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
@@ -255,7 +264,7 @@
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
     </file>
-    <file name="lofo0.jpg" crc="311357461" ref="projectsgrid">
+    <file name="icohelix.jpg" crc="4134953644" ref="projectsgrid">
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
@@ -265,7 +274,7 @@
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
     </file>
-    <file name="financial feud0.jpg" crc="4118355383" ref="projectsgrid">
+    <file name="icolofo0.jpg" crc="311357461" ref="projectsgrid">
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
@@ -275,7 +284,27 @@
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
     </file>
-    <file name="financial feud.jpg" crc="4160323910" ref="projectsgrid">
+    <file name="icolofo.jpg" crc="4223435828" ref="projectsgrid">
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+    </file>
+    <file name="icofinancial feud0.jpg" crc="4118355383" ref="projectsgrid">
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+      <caption webpage="projectsgrid" alt=""/>
+    </file>
+    <file name="icofinancial feud.jpg" crc="4160323910" ref="projectsgrid">
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
       <caption webpage="projectsgrid" alt=""/>
@@ -288,15 +317,15 @@
   </folder>
   <file name="index.html" crc="114178734" seo="true" mt="1522012523753" redirect="true"/>
   <file name="science.html" crc="3882638122" seo="true" mt="1519286286183" redirect="true"/>
-  <file name="projects.html" crc="3837530169" seo="true" mt="1522015956081" redirect="true"/>
+  <file name="projects.html" crc="4159861772" seo="true" mt="1522210503084" redirect="true"/>
   <file name="about-me.html" crc="4252455210" seo="true" mt="1517523573476" redirect="true"/>
   <file name="financialfeud.html" crc="109924254" seo="true" mt="1519332774502" redirect="true"/>
   <file name="upark.html" crc="134570187" seo="true" mt="1519330032307" redirect="true"/>
   <file name="lofo.html" crc="3982160699" seo="true" mt="1519333514387" redirect="true"/>
-  <file name="helixredesign.html" crc="306238196" seo="true" mt="1519330001973" redirect="true"/>
+  <file name="helixredesign.html" crc="3765272614" seo="true" mt="1522210687294" redirect="true"/>
   <file name="daslab.html" crc="473347565" seo="true" mt="1517525725796" redirect="true"/>
   <file name="labi.html" crc="4121784896" seo="true" mt="1517525725796" redirect="true"/>
   <file name="liver.html" crc="4143571646" seo="true" mt="1517525725796" redirect="true"/>
-  <file name="misc.html" crc="257660655" seo="true" mt="1522206670861" redirect="true"/>
-  <file name="projectsgrid.html" crc="3768013479" seo="true" mt="1522016012071" redirect="true"/>
+  <file name="misc.html" crc="3939737134" seo="true" mt="1522210710315" redirect="true"/>
+  <file name="projectsgrid.html" crc="4242656833" seo="true" mt="1522210710654" redirect="true"/>
 </manifest>
