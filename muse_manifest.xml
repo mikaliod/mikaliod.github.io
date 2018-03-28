@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522264546182">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522264884542">
   <folder name="css">
     <file name="site_global.css" crc="3901115436"/>
     <file name="master_projects.css" crc="486647253" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi:misc"/>
@@ -8,7 +8,7 @@
     <file name="projects.css" crc="3765896976" ref="projects"/>
     <file name="upark.css" crc="313013762" ref="upark"/>
     <file name="index.css" crc="119872152" ref="index"/>
-    <file name="lofo.css" crc="397690901" ref="lofo"/>
+    <file name="lofo.css" crc="3990325763" ref="lofo"/>
     <file name="science.css" crc="265443148" ref="science"/>
     <file name="about-me.css" crc="274660001" ref="about-me"/>
     <file name="daslab.css" crc="3864895338" ref="daslab"/>
@@ -51,7 +51,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="projects:science"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index:projects"/>
+    <file name="favicon.ico" crc="238392154" ref="index:projects:lofo"/>
     <file name="img_5726.jpg" crc="127801281" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -155,15 +155,15 @@
     <file name="group 4_2x.png" crc="3950748877" seo="true" ref="lofo">
       <caption webpage="lofo" alt=""/>
     </file>
-    <file name="intro-u12841-fr.png" crc="3975751778" ref="lofo"/>
-    <file name="xlb-u12852-fr.png" crc="491346697" ref="lofo"/>
-    <file name="places-u12855-fr.png" crc="4002781538" ref="lofo"/>
-    <file name="foodies-u12913-fr.png" crc="281784081" ref="lofo"/>
-    <file name="foodie-u12880-fr.png" crc="4238086793" ref="lofo"/>
-    <file name="report-u12883-fr.png" crc="4268637729" ref="lofo"/>
-    <file name="buddiesearch-u12939-fr.png" crc="423717434" ref="lofo"/>
-    <file name="buddie-u12945-fr.png" crc="367926371" ref="lofo"/>
-    <file name="message-u12948-fr.png" crc="166123903" ref="lofo"/>
+    <file name="intro-u12841-fr.png" crc="169182318" ref="lofo"/>
+    <file name="xlb-u12852-fr.png" crc="91282581" ref="lofo"/>
+    <file name="places-u12855-fr.png" crc="4244923685" ref="lofo"/>
+    <file name="foodies-u12913-fr.png" crc="332244728" ref="lofo"/>
+    <file name="foodie-u12880-fr.png" crc="4175994400" ref="lofo"/>
+    <file name="report-u12883-fr.png" crc="3993218809" ref="lofo"/>
+    <file name="buddiesearch-u12939-fr.png" crc="35692757" ref="lofo"/>
+    <file name="buddie-u12945-fr.png" crc="4100941077" ref="lofo"/>
+    <file name="message-u12948-fr.png" crc="177072241" ref="lofo"/>
     <file name="sync-u13752-fr.png" crc="239297349" ref="misc"/>
     <file name="wardrobeimac-u13885-fr.png" crc="4122173898" ref="misc"/>
     <file name="wardrobeimac-u13885-fr_2x.png" crc="326426344" ref="misc"/>
@@ -223,7 +223,7 @@
   <file name="about-me.html" crc="4126656439" seo="true" mt="1522210891179" redirect="true"/>
   <file name="financialfeud.html" crc="385892795" seo="true" mt="1522263366084" redirect="true"/>
   <file name="upark.html" crc="4059489806" seo="true" mt="1522263366084" redirect="true"/>
-  <file name="lofo.html" crc="4093619857" seo="true" mt="1522264506011" redirect="true"/>
+  <file name="lofo.html" crc="31294156" seo="true" mt="1522264878426" redirect="true"/>
   <file name="helixredesign.html" crc="205962610" seo="true" mt="1522264515996" redirect="true"/>
   <file name="daslab.html" crc="237225226" seo="true" mt="1522263366084" redirect="true"/>
   <file name="labi.html" crc="68309742" seo="true" mt="1522263366084" redirect="true"/>
