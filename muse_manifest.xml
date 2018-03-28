@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522267728140">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522268513980">
   <folder name="css">
     <file name="site_global.css" crc="3901115436"/>
     <file name="master_projects.css" crc="486647253" ref="helixredesign:financialfeud:upark:lofo:daslab:liver:labi:misc"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:upark:index:lofo:science:about-me:daslab:liver:labi:misc:projectsgrid"/>
     <file name="helixredesign.css" crc="3854930250" ref="helixredesign"/>
     <file name="financialfeud.css" crc="168014506" ref="financialfeud"/>
-    <file name="projects.css" crc="3765896976" ref="projects"/>
+    <file name="projects.css" crc="321943755" ref="projects"/>
     <file name="upark.css" crc="313013762" ref="upark"/>
     <file name="index.css" crc="119872152" ref="index"/>
-    <file name="lofo.css" crc="451319930" ref="lofo"/>
+    <file name="lofo.css" crc="4208816367" ref="lofo"/>
     <file name="science.css" crc="265443148" ref="science"/>
     <file name="about-me.css" crc="274660001" ref="about-me"/>
     <file name="daslab.css" crc="3864895338" ref="daslab"/>
@@ -16,7 +16,7 @@
     <file name="labi.css" crc="449325802" ref="labi"/>
     <file name="master_directoriestemp.css" crc="348025010" ref="science:index:about-me"/>
     <file name="master_projectsdirectoriestemp.css" crc="145227396" ref="projects"/>
-    <file name="misc.css" crc="50227114" ref="misc"/>
+    <file name="misc.css" crc="4290390638" ref="misc"/>
     <file name="master_directories.css" crc="501626642" ref="projectsgrid"/>
     <file name="projectsgrid.css" crc="4025774496" ref="projectsgrid"/>
   </folder>
@@ -219,15 +219,15 @@
   </folder>
   <file name="index.html" crc="4042516523" seo="true" mt="1517523573476" redirect="true"/>
   <file name="science.html" crc="247796097" seo="true" mt="1517523573476" redirect="true"/>
-  <file name="projects.html" crc="79348407" seo="true" mt="1522267198146" redirect="true"/>
+  <file name="projects.html" crc="3889302125" seo="true" mt="1522268492093" redirect="true"/>
   <file name="about-me.html" crc="4126656439" seo="true" mt="1522210891179" redirect="true"/>
   <file name="financialfeud.html" crc="132442433" seo="true" mt="1522267685165" redirect="true"/>
   <file name="upark.html" crc="4059489806" seo="true" mt="1522263366084" redirect="true"/>
-  <file name="lofo.html" crc="271502370" seo="true" mt="1522267697135" redirect="true"/>
+  <file name="lofo.html" crc="426879481" seo="true" mt="1522267864736" redirect="true"/>
   <file name="helixredesign.html" crc="3788012781" seo="true" mt="1522267707904" redirect="true"/>
   <file name="daslab.html" crc="237225226" seo="true" mt="1522263366084" redirect="true"/>
   <file name="labi.html" crc="68309742" seo="true" mt="1522263366084" redirect="true"/>
   <file name="liver.html" crc="505802301" seo="true" mt="1522263366084" redirect="true"/>
-  <file name="misc.html" crc="4033304094" seo="true" mt="1522265780971" redirect="true"/>
+  <file name="misc.html" crc="304681715" seo="true" mt="1522268405093" redirect="true"/>
   <file name="projectsgrid.html" crc="4147624866" seo="true" mt="1522210940296" redirect="true"/>
 </manifest>
