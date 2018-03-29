@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522299703029">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522353010081">
   <folder name="css">
     <file name="site_global.css" crc="296799713"/>
     <file name="master_projects.css" crc="4269933513" ref="helixredesign:financialfeud:lofo:daslab:liver:labi:misc"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:index:lofo:about-me:daslab:liver:labi:misc:scienceconstruction:sciencebuilding"/>
-    <file name="helixredesign.css" crc="373601992" ref="helixredesign"/>
-    <file name="financialfeud.css" crc="462972253" ref="financialfeud"/>
+    <file name="helixredesign.css" crc="3956520791" ref="helixredesign"/>
+    <file name="financialfeud.css" crc="3791099366" ref="financialfeud"/>
     <file name="projects.css" crc="4290505477" ref="projects"/>
     <file name="index.css" crc="533471587" ref="index"/>
-    <file name="lofo.css" crc="4165182344" ref="lofo"/>
+    <file name="lofo.css" crc="3857321910" ref="lofo"/>
     <file name="about-me.css" crc="4051306821" ref="about-me"/>
     <file name="daslab.css" crc="3864895338" ref="daslab"/>
     <file name="liver.css" crc="161789066" ref="liver"/>
     <file name="labi.css" crc="449325802" ref="labi"/>
-    <file name="misc.css" crc="3206870" ref="misc"/>
+    <file name="misc.css" crc="438256252" ref="misc"/>
     <file name="master_directories.css" crc="3776053424" ref="index:about-me"/>
     <file name="master_projectdirectories.css" crc="157602862" ref="projects:scienceconstruction:sciencebuilding"/>
     <file name="scienceconstruction.css" crc="152696981" ref="scienceconstruction"/>
@@ -49,7 +49,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="projects:scienceconstruction"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="index:scienceconstruction"/>
+    <file name="favicon.ico" crc="238392154" ref="index:scienceconstruction:financialfeud"/>
     <file name="img_5726.jpg" crc="127801281" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -127,7 +127,7 @@
     <file name="pgxpl16-000212_v3_pain_051617-u11255-fr.jpg" crc="451698190" ref="helixredesign"/>
     <file name="pgxpl16-000212_v3_pain_051617-u11255-fr_2x.jpg" crc="3773871598" ref="helixredesign"/>
     <file name="sync-u11082-fr.png" crc="265218378" ref="helixredesign"/>
-    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign"/>
+    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign:misc"/>
     <file name="green-u11197-fr.png" crc="4079413569" ref="helixredesign"/>
     <file name="red-u11148-fr.png" crc="3776490645" ref="helixredesign"/>
     <file name="questionaire-u12641-fr.jpg" crc="410830058" ref="lofo"/>
@@ -219,26 +219,31 @@
     <file name="databp_2x.png" crc="449052733" ref="misc">
       <caption webpage="misc" alt=""/>
     </file>
-    <file name="apple iphone 8 silver-u14825-fr.png" crc="4076768397" ref="misc"/>
-    <file name="jessica-u14934-fr.jpg" crc="4248498824" ref="misc"/>
-    <file name="jessica-u14934-fr_2x.jpg" crc="357810034" ref="misc"/>
+    <file name="jessica-u14934-fr.jpg" crc="4209970170" ref="misc"/>
+    <file name="jessica-u14934-fr_2x.jpg" crc="261715152" ref="misc"/>
     <file name="seaarchmap-u14930-fr.png" crc="4170434979" ref="misc"/>
     <file name="listing-u14932-fr.png" crc="398154355" ref="misc"/>
     <file name="upcomingreservation-u14933-fr.png" crc="285797338" ref="misc"/>
-    <file name="bob-u14937-fr.jpg" crc="140440686" ref="misc"/>
-    <file name="bob-u14937-fr_2x.jpg" crc="120146776" ref="misc"/>
     <file name="pending requests – 2-u14938-fr.jpg" crc="265224839" ref="misc"/>
+    <file name="ffgrouppic.jpg" crc="119544050" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="ffgrouppic_2x.jpg" crc="194614999" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="bob-u15013-fr.png" crc="12033436" ref="misc"/>
+    <file name="bob-u15013-fr_2x.png" crc="4100913538" ref="misc"/>
   </folder>
   <file name="index.html" crc="232723873" seo="true" mt="1522298433660" redirect="true"/>
   <file name="projects.html" crc="484422224" seo="true" mt="1522299673476" redirect="true"/>
   <file name="about-me.html" crc="22493801" seo="true" mt="1522298433660" redirect="true"/>
-  <file name="financialfeud.html" crc="4189154487" seo="true" mt="1522297649865" redirect="true"/>
-  <file name="lofo.html" crc="42014748" seo="true" mt="1522297649866" redirect="true"/>
-  <file name="helixredesign.html" crc="499363219" seo="true" mt="1522297649897" redirect="true"/>
+  <file name="financialfeud.html" crc="4234159827" seo="true" mt="1522352993157" redirect="true"/>
+  <file name="lofo.html" crc="203922127" seo="true" mt="1522349994695" redirect="true"/>
+  <file name="helixredesign.html" crc="4132523379" seo="true" mt="1522349728860" redirect="true"/>
   <file name="daslab.html" crc="237225226" seo="true" mt="1522263366084" redirect="true"/>
   <file name="labi.html" crc="68309742" seo="true" mt="1522263366084" redirect="true"/>
   <file name="liver.html" crc="505802301" seo="true" mt="1522263366084" redirect="true"/>
-  <file name="misc.html" crc="3899317651" seo="true" mt="1522299519282" redirect="true"/>
+  <file name="misc.html" crc="188333209" seo="true" mt="1522352988151" redirect="true"/>
   <file name="scienceconstruction.html" crc="4039036270" seo="true" mt="1522299673476" redirect="true"/>
   <file name="sciencebuilding.html" crc="3925569980" seo="true" mt="1522299673476" redirect="true"/>
 </manifest>
