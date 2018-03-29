@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522353795812">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522354151510">
   <folder name="css">
     <file name="site_global.css" crc="3901115436"/>
     <file name="master_projects.css" crc="404025070" ref="helixredesign:financialfeud:lofo:daslab:liver:labi:misc"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:index:lofo:about-me:daslab:liver:labi:misc:scienceconstruction:sciencebuilding"/>
     <file name="helixredesign.css" crc="102458620" ref="helixredesign"/>
-    <file name="financialfeud.css" crc="384776037" ref="financialfeud"/>
+    <file name="financialfeud.css" crc="3828642375" ref="financialfeud"/>
     <file name="projects.css" crc="4290505477" ref="projects"/>
     <file name="index.css" crc="533471587" ref="index"/>
     <file name="lofo.css" crc="471202150" ref="lofo"/>
@@ -12,7 +12,7 @@
     <file name="daslab.css" crc="3864895338" ref="daslab"/>
     <file name="liver.css" crc="161789066" ref="liver"/>
     <file name="labi.css" crc="449325802" ref="labi"/>
-    <file name="misc.css" crc="3900052431" ref="misc"/>
+    <file name="misc.css" crc="4121231019" ref="misc"/>
     <file name="master_directories.css" crc="3776053424" ref="index:about-me"/>
     <file name="master_projectdirectories.css" crc="157602862" ref="projects:scienceconstruction:sciencebuilding"/>
     <file name="scienceconstruction.css" crc="152696981" ref="scienceconstruction"/>
@@ -127,7 +127,7 @@
     <file name="pgxpl16-000212_v3_pain_051617-u11255-fr.jpg" crc="451698190" ref="helixredesign"/>
     <file name="pgxpl16-000212_v3_pain_051617-u11255-fr_2x.jpg" crc="3773871598" ref="helixredesign"/>
     <file name="sync-u11082-fr.png" crc="265218378" ref="helixredesign"/>
-    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign:misc"/>
+    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign"/>
     <file name="green-u11197-fr.png" crc="4079413569" ref="helixredesign"/>
     <file name="red-u11148-fr.png" crc="3776490645" ref="helixredesign"/>
     <file name="questionaire-u12641-fr.jpg" crc="410830058" ref="lofo"/>
@@ -233,17 +233,18 @@
     </file>
     <file name="bob-u15013-fr.png" crc="12033436" ref="misc"/>
     <file name="bob-u15013-fr_2x.png" crc="4100913538" ref="misc"/>
+    <file name="apple iphone 8 silver-u14825-fr.png" crc="4076768397" ref="misc"/>
   </folder>
   <file name="index.html" crc="232723873" seo="true" mt="1522298433660" redirect="true"/>
   <file name="projects.html" crc="484422224" seo="true" mt="1522299673476" redirect="true"/>
   <file name="about-me.html" crc="22493801" seo="true" mt="1522298433660" redirect="true"/>
-  <file name="financialfeud.html" crc="4045898452" seo="true" mt="1522353780593" redirect="true"/>
+  <file name="financialfeud.html" crc="4072691822" seo="true" mt="1522354140974" redirect="true"/>
   <file name="lofo.html" crc="138942914" seo="true" mt="1522353432558" redirect="true"/>
   <file name="helixredesign.html" crc="323577129" seo="true" mt="1522353357405" redirect="true"/>
   <file name="daslab.html" crc="237225226" seo="true" mt="1522263366084" redirect="true"/>
   <file name="labi.html" crc="68309742" seo="true" mt="1522263366084" redirect="true"/>
   <file name="liver.html" crc="505802301" seo="true" mt="1522263366084" redirect="true"/>
-  <file name="misc.html" crc="427735272" seo="true" mt="1522353775933" redirect="true"/>
+  <file name="misc.html" crc="4118819691" seo="true" mt="1522354135138" redirect="true"/>
   <file name="scienceconstruction.html" crc="4039036270" seo="true" mt="1522299673476" redirect="true"/>
   <file name="sciencebuilding.html" crc="3925569980" seo="true" mt="1522299673476" redirect="true"/>
 </manifest>
