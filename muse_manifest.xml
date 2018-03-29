@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522296880776">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1522297805424">
   <folder name="css">
     <file name="site_global.css" crc="3901115436"/>
     <file name="master_projects.css" crc="4269933513" ref="helixredesign:financialfeud:lofo:daslab:liver:labi:misc"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:projects:index:lofo:science:about-me:daslab:liver:labi:misc"/>
-    <file name="helixredesign.css" crc="3854930250" ref="helixredesign"/>
-    <file name="financialfeud.css" crc="3819461017" ref="financialfeud"/>
+    <file name="helixredesign.css" crc="373601992" ref="helixredesign"/>
+    <file name="financialfeud.css" crc="462972253" ref="financialfeud"/>
     <file name="projects.css" crc="498240597" ref="projects"/>
-    <file name="index.css" crc="20493777" ref="index"/>
-    <file name="lofo.css" crc="4208816367" ref="lofo"/>
-    <file name="science.css" crc="529212281" ref="science"/>
-    <file name="about-me.css" crc="4246859694" ref="about-me"/>
+    <file name="index.css" crc="423888171" ref="index"/>
+    <file name="lofo.css" crc="4165182344" ref="lofo"/>
+    <file name="science.css" crc="85758260" ref="science"/>
+    <file name="about-me.css" crc="4051306821" ref="about-me"/>
     <file name="daslab.css" crc="3864895338" ref="daslab"/>
     <file name="liver.css" crc="161789066" ref="liver"/>
     <file name="labi.css" crc="449325802" ref="labi"/>
-    <file name="misc.css" crc="378962763" ref="misc"/>
-    <file name="master_directories.css" crc="179959359" ref="index:about-me"/>
-    <file name="master_projectdirectories.css" crc="147392054" ref="science:projects"/>
+    <file name="misc.css" crc="228539192" ref="misc"/>
+    <file name="master_directories.css" crc="4253750150" ref="index:about-me"/>
+    <file name="master_projectdirectories.css" crc="4043796065" ref="science:projects"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -53,19 +53,19 @@
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="search.gif" crc="328564339" ref="helixredesign">
+      <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="helixredesign" alt=""/>
-      <caption webpage="lofo" alt=""/>
     </file>
     <file name="swipe.gif" crc="26593918" ref="helixredesign">
+      <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="helixredesign" alt=""/>
-      <caption webpage="lofo" alt=""/>
     </file>
     <file name="adddrug.gif" crc="497771774" ref="helixredesign">
+      <caption webpage="lofo" alt=""/>
       <caption webpage="upark" alt=""/>
       <caption webpage="helixredesign" alt=""/>
-      <caption webpage="lofo" alt=""/>
     </file>
     <file name="logo-helix.svg" crc="4080703492" ref="helixredesign"/>
     <file name="logo-helix_poster_u11230.png" crc="15985251" ref="helixredesign"/>
@@ -126,7 +126,7 @@
     <file name="pgxpl16-000212_v3_pain_051617-u11255-fr.jpg" crc="451698190" ref="helixredesign"/>
     <file name="pgxpl16-000212_v3_pain_051617-u11255-fr_2x.jpg" crc="3773871598" ref="helixredesign"/>
     <file name="sync-u11082-fr.png" crc="265218378" ref="helixredesign"/>
-    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign"/>
+    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign:misc"/>
     <file name="green-u11197-fr.png" crc="4079413569" ref="helixredesign"/>
     <file name="red-u11148-fr.png" crc="3776490645" ref="helixredesign"/>
     <file name="questionaire-u12641-fr.jpg" crc="410830058" ref="lofo"/>
@@ -206,7 +206,6 @@
     <file name="bpnotification_2x.png" crc="98133677" ref="misc">
       <caption webpage="misc" alt=""/>
     </file>
-    <file name="apple iphone 8 silver-u14825-fr.png" crc="4076768397" ref="misc"/>
     <file name="trivia.gif" crc="411489974" ref="misc">
       <caption webpage="misc" alt=""/>
     </file>
@@ -220,15 +219,15 @@
       <caption webpage="misc" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4002667668" seo="true" mt="1522285927929" redirect="true"/>
-  <file name="science.html" crc="4045448714" seo="true" mt="1522285536781" redirect="true"/>
-  <file name="projects.html" crc="4224779072" seo="true" mt="1522286654132" redirect="true"/>
-  <file name="about-me.html" crc="3958334679" seo="true" mt="1522285927929" redirect="true"/>
-  <file name="financialfeud.html" crc="468328610" seo="true" mt="1522286690043" redirect="true"/>
-  <file name="lofo.html" crc="426879481" seo="true" mt="1522267864736" redirect="true"/>
-  <file name="helixredesign.html" crc="3788012781" seo="true" mt="1522267707904" redirect="true"/>
+  <file name="index.html" crc="488302695" seo="true" mt="1522297793417" redirect="true"/>
+  <file name="science.html" crc="199629747" seo="true" mt="1522297649876" redirect="true"/>
+  <file name="projects.html" crc="4100796188" seo="true" mt="1522297649876" redirect="true"/>
+  <file name="about-me.html" crc="172717999" seo="true" mt="1522297793417" redirect="true"/>
+  <file name="financialfeud.html" crc="4189154487" seo="true" mt="1522297649865" redirect="true"/>
+  <file name="lofo.html" crc="42014748" seo="true" mt="1522297649866" redirect="true"/>
+  <file name="helixredesign.html" crc="499363219" seo="true" mt="1522297649897" redirect="true"/>
   <file name="daslab.html" crc="237225226" seo="true" mt="1522263366084" redirect="true"/>
   <file name="labi.html" crc="68309742" seo="true" mt="1522263366084" redirect="true"/>
   <file name="liver.html" crc="505802301" seo="true" mt="1522263366084" redirect="true"/>
-  <file name="misc.html" crc="4123593979" seo="true" mt="1522296839102" redirect="true"/>
+  <file name="misc.html" crc="3903688548" seo="true" mt="1522297649898" redirect="true"/>
 </manifest>
