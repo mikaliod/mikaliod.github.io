@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1523562672867">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1523564697931">
   <folder name="css">
-    <file name="site_global.css" crc="4044664788"/>
-    <file name="master_projects.css" crc="4247778552" ref="helixredesign:financialfeud:lofo:misc"/>
+    <file name="site_global.css" crc="243224459"/>
+    <file name="master_projects.css" crc="46726419" ref="helixredesign:financialfeud:lofo:misc"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:index:lofo:about-me:misc"/>
-    <file name="helixredesign.css" crc="4137017700" ref="helixredesign"/>
-    <file name="financialfeud.css" crc="112502223" ref="financialfeud"/>
+    <file name="helixredesign.css" crc="460533696" ref="helixredesign"/>
+    <file name="financialfeud.css" crc="488818726" ref="financialfeud"/>
     <file name="index.css" crc="46612485" ref="index"/>
-    <file name="lofo.css" crc="15982465" ref="lofo"/>
+    <file name="lofo.css" crc="28205237" ref="lofo"/>
     <file name="about-me.css" crc="480858312" ref="about-me"/>
-    <file name="misc.css" crc="508479901" ref="misc"/>
-    <file name="master_directories.css" crc="3818626217" ref="index:about-me"/>
+    <file name="misc.css" crc="156546372" ref="misc"/>
+    <file name="master_directories.css" crc="80325747" ref="index:about-me"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -48,18 +48,18 @@
     </file>
     <file name="search.gif" crc="328564339" ref="helixredesign">
       <caption webpage="lofo" alt=""/>
-      <caption webpage="upark" alt=""/>
       <caption webpage="helixredesign" alt=""/>
+      <caption webpage="upark" alt=""/>
     </file>
     <file name="swipe.gif" crc="26593918" ref="helixredesign">
       <caption webpage="lofo" alt=""/>
-      <caption webpage="upark" alt=""/>
       <caption webpage="helixredesign" alt=""/>
+      <caption webpage="upark" alt=""/>
     </file>
     <file name="adddrug.gif" crc="497771774" ref="helixredesign">
       <caption webpage="lofo" alt=""/>
-      <caption webpage="upark" alt=""/>
       <caption webpage="helixredesign" alt=""/>
+      <caption webpage="upark" alt=""/>
     </file>
     <file name="logo-helix.svg" crc="4080703492" ref="helixredesign"/>
     <file name="logo-helix_poster_u11230.png" crc="15985251" ref="helixredesign"/>
@@ -91,7 +91,7 @@
     <file name="pgxpl16-000212_v3_pain_051617-u11255-fr.jpg" crc="451698190" ref="helixredesign"/>
     <file name="pgxpl16-000212_v3_pain_051617-u11255-fr_2x.jpg" crc="3773871598" ref="helixredesign"/>
     <file name="sync-u11082-fr.png" crc="265218378" ref="helixredesign"/>
-    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign"/>
+    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign:misc"/>
     <file name="green-u11197-fr.png" crc="4079413569" ref="helixredesign"/>
     <file name="red-u11148-fr.png" crc="3776490645" ref="helixredesign"/>
     <file name="wardrobeimac-u13885-fr.png" crc="4122173898" ref="misc"/>
@@ -182,7 +182,6 @@
     <file name="ff1-u15060-fr.png" crc="512204377" ref="index"/>
     <file name="lofo-u15057-fr.jpg" crc="3815279903" ref="index"/>
     <file name="helix-u15069-fr.jpg" crc="3936438580" ref="index"/>
-    <file name="apple iphone 8 silver-u14825-fr.png" crc="4076768397" ref="misc"/>
     <file name="lofo-alt.jpg" crc="4062000161" ref="lofo" seo="true">
       <caption webpage="lofo" alt=""/>
     </file>
@@ -282,10 +281,10 @@
       <caption webpage="lofo" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="175597380" seo="true" mt="1523415688994" redirect="true"/>
-  <file name="about-me.html" crc="164312493" seo="true" mt="1523415664304" redirect="true"/>
-  <file name="financialfeud.html" crc="4011352586" seo="true" mt="1523415888550" redirect="true"/>
-  <file name="lofo.html" crc="4186282957" seo="true" mt="1523562604936" redirect="true"/>
-  <file name="helixredesign.html" crc="3870775583" seo="true" mt="1523415880873" redirect="true"/>
-  <file name="misc.html" crc="4125839685" seo="true" mt="1523415376346" redirect="true"/>
+  <file name="index.html" crc="4268786168" seo="true" mt="1523563656362" redirect="true"/>
+  <file name="about-me.html" crc="3776632789" seo="true" mt="1523563656679" redirect="true"/>
+  <file name="financialfeud.html" crc="4106304747" seo="true" mt="1523563656559" redirect="true"/>
+  <file name="lofo.html" crc="478591600" seo="true" mt="1523564681995" redirect="true"/>
+  <file name="helixredesign.html" crc="3837977015" seo="true" mt="1523563656559" redirect="true"/>
+  <file name="misc.html" crc="4113143514" seo="true" mt="1523563656559" redirect="true"/>
 </manifest>
