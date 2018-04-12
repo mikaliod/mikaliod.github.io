@@ -20,14 +20,104 @@
   </url>
   <url>
     <loc>http://mike-dong.com/lofo.html</loc>
-    <lastmod>2018-04-10</lastmod>
+    <lastmod>2018-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mike-dong.com/images/group%204.png</image:loc>
+      <image:loc>http://mike-dong.com/images/lofo-alt.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/group%204_2x.png</image:loc>
+      <image:loc>http://mike-dong.com/images/lofo-alt_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/intro_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/intro.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/xlb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/xlb_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/places.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/places_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/foodies.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/foodies_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/foodie.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/foodie_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/report.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/report_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/buddiesearch.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/buddiesearch_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/buddie.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/buddie_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/message.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/message_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/questionairecrop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/questionairecrop_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/stakeholders.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/stakeholders_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/value.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/value_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/flowchart.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/flowchart_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/screens.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/screens_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/wireframes.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/wireframes_2x.png</image:loc>
     </image:image>
   </url>
   <url>

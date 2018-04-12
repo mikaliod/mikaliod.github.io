@@ -11,18 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "lofo.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "require.js", "lofo.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=238392154"/>
   <title>Lofo</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4182305562"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3871301509"/>
   <link rel="stylesheet" type="text/css" href="css/master_grandmaster.css?crc=4017877407"/>
-  <link rel="stylesheet" type="text/css" href="css/master_projects.css?crc=4247778552"/>
-  <link rel="stylesheet" type="text/css" href="css/lofo.css?crc=3820222213" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_projects.css?crc=194193775"/>
+  <link rel="stylesheet" type="text/css" href="css/lofo.css?crc=95822668" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/bgFq4NNFzC3u9oSMrYZO3y5Ur-4qG619WOrS8hwyV5wfeCCgfJWLE3wPH263FQjaw28LwhmcFAjk52SXwcFcw2sqjQs8FQFy52mqwA9hZQFRjDb-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6TlpW4TjAblSY4zJ6NcScmTZhyXOA4TZku3ScvKI1MkwKuudcs8Scikdam0Zfu3jkG4fwIuIMMjMkMfH6qJ3D9bMg6IJMJ7f6KkqMIbMs6IJMJ7fbR1OgMfeMw6MqGIQWmDZZMg_VHuu69.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/4SD_Z2lnTk-RDJf9o1mDAx_X6CXOT7cWDPdbLPLF0XSfeljgfJWLE3wPH263FQjaw28LwhmcFAjk52SXwcFcw2sqjQs8FQFy52mqwA9hZQFRjDb-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6NcScmTZhyXOA4TZku3ScvKI1MkwKuudcs8Scikdam0Zfu3jkJHdW8k-ABqOWgkdkGHfOHbMsMMeMb6MKG4f5SCIMIjMkMfH6qJ3Q9bMy62JMJ7fbRIFsMfeMj6MKG4fwwuIMJjgfMfP6sFiWF8qMei_OnAgb.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -111,10 +111,6 @@ transition:none !important;
     ga('require', 'linkid', 'linkid.js');
   </script>
   
-  <!--/*
-
-*/
--->
  </head>
  <body>
 
@@ -156,227 +152,330 @@ transition:none !important;
    </div>
    <div class="clearfix grpelem" id="pmotivation"><!-- column -->
     <a class="anchor_item colelem" id="motivation" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
+    <a class="anchor_item colelem" id="overview" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
     <a class="anchor_item colelem" id="research" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
     <a class="anchor_item colelem" id="problem" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
     <a class="anchor_item colelem" id="ideation" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
-    <a class="anchor_item colelem" id="solution" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
+    <a class="anchor_item colelem" id="prototype" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
     <a class="anchor_item colelem" id="futuresteps" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
    </div>
-   <a class="nonblock nontext Button nav clearfix" id="buttonu14300" href="index.html#projects" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u14302-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u14302-2"><span class="MenuNormal1" id="u14302">&lt;</span></p></div><div class="clearfix grpelem" id="u14301-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14301-2"><span class="MenuNormal1" id="u14301">projects</span></p></div></a>
-   <div class="clearfix grpelem" id="pu12311-4"><!-- column -->
-    <div class="clearfix colelem" id="u12311-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12311-2"><span class="BigTitle" id="u12311">Lofo</span></p>
+   <div class="clearfix grpelem" id="pbuttonu14300"><!-- group -->
+    <a class="nonblock nontext Button nav clearfix" id="buttonu14300" href="index.html#projects" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u14302-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u14302-2"><span class="MenuNormal1" id="u14302">&lt;</span></p></div><div class="clearfix grpelem" id="u14301-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14301-2"><span class="MenuNormal1" id="u14301">projects</span></p></div></a>
+    <div class="clearfix" id="u14303"><!-- group -->
+     <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14304" href="lofo.html#motivation" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14305"><!-- simple frame --></div><div class="clearfix grpelem" id="u14306-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14306-2"><span class="MenuNormal1" id="u14306">motivation</span></p></div></a>
+     <div id="u14307"><!-- content -->
+      <div class="fluid_height_spacer"></div>
+     </div>
+     <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu15960" href="lofo.html#overview" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u15962"><!-- simple frame --></div><div class="clearfix grpelem" id="u15961-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u15961-2"><span class="MenuNormal1" id="u15961">overview</span></p></div></a>
+     <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14399" href="lofo.html#research" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14400"><!-- simple frame --></div><div class="clearfix grpelem" id="u14401-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14401-2"><span class="MenuNormal1" id="u14401">research</span></p></div></a>
+     <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14408" href="lofo.html#problem" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14410"><!-- simple frame --></div><div class="clearfix grpelem" id="u14409-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14409-2"><span class="MenuNormal1" id="u14409">problem</span></p></div></a>
+     <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14417" href="lofo.html#ideation" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14418"><!-- simple frame --></div><div class="clearfix grpelem" id="u14419-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14419-2"><span class="MenuNormal1" id="u14419">ideation</span></p></div></a>
+     <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14426" href="lofo.html#prototype" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14428"><!-- simple frame --></div><div class="clearfix grpelem" id="u14427-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14427-2"><span class="MenuNormal1" id="u14427">prototype</span></p></div></a>
+     <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14435" href="lofo.html#futuresteps" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14436"><!-- simple frame --></div><div class="clearfix grpelem" id="u14437-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14437-2"><span class="MenuNormal1" id="u14437">future steps</span></p></div></a>
     </div>
-    <div class="colelem" id="u14447" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <div class="clearfix colelem" id="u12339-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12339-2"><span class="Subtitle" id="u12339">linking people with food</span></p>
+   </div>
+   <div class="clearfix grpelem" id="pu15130-4"><!-- column -->
+    <div class="Title clearfix colelem" id="u15130-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Lofo</p>
     </div>
-    <div class="museBGSize colelem" id="u12349" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <div class="clearfix colelem" id="u12343-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12343-2"><span class="Text1" id="u12343">Lofo is a mobile application that provides travelers with information abut local food and restaurants. Travelers can also build connections with locals by going out and having a meal with them together.</span></p>
+    <div class="Subtitle1 clearfix colelem" id="u15131-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Linking People with Food</p>
+    </div>
+    <div class="clip_frame colelem" id="u15725"><!-- image -->
+     <img class="block" id="u15725_img" src="images/lofo-alt.jpg?crc=4062000161" data-hidpi-src="images/lofo-alt_2x.jpg?crc=3773925527" alt="" data-heightwidthratio="0.7502944640753828" data-image-width="849" data-image-height="637"/>
+    </div>
+    <div class="Text clearfix colelem" id="u12343-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Lofo is a mobile application that provides travelers with information abut local food and restaurants. Travelers can also build connections with locals by going out and having a meal with them together.</p>
     </div>
     <div class="clearfix colelem" id="pu12329-8"><!-- group -->
-     <div class="clearfix grpelem" id="u12329-8" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12329-2"><span class="Subtitle" id="u12329">time:</span></p>
-      <p id="u12329-4"><span class="Subtitle" id="u12329-3">role:</span></p>
-      <p id="u12329-6"><span class="Subtitle" id="u12329-5">teammate:</span></p>
+     <div class="Text clearfix grpelem" id="u12329-8" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Time</p>
+      <p>Role</p>
+      <p>Teammate</p>
      </div>
-     <div class="clearfix grpelem" id="u12323-9" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12323-2"><span class="Text1" id="u12323">Summer 2017</span></p>
-      <p id="u12323-4"><span class="Text1" id="u12323-3">Research, Ideation, Wireframing, UX/UI Design, Prototyping</span></p>
-      <p id="u12323-7"><a class="nonblock" href="http://angela-xie.com"><span class="Text1" id="u12323-5">Angela Xie</span></a></p>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="pu12338-4"><!-- group -->
-     <div class="lofo0 clearfix grpelem" id="u12338-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12338-2"><span class="Number" id="u12338">0.</span></p>
-     </div>
-     <div class="clearfix grpelem" id="u12326-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12326-2"><span class="Subtitle" id="u12326">motivation</span></p>
+     <div class="Text clearfix grpelem" id="u12323-10" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Summer 2017</p>
+      <p>Research, Ideation, Wireframing, UX/UI Design, Prototyping</p>
+      <p><a class="nonblock" href="http://angela-xie.com">Angela Xie</a></p>
      </div>
     </div>
-    <div class="clearfix colelem" id="u12301-7" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12301-2"><span class="Text1" id="u12301">We, as human beings, all eat. Throughout history, the food that we eat had shaped civilizations and cultures. Thus, eating local food when traveling can make one's trip more enjoyable and also more meaningful.</span></p>
+    <div class="Section clearfix colelem" id="u12326-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Motivation</p>
+    </div>
+    <div class="Text clearfix colelem" id="u12301-7" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>We, as human beings, all eat. Throughout history, the food that we eat had shaped civilizations and cultures. Thus, eating local food when traveling can make one's trip more enjoyable and also more meaningful.</p>
      <p>&nbsp;</p>
-     <p id="u12301-5"><span class="Text1" id="u12301-4">So how would travelers, as strangers to a new area, find places to eat? In the summer of 2017, my friend Angela and I set about designing a reliable platform for travelers.</span></p>
+     <p>So how would travelers, as strangers to a new area, find places to eat? In the summer of 2017, my friend Angela and I set about designing a reliable platform for travelers.</p>
     </div>
-    <a class="nonblock nontext Button anim_swing nav clearfix colelem" id="buttonu12759" href="lofo.html#solution" data-visibility="changed" style="visibility:hidden" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- container box --><div class="clearfix grpelem" id="u12761-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u12761-2"><span class="MenuNormal1" id="u12761"></span></p></div><div class="clearfix grpelem" id="u12760-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u12760-2"><span class="MenuNormal1" id="u12760">jump straight to the final solution</span></p></div></a>
-    <div class="clearfix colelem" id="pu12602-4"><!-- group -->
-     <div class="lofo0 clearfix grpelem" id="u12602-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12602-2"><span class="Number" id="u12602">1.</span></p>
+    <div class="Section clearfix colelem" id="u15159-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Overview</p>
+    </div>
+    <div class="Text clearfix colelem" id="u15153-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Lofo is the final solution that solves most of the problems we've identified.</p>
+    </div>
+    <div class="clearfix colelem" id="pu15189-4"><!-- group -->
+     <div class="BigText1 clearfix grpelem" id="u15189-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Problem 1</p>
      </div>
-     <div class="clearfix grpelem" id="u12604-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12604-2"><span class="Subtitle" id="u12604">research</span></p>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="u12603-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12603-2"><span class="Text1" id="u12603">Angela and I first conducted a round of research, trying to figure out how people value food during a travel and how they would usually look for places to eat.</span></p>
-    </div>
-    <div class="museBGSize colelem" id="u12641"><!-- content -->
-     <div class="fluid_height_spacer"></div>
-    </div>
-    <div class="clearfix colelem" id="pu12652-4"><!-- group -->
-     <div class="lofo0 clearfix grpelem" id="u12652-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12652-2"><span class="Number" id="u12652">2.</span></p>
-     </div>
-     <div class="clearfix grpelem" id="u12654-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12654-2"><span class="Subtitle" id="u12654">problem</span></p>
+     <div class="BigText1 clearfix grpelem" id="u12756-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Travelers lack the knowledge of local dishes</p>
      </div>
     </div>
-    <div class="clearfix colelem" id="u12653-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12653-2"><span class="Text1" id="u12653">We identified 3 main problems from surveying people:</span></p>
+    <div class="clearfix colelem" id="pu15192-4"><!-- group -->
+     <div class="BigText1 clearfix grpelem" id="u15192-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Solution</p>
+     </div>
+     <div class="BigText1 clearfix grpelem" id="u15195-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>List of top local dishes</p>
+     </div>
     </div>
-    <div class="List1 clearfix colelem" id="u12661-17" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <ol class="list0 nls-None" id="u12661-15">
-      <li id="u12661-4"><span class="Text1">Travelers </span><span class="Text1" id="u12661-2">lack the knowledge of local dishes</span><span class="Text1">.</span></li>
-      <li id="u12661-5">&nbsp;</li>
-      <li id="u12661-9"><span class="Text1">Though services like Yelp and Google Review exist, there </span><span class="Text1" id="u12661-7">lacks a truly trustworthy restaurant finder</span><span class="Text1">.</span></li>
-      <li id="u12661-10">&nbsp;</li>
-      <li id="u12661-14"><span class="Text1">There is </span><span class="Text1" id="u12661-12">a gap between local residents and travelers</span><span class="Text1">.</span></li>
+    <div class="clearfix colelem" id="pu15718"><!-- group -->
+     <div class="clip_frame grpelem" id="u15718"><!-- image -->
+      <img class="block" id="u15718_img" src="images/intro.png?crc=101395714" data-hidpi-src="images/intro_2x.png?crc=4253326013" alt="" data-heightwidthratio="1.9927272727272727" data-image-width="275" data-image-height="548"/>
+     </div>
+     <div class="clip_frame grpelem" id="u15745"><!-- image -->
+      <img class="block" id="u15745_img" src="images/xlb.png?crc=4091867714" data-hidpi-src="images/xlb_2x.png?crc=311895726" alt="" data-heightwidthratio="1.9927272727272727" data-image-width="275" data-image-height="548"/>
+     </div>
+     <div class="clip_frame grpelem" id="u15752"><!-- image -->
+      <img class="block" id="u15752_img" src="images/places.png?crc=114497949" data-hidpi-src="images/places_2x.png?crc=3900746342" alt="" data-heightwidthratio="1.9927272727272727" data-image-width="275" data-image-height="548"/>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu12811-6"><!-- group -->
+     <div class="Text clearfix grpelem" id="u12811-6" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>When travelers select their destination, a list of <span id="u12811-2">top local dishes</span> will show up in the order of popularity.</p>
+     </div>
+     <div class="Text clearfix grpelem" id="u15198-8" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Each dish has an individual page introducing the <span id="u15198-2">taste, ingredients</span>, and also the <span id="u15198-4">history and stories</span> about the dish.</p>
+     </div>
+     <div class="Text clearfix grpelem" id="u15201-5" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p><span id="u15201">Restaurants</span> that serve the dish are also listed so that travelers know where they can get that dish.</p>
+     </div>
+    </div>
+    <div class="colelem" id="u14453"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="pu15206-4"><!-- group -->
+     <div class="BigText1 clearfix grpelem" id="u15206-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Problem 2</p>
+     </div>
+     <div class="BigText1 clearfix grpelem" id="u15204-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>A trustworthy restaurant finder is needed</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu15207-4"><!-- group -->
+     <div class="BigText1 clearfix grpelem" id="u15207-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Solution</p>
+     </div>
+     <div class="BigText1 clearfix grpelem" id="u15205-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Foodies' restaurant reports</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu15779"><!-- group -->
+     <div class="clip_frame grpelem" id="u15779"><!-- image -->
+      <img class="block" id="u15779_img" src="images/foodies.png?crc=4174905243" data-hidpi-src="images/foodies_2x.png?crc=205849533" alt="" data-heightwidthratio="1.9927536231884058" data-image-width="276" data-image-height="550"/>
+     </div>
+     <div class="clip_frame grpelem" id="u15781"><!-- image -->
+      <img class="block" id="u15781_img" src="images/foodie.png?crc=182220031" data-hidpi-src="images/foodie_2x.png?crc=84854860" alt="" data-heightwidthratio="1.9927536231884058" data-image-width="276" data-image-height="550"/>
+     </div>
+     <div class="clip_frame grpelem" id="u15783"><!-- image -->
+      <img class="block" id="u15783_img" src="images/report.png?crc=3814065353" data-hidpi-src="images/report_2x.png?crc=380344398" alt="" data-heightwidthratio="1.9927536231884058" data-image-width="276" data-image-height="550"/>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu12877-5"><!-- group -->
+     <div class="Text clearfix grpelem" id="u12877-5" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p><span id="u12877">Foodies</span> are people who are passionate about sharing their knowledge of good restaurants.</p>
+     </div>
+     <div class="Text clearfix grpelem" id="u15216-6" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Foodies <span id="u15216-2">write reviews and recommendations</span> of local restaurants that travelers and even local people can read.</p>
+     </div>
+     <div class="Text clearfix grpelem" id="u15219-6" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>By looking through their posts, one will be able to know about <span id="u15219-2">the best restaurants</span> in the area.</p>
+     </div>
+    </div>
+    <div class="colelem" id="u15222"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="pu15225-4"><!-- group -->
+     <div class="BigText1 clearfix grpelem" id="u15225-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Problem 3</p>
+     </div>
+     <div class="BigText1 clearfix grpelem" id="u15228-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>There's a gap between local residents and travelers</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu15234-4"><!-- group -->
+     <div class="BigText1 clearfix grpelem" id="u15234-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Solution</p>
+     </div>
+     <div class="BigText1 clearfix grpelem" id="u15231-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Meal buddies</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu15821"><!-- group -->
+     <div class="clip_frame grpelem" id="u15821"><!-- image -->
+      <img class="block" id="u15821_img" src="images/buddiesearch.png?crc=53940169" data-hidpi-src="images/buddiesearch_2x.png?crc=4068482519" alt="" data-heightwidthratio="1.9927536231884058" data-image-width="276" data-image-height="550"/>
+     </div>
+     <div class="clip_frame grpelem" id="u15823"><!-- image -->
+      <img class="block" id="u15823_img" src="images/buddie.png?crc=519662297" data-hidpi-src="images/buddie_2x.png?crc=273721914" alt="" data-heightwidthratio="1.9927536231884058" data-image-width="276" data-image-height="550"/>
+     </div>
+     <div class="clip_frame grpelem" id="u15825"><!-- image -->
+      <img class="block" id="u15825_img" src="images/message.png?crc=3809902786" data-hidpi-src="images/message_2x.png?crc=76292810" alt="" data-heightwidthratio="1.9927536231884058" data-image-width="276" data-image-height="550"/>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu15249-8"><!-- group -->
+     <div class="Text clearfix grpelem" id="u15249-8" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Travelers can see, with or without filters, <span id="u15249-2">local people</span> who are available to go and <span id="u15249-4">grab food together</span>.</p>
+     </div>
+     <div class="Text clearfix grpelem" id="u15252-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>These meal buddies can help the travels decide what restaurant to go to or what dish to order if there's language barrier.</p>
+     </div>
+     <div class="Text clearfix grpelem" id="u15246-6" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>By hanging out with each other, travelers can build possible <span id="u15246-2">long-term connections</span> with locals.</p>
+     </div>
+    </div>
+    <div class="colelem" id="u15279"><!-- simple frame --></div>
+    <div class="Section clearfix colelem" id="u15282-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Design Process</p>
+    </div>
+    <div class="clearfix colelem" id="pu15270-4"><!-- group -->
+     <div class="lofo0 Number1 clearfix grpelem" id="u15270-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>1.</p>
+     </div>
+     <div class="Section clearfix grpelem" id="u15272-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Research</p>
+     </div>
+    </div>
+    <div class="Text clearfix colelem" id="u15271-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>Angela and I first conducted a round of research, trying to figure out how people value food during a travel and how they would usually look for places to eat.</p>
+    </div>
+    <div class="clip_frame colelem" id="u15852"><!-- image -->
+     <img class="block" id="u15852_img" src="images/questionairecrop.jpg?crc=3830750380" data-hidpi-src="images/questionairecrop_2x.jpg?crc=360662695" alt="" data-heightwidthratio="0.5818610129564193" data-image-width="849" data-image-height="494"/>
+    </div>
+    <div class="clearfix colelem" id="pu15285-4"><!-- group -->
+     <div class="lofo0 Number1 clearfix grpelem" id="u15285-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>2.</p>
+     </div>
+     <div class="Section clearfix grpelem" id="u15288-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Problem</p>
+     </div>
+    </div>
+    <div class="Text clearfix colelem" id="u15291-21" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>We identified 3 main problems from surveying people:</p>
+     <p>&nbsp;</p>
+     <ol class="list0 nls-None" id="u15291-18">
+      <li>Travelers <span id="u15291-5">lack the knowledge of local dishes</span>.</li>
+      <li id="u15291-8">&nbsp;</li>
+      <li>Though services like Yelp and Google Review exist, there really<span id="u15291-10"> isn't a truly trustworthy restaurant finder</span>.</li>
+      <li id="u15291-13">&nbsp;</li>
+      <li>There is a <span id="u15291-15">gap between local residents and travelers</span>.</li>
+     </ol>
+     <p>&nbsp;</p>
+    </div>
+    <div class="clearfix colelem" id="pu15297-4"><!-- group -->
+     <div class="lofo0 Number1 clearfix grpelem" id="u15297-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>3.</p>
+     </div>
+     <div class="Section clearfix grpelem" id="u15300-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Ideation</p>
+     </div>
+    </div>
+    <div class="Text clearfix colelem" id="u15303-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>To address these problems, we started ideation by creating a stakeholder map, categorizing different people both from the travelers' side and the locals' side.</p>
+    </div>
+    <div class="clip_frame colelem" id="u15862"><!-- image -->
+     <img class="block" id="u15862_img" src="images/stakeholders.jpg?crc=289753998" data-hidpi-src="images/stakeholders_2x.jpg?crc=153533710" alt="" data-heightwidthratio="0.6277974087161367" data-image-width="849" data-image-height="533"/>
+    </div>
+    <div class="Text clearfix colelem" id="u12694-20" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>By analyzing the stakeholder map, we ideated some possible features of the application that can solve the problems we identified.</p>
+     <ol class="list0 nls-None" id="u12694-18">
+      <li id="u12694-3">&nbsp;</li>
+      <li>Initially, <span id="u12694-5">food info would be produced by &quot;foodies&quot;</span> who have the passion of sharing their knowledge of local food.</li>
+      <li id="u12694-8">&nbsp;</li>
+      <li>It also would provide <span id="u12694-10">a platform for the travelers and local people to meet up</span> and have food together.</li>
+      <li id="u12694-13">&nbsp;</li>
+      <li>Gradually, the food information would <span id="u12694-15">grow organically</span> as not only the foodies but also general users can provide these info.</li>
      </ol>
     </div>
-    <div class="clearfix colelem" id="pu12667-4"><!-- group -->
-     <div class="lofo0 clearfix grpelem" id="u12667-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12667-2"><span class="Number" id="u12667">3.</span></p>
-     </div>
-     <div class="clearfix grpelem" id="u12669-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12669-2"><span class="Subtitle" id="u12669">ideation</span></p>
-     </div>
+    <div class="clip_frame colelem" id="u15872"><!-- image -->
+     <img class="block" id="u15872_img" src="images/value.jpg?crc=4229517847" data-hidpi-src="images/value_2x.jpg?crc=292952197" alt="" data-heightwidthratio="0.6277974087161367" data-image-width="849" data-image-height="533"/>
     </div>
-    <div class="clearfix colelem" id="u12668-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12668-2"><span class="Text1" id="u12668">To address these problems, we started ideation by creating a stakeholder map, categorizing different people both from the travelers' side and the locals' side.</span></p>
+    <div class="Text clearfix colelem" id="u12717-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+     <p>After this, we made flow charts, lo-fi screen sketches, mid-fi wireframes, and multiple iterations before the final solution prototype.</p>
     </div>
-    <div class="museBGSize colelem" id="u12676"><!-- content -->
-     <div class="fluid_height_spacer"></div>
-    </div>
-    <div class="clearfix colelem" id="u12694-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12694-2"><span class="Text1" id="u12694">By analyzing the stakeholder map, we ideated some possible features of the application that can solve the problems we identified. Initially, food info would be produced by &quot;foodies&quot; who have the passion of sharing their knowledge of local food. It also would provide a platform for the travelers and local people to meet up and have food together. Gradually, the food information would grow organically as not only the foodies but also general users can provide these info.</span></p>
-    </div>
-    <div class="museBGSize colelem" id="u12697"><!-- content -->
-     <div class="fluid_height_spacer"></div>
-    </div>
-    <div class="clearfix colelem" id="u12717-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12717-2"><span class="Text1" id="u12717">After this, flow charts, lo-fi screen sketches, mid-fi wireframes, and multiple iterations were made before the final solution prototype.</span></p>
-    </div>
-    <div class="museBGSize colelem" id="u12720"><!-- content -->
-     <div class="fluid_height_spacer"></div>
-    </div>
-    <div class="museBGSize colelem" id="u12731"><!-- content -->
-     <div class="fluid_height_spacer"></div>
-    </div>
-    <div class="museBGSize colelem" id="u12745"><!-- content -->
-     <div class="fluid_height_spacer"></div>
-    </div>
-    <div class="clearfix colelem" id="pu12708-4"><!-- group -->
-     <div class="lofo0 clearfix grpelem" id="u12708-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12708-2"><span class="Number" id="u12708">4.</span></p>
-     </div>
-     <div class="clearfix grpelem" id="u12710-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12710-2"><span class="Subtitle" id="u12710">solution</span></p>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="u12709-5" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12709-3"><span class="Text1" id="u12709">Lofo</span><span class="Text1" id="u12709-2"> is the final solution that solves most of the problems we've identified.</span></p>
-    </div>
-    <div class="clip_frame colelem" id="u12801"><!-- image -->
-     <img class="block" id="u12801_img" src="images/group%204.png?crc=401275815" data-hidpi-src="images/group%204_2x.png?crc=3950748877" alt="" data-heightwidthratio="1" data-image-width="139" data-image-height="139"/>
-    </div>
-    <div class="colelem" id="u14444" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <div class="List1 clearfix colelem" id="u12756-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12756-2"><span class="Text1" id="u12756">Problem 1: Travelers lack the knowledge of local dishes.</span></p>
-    </div>
-    <div class="clearfix colelem" id="pu12841"><!-- group -->
-     <div class="museBGSize grpelem" id="u12841"><!-- content -->
-      <div class="fluid_height_spacer"></div>
-     </div>
-     <div class="museBGSize grpelem" id="u12852"><!-- content -->
-      <div class="fluid_height_spacer"></div>
-     </div>
-     <div class="museBGSize grpelem" id="u12855"><!-- content -->
-      <div class="fluid_height_spacer"></div>
+    <div class="SlideShowWidget clearfix colelem" id="slideshowu15466" data-visibility="changed" style="visibility:hidden"><!-- none box -->
+     <div class="position_content" id="slideshowu15466_position_content">
+      <div class="popup_anchor allow_click_through colelem" data-col-pos="0" id="u15475popup">
+       <div class="SlideShowContentPanel clearfix" data-col-pos="0" id="u15475"><!-- stack box -->
+        <div class="SSSlide clip_frame grpelem" data-col-pos="0" id="u15658"><!-- image -->
+         <img class="block ImageInclude" data-col-pos="0" id="u15658_img" data-src="images/flowchart.png?crc=188257999" data-hidpi-src="images/flowchart_2x.png?crc=312627840" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.6889763779527559" data-image-width="762" data-image-height="525"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" data-col-pos="1" id="u15678"><!-- image -->
+         <img class="block ImageInclude" data-col-pos="1" id="u15678_img" data-src="images/screens.png?crc=367197207" data-hidpi-src="images/screens_2x.png?crc=4203580101" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.46054181389870436" data-image-width="849" data-image-height="391"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" data-col-pos="2" id="u15698"><!-- image -->
+         <img class="block ImageInclude" data-col-pos="2" id="u15698_img" data-src="images/wireframes.png?crc=93327910" data-hidpi-src="images/wireframes_2x.png?crc=3840019937" src="images/blank.gif?crc=4208392903" alt="" data-heightwidthratio="0.9325044404973357" data-image-width="563" data-image-height="525"/>
+        </div>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="pu15468-4"><!-- group -->
+       <div class="popup_anchor allow_click_through grpelem" data-col-pos="7" id="u15468-4popup">
+        <div class="SSPreviousButton clearfix" data-col-pos="7" id="u15468-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+         <div class="Text" id="u15468-3">
+          <p>&lt;</p>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor allow_click_through grpelem" data-col-pos="2" id="u15472popup">
+        <div class="SlideShowCaptionPanel clearfix" data-col-pos="2" id="u15472"><!-- stack box -->
+         <div class="SSSlideCaption clearfix grpelem" data-col-pos="0" id="u15670-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+          <div class="Text" id="u15670-3">
+           <p>Flow Chart</p>
+          </div>
+         </div>
+         <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="1" id="u15690-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+          <div class="Text" id="u15690-3">
+           <p>Lo-fi Screen Sketches</p>
+          </div>
+         </div>
+         <div class="SSSlideCaption invi clearfix grpelem" data-col-pos="2" id="u15710-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+          <div class="Text" id="u15710-3">
+           <p>Mid-fi Wireframes</p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="popup_anchor allow_click_through grpelem" data-col-pos="8" id="u15474-4popup">
+        <div class="SSNextButton clearfix" data-col-pos="8" id="u15474-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+         <div class="Text" id="u15474-3">
+          <p>&gt;</p>
+         </div>
+        </div>
+       </div>
+      </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="u12994-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p id="u12994-2"><span class="Subtitle" id="u12994">solution: local dishes</span></p>
-    </div>
-    <div class="clearfix colelem" id="u12811-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12811-2"><span class="Text1" id="u12811">When travelers select their destination, a list of top local dishes will show up in the order of popularity. Each dish has an individual page introducing the taste, ingredients, and also the history and stories about the dish. Restaurants that serve the dish are also listed.</span></p>
-    </div>
-    <div class="colelem" id="u14453" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <div class="List1 clearfix colelem" id="u12874-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12874-2"><span class="Text1" id="u12874">Problem 2: There lacks a truly trustworthy restaurant finder.</span></p>
-    </div>
-    <div class="clearfix colelem" id="pu12913"><!-- group -->
-     <div class="museBGSize grpelem" id="u12913"><!-- content -->
-      <div class="fluid_height_spacer"></div>
+    <div class="clearfix colelem" id="pu15882-4"><!-- group -->
+     <div class="lofo0 Number1 clearfix grpelem" id="u15882-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>4.</p>
      </div>
-     <div class="museBGSize grpelem" id="u12880"><!-- content -->
-      <div class="fluid_height_spacer"></div>
+     <div class="Section clearfix grpelem" id="u15884-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Prototype</p>
      </div>
-     <div class="museBGSize grpelem" id="u12883"><!-- content -->
-      <div class="fluid_height_spacer"></div>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="u12997-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p id="u12997-2"><span class="Subtitle" id="u12997">solution: foodies' restaurant reports</span></p>
-    </div>
-    <div class="clearfix colelem" id="u12877-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12877-2"><span class="Text1" id="u12877">Foodies are people who are passionate about writing reviews and recommendations of good restaurants. By looking through their posts, travelers will be able to know about the best restaurants in the area they're going to.</span></p>
-    </div>
-    <div class="colelem" id="u14456" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <div class="List1 clearfix colelem" id="u12942-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12942-2"><span class="Text1" id="u12942">Problem 3: There is a gap between local residents and travelers.</span></p>
-    </div>
-    <div class="clearfix colelem" id="pu12939"><!-- group -->
-     <div class="museBGSize grpelem" id="u12939"><!-- content -->
-      <div class="fluid_height_spacer"></div>
-     </div>
-     <div class="museBGSize grpelem" id="u12945"><!-- content -->
-      <div class="fluid_height_spacer"></div>
-     </div>
-     <div class="museBGSize grpelem" id="u12948"><!-- content -->
-      <div class="fluid_height_spacer"></div>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="u13000-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-     <p id="u13000-2"><span class="Subtitle" id="u13000">solution: meal buddies</span></p>
-    </div>
-    <div class="clearfix colelem" id="u12951-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12951-2"><span class="Text1" id="u12951">Using filters travelers can reach out to locals and go and get food together. These meal buddies can help the travels decide what restaurant to go to, what dish to order if language barrier exists, and possibly build long-term connection in between.</span></p>
-    </div>
-    <div class="colelem" id="u14459" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
-    <div class="clearfix colelem" id="u12991-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12991-2"><span class="Text1" id="u12991">See below for the prototype.</span></p>
     </div>
     <div class="colelem" id="u12978"><!-- custom html -->
      <iframe src="https://marvelapp.com/3439iji?emb=1&iosapp=false&frameless=false" width="452" height="901" allowTransparency="true" frameborder="0"></iframe>
     </div>
-    <div class="clearfix colelem" id="pu12982-4"><!-- group -->
-     <div class="lofo0 clearfix grpelem" id="u12982-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12982-2"><span class="Number" id="u12982">5.</span></p>
+    <div class="clearfix colelem" id="pu15891-4"><!-- group -->
+     <div class="lofo0 Number1 clearfix grpelem" id="u15891-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>5.</p>
      </div>
-     <div class="clearfix grpelem" id="u12984-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
-      <p id="u12984-2"><span class="Subtitle" id="u12984">future steps</span></p>
+     <div class="Section clearfix grpelem" id="u15892-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>Future Steps</p>
      </div>
     </div>
-    <div class="clearfix colelem" id="u12983-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
-     <p id="u12983-2"><span class="Text1" id="u12983">More user testing with the prototype needs to be done for more iteration. Other problems are also worthy of considering, such as safety issues, motivation for foodies to write posts, the mechanism through which foodies are recruited, and so on. We'd love to continue working on Lofo and make it better!</span></p>
+    <div class="Text clearfix colelem" id="u12983-4" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
+     <p>More user testing with the prototype needs to be done for more iteration. Other problems are also worthy of considering, such as safety issues, motivation for foodies to write posts, the mechanism through which foodies are recruited, and so on. We'd love to continue working on Lofo and make it better!</p>
     </div>
     <a class="nonblock nontext Button nav clearfix colelem" id="buttonu14462" href="financialfeud.html" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="clearfix grpelem" id="u14464-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14464-2"><span class="MenuNormal1" id="u14464">next project</span></p></div><div class="clearfix grpelem" id="u14463-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14463-2"><span class="MenuNormal1" id="u14463">&gt;</span></p></div></a>
-    <div class="colelem" id="u14387" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
+    <div class="colelem" id="u14387"><!-- simple frame --></div>
    </div>
-   <div class="clearfix" id="u14303"><!-- group -->
-    <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14304" href="lofo.html#motivation" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14305"><!-- simple frame --></div><div class="clearfix grpelem" id="u14306-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14306-2"><span class="MenuNormal1" id="u14306">motivation</span></p></div></a>
-    <div id="u14307"><!-- content -->
-     <div class="fluid_height_spacer"></div>
-    </div>
-    <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14399" href="lofo.html#research" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14400"><!-- simple frame --></div><div class="clearfix grpelem" id="u14401-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14401-2"><span class="MenuNormal1" id="u14401">research</span></p></div></a>
-    <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14408" href="lofo.html#problem" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14410"><!-- simple frame --></div><div class="clearfix grpelem" id="u14409-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14409-2"><span class="MenuNormal1" id="u14409">problem</span></p></div></a>
-    <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14417" href="lofo.html#ideation" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14418"><!-- simple frame --></div><div class="clearfix grpelem" id="u14419-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14419-2"><span class="MenuNormal1" id="u14419">ideation</span></p></div></a>
-    <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14426" href="lofo.html#solution" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14428"><!-- simple frame --></div><div class="clearfix grpelem" id="u14427-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14427-2"><span class="MenuNormal1" id="u14427">solution</span></p></div></a>
-    <a class="nonblock nontext Button anim_swing nav clearfix" id="buttonu14435" href="lofo.html#futuresteps" data-visibility="changed" style="visibility:hidden"><!-- container box --><div class="grpelem" id="u14436"><!-- simple frame --></div><div class="clearfix grpelem" id="u14437-4" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p id="u14437-2"><span class="MenuNormal1" id="u14437">future steps</span></p></div></a>
-   </div>
-   <div class="verticalspacer" data-offset-top="11000" data-content-above-spacer="10999" data-content-below-spacer="124" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="9577" data-content-above-spacer="9577" data-content-below-spacer="124" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <div class="clearfix grpelem" id="pu15103-4"><!-- column -->
     <div class="Btm Text clearfix colelem" id="u15103-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
      <p>© 2018 mike yilin dong</p>
@@ -404,12 +503,14 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","webpro","musewpslideshow","jquery.museoverlay","touchswipe"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('#slideshowu15466', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); $(elem).data('widget', widget); return widget; });/* #slideshowu15466 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
