@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1523496477781">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1523496745534">
   <folder name="css">
-    <file name="site_global.css" crc="3871301509"/>
-    <file name="master_projects.css" crc="194193775" ref="helixredesign:financialfeud:lofo:misc"/>
+    <file name="site_global.css" crc="4044664788"/>
+    <file name="master_projects.css" crc="4247778552" ref="helixredesign:financialfeud:lofo:misc"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="helixredesign:financialfeud:index:lofo:about-me:misc"/>
     <file name="helixredesign.css" crc="4137017700" ref="helixredesign"/>
     <file name="financialfeud.css" crc="112502223" ref="financialfeud"/>
     <file name="index.css" crc="46612485" ref="index"/>
-    <file name="lofo.css" crc="95822668" ref="lofo"/>
+    <file name="lofo.css" crc="171449293" ref="lofo"/>
     <file name="about-me.css" crc="480858312" ref="about-me"/>
     <file name="misc.css" crc="508479901" ref="misc"/>
     <file name="master_directories.css" crc="3818626217" ref="index:about-me"/>
@@ -285,7 +285,7 @@
   <file name="index.html" crc="175597380" seo="true" mt="1523415688994" redirect="true"/>
   <file name="about-me.html" crc="164312493" seo="true" mt="1523415664304" redirect="true"/>
   <file name="financialfeud.html" crc="4011352586" seo="true" mt="1523415888550" redirect="true"/>
-  <file name="lofo.html" crc="384184891" seo="true" mt="1523496453274" redirect="true"/>
+  <file name="lofo.html" crc="4207840543" seo="true" mt="1523496723968" redirect="true"/>
   <file name="helixredesign.html" crc="3870775583" seo="true" mt="1523415880873" redirect="true"/>
   <file name="misc.html" crc="4125839685" seo="true" mt="1523415376346" redirect="true"/>
 </manifest>
