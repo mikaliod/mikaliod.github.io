@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535323233093">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535323405618">
   <folder name="css">
     <file name="site_global.css" crc="93483849"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:misc:financialfeud:helixredesign:lofo:about-me:gsk"/>
     <file name="master_projects.css" crc="46726419" ref="misc:financialfeud:helixredesign:lofo:gsk"/>
-    <file name="master_directories.css" crc="4021070665" ref="index:about-me"/>
-    <file name="index.css" crc="4262287883" ref="index"/>
+    <file name="master_directories.css" crc="266889710" ref="index:about-me"/>
+    <file name="index.css" crc="259952893" ref="index"/>
     <file name="misc.css" crc="4217109548" ref="misc"/>
     <file name="financialfeud.css" crc="509673901" ref="financialfeud"/>
     <file name="helixredesign.css" crc="4146845299" ref="helixredesign"/>
     <file name="lofo.css" crc="500824345" ref="lofo"/>
-    <file name="about-me.css" crc="409283671" ref="about-me"/>
+    <file name="about-me.css" crc="427025556" ref="about-me"/>
     <file name="gsk.css" crc="369383764" ref="gsk"/>
   </folder>
   <folder name="fonts">
@@ -59,11 +59,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="lofo-u15057-r-fr.jpg" crc="434144632" ref="index"/>
-    <file name="homehelix.png" crc="38804484" seo="true" ref="index:helixredesign">
+    <file name="homehelix.png" crc="38804484" ref="index:helixredesign">
       <caption webpage="index" alt=""/>
       <caption webpage="helixredesign" alt=""/>
     </file>
-    <file name="homehelix_2x.png" crc="498540763" seo="true" ref="index:helixredesign">
+    <file name="homehelix_2x.png" crc="498540763" ref="index:helixredesign">
       <caption webpage="index" alt=""/>
       <caption webpage="helixredesign" alt=""/>
     </file>
@@ -338,8 +338,8 @@
       <caption webpage="misc" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3795219213" seo="true" mt="1535323169185" redirect="true"/>
-  <file name="about-me.html" crc="261267800" seo="true" mt="1535323169185" redirect="true"/>
+  <file name="index.html" crc="4038624516" seo="true" mt="1535323395172" redirect="true"/>
+  <file name="about-me.html" crc="4287967047" seo="true" mt="1535323395172" redirect="true"/>
   <file name="financialfeud.html" crc="105575445" seo="true" mt="1524683976271" redirect="true"/>
   <file name="helixredesign.html" crc="186230050" seo="true" mt="1524683805640" redirect="true"/>
   <file name="lofo.html" crc="510677687" seo="true" mt="1526762928966" redirect="true"/>
