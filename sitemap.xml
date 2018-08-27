@@ -5,6 +5,12 @@
     <lastmod>2018-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homegsk.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homegsk_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/misc.html</loc>
@@ -14,14 +20,14 @@
   </url>
   <url>
     <loc>http://mike-dong.com/gsk.html</loc>
-    <lastmod>2018-07-25</lastmod>
+    <lastmod>2018-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mike-dong.com/images/lofo-alt.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/homegsk.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/lofo-alt_2x.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/homegsk_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>

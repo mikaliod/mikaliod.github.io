@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535335204043">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535337014380">
   <folder name="css">
     <file name="site_global.css" crc="93483849"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:misc:financialfeud:helixredesign:lofo:about-me:gsk"/>
     <file name="master_projects.css" crc="46726419" ref="misc:financialfeud:helixredesign:lofo:gsk"/>
-    <file name="master_directories.css" crc="266889710" ref="index:about-me"/>
-    <file name="index.css" crc="3970181704" ref="index"/>
+    <file name="master_directories.css" crc="4067060468" ref="index:about-me"/>
+    <file name="index.css" crc="4029786173" ref="index"/>
     <file name="misc.css" crc="4217109548" ref="misc"/>
     <file name="financialfeud.css" crc="509673901" ref="financialfeud"/>
     <file name="helixredesign.css" crc="4146845299" ref="helixredesign"/>
     <file name="lofo.css" crc="500824345" ref="lofo"/>
-    <file name="about-me.css" crc="133755554" ref="about-me"/>
-    <file name="gsk.css" crc="369383764" ref="gsk"/>
+    <file name="about-me.css" crc="454481374" ref="about-me"/>
+    <file name="gsk.css" crc="27472828" ref="gsk"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -56,10 +56,10 @@
     <file name="homepnc_2x.jpg" crc="4259603611" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="homelofo.jpg" crc="437273551" ref="index">
+    <file name="homelofo.jpg" crc="67085886" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="lofo-u15057-r-fr.jpg" crc="434144632" ref="index"/>
+    <file name="lofo-u15057-r-fr.jpg" crc="3815279903" ref="index"/>
     <file name="homehelix.png" crc="38804484" ref="index:helixredesign">
       <caption webpage="index" alt=""/>
       <caption webpage="helixredesign" alt=""/>
@@ -167,11 +167,11 @@
     <file name="swipe.gif" crc="26593918" ref="helixredesign">
       <caption webpage="helixredesign" alt=""/>
     </file>
-    <file name="lofo-alt.jpg" crc="4062000161" seo="true" ref="lofo:gsk">
+    <file name="lofo-alt.jpg" crc="4062000161" seo="true" ref="lofo">
       <caption webpage="gsk" alt=""/>
       <caption webpage="lofo" alt=""/>
     </file>
-    <file name="lofo-alt_2x.jpg" crc="3773925527" seo="true" ref="lofo:gsk">
+    <file name="lofo-alt_2x.jpg" crc="3773925527" seo="true" ref="lofo">
       <caption webpage="gsk" alt=""/>
       <caption webpage="lofo" alt=""/>
     </file>
@@ -338,12 +338,23 @@
     <file name="chemecarlogo-line_2x.png" crc="7472947" ref="misc">
       <caption webpage="misc" alt=""/>
     </file>
+    <file name="homegsk.jpg" crc="4017436019" seo="true" ref="index:gsk">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gsk" alt=""/>
+    </file>
+    <file name="homegsk_2x.jpg" crc="339095144" seo="true" ref="index:gsk">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gsk" alt=""/>
+    </file>
+    <file name="homelofo_2x.jpg" crc="437273551" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4154014409" seo="true" mt="1535335195724" redirect="true"/>
-  <file name="about-me.html" crc="4105582677" seo="true" mt="1535335195724" redirect="true"/>
+  <file name="index.html" crc="4178179615" seo="true" mt="1535336752731" redirect="true"/>
+  <file name="about-me.html" crc="275250594" seo="true" mt="1535336110863" redirect="true"/>
   <file name="financialfeud.html" crc="105575445" seo="true" mt="1524683976271" redirect="true"/>
   <file name="helixredesign.html" crc="186230050" seo="true" mt="1524683805640" redirect="true"/>
   <file name="lofo.html" crc="510677687" seo="true" mt="1526762928966" redirect="true"/>
   <file name="misc.html" crc="4159491617" seo="true" mt="1524683805647" redirect="true"/>
-  <file name="gsk.html" crc="190002002" seo="true" mt="1532523183884" redirect="true"/>
+  <file name="gsk.html" crc="4293936155" seo="true" mt="1535336742674" redirect="true"/>
 </manifest>
