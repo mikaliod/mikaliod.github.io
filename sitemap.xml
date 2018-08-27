@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/misc.html</loc>
+    <lastmod>2018-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/gsk.html</loc>
     <lastmod>2018-07-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -17,12 +23,6 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/lofo-alt_2x.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/misc.html</loc>
-    <lastmod>2018-04-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mike-dong.com/lofo.html</loc>
@@ -139,6 +139,12 @@
     </image:image>
   </url>
   <url>
+    <loc>http://mike-dong.com/about-me.html</loc>
+    <lastmod>2018-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/financialfeud.html</loc>
     <lastmod>2018-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,19 +205,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mike-dong.com/about-me.html</loc>
-    <lastmod>2018-08-26</lastmod>
+    <loc>http://mike-dong.com/assets/initial-stakeholder-analysis.png</loc>
+    <lastmod>2018-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mike-dong.com/assets/stakeholders.png</loc>
-    <lastmod>2018-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/value.png</loc>
     <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -223,14 +223,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/blueprint.png</loc>
+    <loc>http://mike-dong.com/assets/value.png</loc>
     <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/initial-stakeholder-analysis.png</loc>
-    <lastmod>2018-04-24</lastmod>
+    <loc>http://mike-dong.com/assets/blueprint.png</loc>
+    <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -249,6 +249,12 @@
   <url>
     <loc>http://mike-dong.com/assets/visual.png</loc>
     <lastmod>2018-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/resume_yilindong_hci.pdf</loc>
+    <lastmod>2018-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -277,14 +283,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
-    <lastmod>2017-07-18</lastmod>
+    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_051617.png</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_051617.png</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
+    <lastmod>2017-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
