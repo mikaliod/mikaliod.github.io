@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535334934786">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535335051065">
   <folder name="css">
     <file name="site_global.css" crc="93483849"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:misc:financialfeud:helixredesign:lofo:about-me:gsk"/>
@@ -338,8 +338,8 @@
       <caption webpage="misc" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3832502162" seo="true" mt="1535334911915" redirect="true"/>
-  <file name="about-me.html" crc="4280256487" seo="true" mt="1535334911915" redirect="true"/>
+  <file name="index.html" crc="3940244087" seo="true" mt="1535335040166" redirect="true"/>
+  <file name="about-me.html" crc="3786941987" seo="true" mt="1535335040166" redirect="true"/>
   <file name="financialfeud.html" crc="105575445" seo="true" mt="1524683976271" redirect="true"/>
   <file name="helixredesign.html" crc="186230050" seo="true" mt="1524683805640" redirect="true"/>
   <file name="lofo.html" crc="510677687" seo="true" mt="1526762928966" redirect="true"/>
