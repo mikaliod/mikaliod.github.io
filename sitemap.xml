@@ -5,12 +5,6 @@
     <lastmod>2018-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homegsk.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homegsk_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/misc.html</loc>
@@ -24,10 +18,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mike-dong.com/images/homegsk.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/homegsk_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/homegsk_2x.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/homegsk2.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -259,8 +253,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/resume_yilindong_hci.pdf</loc>
-    <lastmod>2018-04-23</lastmod>
+    <loc>http://mike-dong.com/assets/resume_mikeyilindong.pdf</loc>
+    <lastmod>2018-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
