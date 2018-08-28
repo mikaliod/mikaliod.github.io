@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mike-dong.com/index.html</loc>
-    <lastmod>2018-08-26</lastmod>
+    <lastmod>2018-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/misc.html</loc>
-    <lastmod>2018-04-25</lastmod>
+    <loc>http://mike-dong.com/upmc.html</loc>
+    <lastmod>2018-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homeupmc2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homeupmc_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/gsk.html</loc>
@@ -23,6 +29,12 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/homegsk2.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/misc.html</loc>
+    <lastmod>2018-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mike-dong.com/lofo.html</loc>
@@ -139,12 +151,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mike-dong.com/about-me.html</loc>
-    <lastmod>2018-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/financialfeud.html</loc>
     <lastmod>2018-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,13 +211,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/initial-stakeholder-analysis.png</loc>
-    <lastmod>2018-04-24</lastmod>
+    <loc>http://mike-dong.com/about-me.html</loc>
+    <lastmod>2018-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/stakeholders.png</loc>
+    <loc>http://mike-dong.com/assets/value.png</loc>
     <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -223,20 +229,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/value.png</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_051617.png</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/blueprint.png</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://mike-dong.com/assets/initial-stakeholder-analysis.png</loc>
+    <lastmod>2018-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/valuemodel.png</loc>
-    <lastmod>2018-04-25</lastmod>
+    <loc>http://mike-dong.com/assets/stakeholders.png</loc>
+    <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -265,6 +271,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/blueprint.png</loc>
+    <lastmod>2018-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/service-design---final-process-book.pdf</loc>
     <lastmod>2018-02-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -283,12 +295,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_051617.png</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
     <lastmod>2017-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,6 +302,12 @@
   </url>
   <url>
     <loc>http://mike-dong.com/assets/stakeholder.png</loc>
+    <lastmod>2018-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/valuemodel.png</loc>
     <lastmod>2018-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

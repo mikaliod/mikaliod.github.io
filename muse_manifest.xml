@@ -1,16 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535399183529">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535476812500">
   <folder name="css">
-    <file name="site_global.css" crc="173264705"/>
-    <file name="master_grandmaster.css" crc="4017877407" ref="index:misc:financialfeud:helixredesign:lofo:about-me:gsk"/>
-    <file name="master_projects.css" crc="46726419" ref="misc:financialfeud:helixredesign:lofo:gsk"/>
-    <file name="master_directories.css" crc="4067060468" ref="index:about-me"/>
-    <file name="index.css" crc="310391585" ref="index"/>
+    <file name="site_global.css" crc="93483849"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="index:misc:financialfeud:helixredesign:lofo:about-me:gsk:upmc"/>
+    <file name="master_projects.css" crc="46726419" ref="misc:financialfeud:helixredesign:lofo:gsk:upmc"/>
+    <file name="master_directories.css" crc="325697669" ref="index:about-me"/>
+    <file name="index.css" crc="4270486854" ref="index"/>
     <file name="misc.css" crc="4217109548" ref="misc"/>
     <file name="financialfeud.css" crc="509673901" ref="financialfeud"/>
     <file name="helixredesign.css" crc="4146845299" ref="helixredesign"/>
     <file name="lofo.css" crc="500824345" ref="lofo"/>
     <file name="about-me.css" crc="454481374" ref="about-me"/>
     <file name="gsk.css" crc="140969004" ref="gsk"/>
+    <file name="upmc.css" crc="4024300688" ref="upmc"/>
   </folder>
   <folder name="fonts">
     <file name="simple-line-icons.woff" crc="4266480848"/>
@@ -36,13 +37,13 @@
     <file name="resume_mikeyilindong.pdf" crc="4239652889" seo="true" mt="1535399059000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk"/>
-    <file name="museutils.js" crc="340535759" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk:upmc"/>
+    <file name="museutils.js" crc="340535759" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk:upmc"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk:upmc"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk:upmc"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about-me:financialfeud:helixredesign:misc"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk"/>
-    <file name="require.js" crc="7928878" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk:upmc"/>
+    <file name="require.js" crc="7928878" ref="index:about-me:financialfeud:helixredesign:lofo:misc:gsk:upmc"/>
     <file name="webpro.js" crc="4059564322" ref="financialfeud:helixredesign:lofo"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="financialfeud:helixredesign:lofo"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="financialfeud:helixredesign:lofo"/>
@@ -352,12 +353,28 @@
     <file name="homegsk2.jpg" crc="4017436019" seo="true" ref="gsk">
       <caption webpage="gsk" alt=""/>
     </file>
+    <file name="homeupmc.jpg" crc="4081354965" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homeupmc2.jpg" crc="4283967968" seo="true" ref="upmc">
+      <caption webpage="upmc" alt=""/>
+    </file>
+    <file name="homeupmc_2x.jpg" crc="4081354965" seo="true" ref="upmc">
+      <caption webpage="upmc" alt=""/>
+    </file>
+    <file name="homemisc.jpg" crc="156276035" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homemisc_2x.jpg" crc="4249636752" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="438455020" seo="true" mt="1535342294904" redirect="true"/>
+  <file name="index.html" crc="4216334525" seo="true" mt="1535476810267" redirect="true"/>
   <file name="about-me.html" crc="39934492" seo="true" mt="1535341115660" redirect="true"/>
   <file name="financialfeud.html" crc="105575445" seo="true" mt="1524683976271" redirect="true"/>
   <file name="helixredesign.html" crc="186230050" seo="true" mt="1524683805640" redirect="true"/>
   <file name="lofo.html" crc="510677687" seo="true" mt="1526762928966" redirect="true"/>
   <file name="misc.html" crc="4159491617" seo="true" mt="1524683805647" redirect="true"/>
   <file name="gsk.html" crc="275169389" seo="true" mt="1535341719929" redirect="true"/>
+  <file name="upmc.html" crc="326979344" seo="true" mt="1535472946431" redirect="true"/>
 </manifest>
