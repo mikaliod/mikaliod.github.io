@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535476812500">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1535570644106">
   <folder name="css">
     <file name="site_global.css" crc="93483849"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:misc:financialfeud:helixredesign:lofo:about-me:gsk:upmc"/>
     <file name="master_projects.css" crc="46726419" ref="misc:financialfeud:helixredesign:lofo:gsk:upmc"/>
     <file name="master_directories.css" crc="325697669" ref="index:about-me"/>
-    <file name="index.css" crc="4270486854" ref="index"/>
+    <file name="index.css" crc="6850919" ref="index"/>
     <file name="misc.css" crc="4217109548" ref="misc"/>
     <file name="financialfeud.css" crc="509673901" ref="financialfeud"/>
     <file name="helixredesign.css" crc="4146845299" ref="helixredesign"/>
@@ -51,24 +51,16 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="238392154" ref="index"/>
-    <file name="homepnc.jpg" crc="83537330" ref="index">
+    <file name="homepnc.jpg" crc="3825690381" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="homepnc_2x.jpg" crc="4259603611" ref="index">
+    <file name="homepnc_2x.jpg" crc="92308366" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="homelofo.jpg" crc="67085886" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="lofo-u15057-r-fr.jpg" crc="3815279903" ref="index"/>
-    <file name="homehelix.png" crc="38804484" ref="index:helixredesign">
-      <caption webpage="index" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
-    </file>
-    <file name="homehelix_2x.png" crc="498540763" ref="index:helixredesign">
-      <caption webpage="index" alt=""/>
-      <caption webpage="helixredesign" alt=""/>
-    </file>
     <file name="img_5726.jpg" crc="127801281" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -339,18 +331,18 @@
     <file name="chemecarlogo-line_2x.png" crc="7472947" ref="misc">
       <caption webpage="misc" alt=""/>
     </file>
-    <file name="homegsk.jpg" crc="339095144" ref="index">
+    <file name="homegsk.jpg" crc="4103933099" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="gsk" alt=""/>
     </file>
-    <file name="homegsk_2x.jpg" crc="339095144" ref="gsk" seo="true">
+    <file name="homegsk_2x.jpg" crc="4103933099" ref="gsk" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="gsk" alt=""/>
     </file>
     <file name="homelofo_2x.jpg" crc="437273551" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="homegsk2.jpg" crc="4017436019" seo="true" ref="gsk">
+    <file name="homegsk2.jpg" crc="308540216" seo="true" ref="gsk">
       <caption webpage="gsk" alt=""/>
     </file>
     <file name="homeupmc.jpg" crc="4081354965" ref="index">
@@ -362,19 +354,27 @@
     <file name="homeupmc_2x.jpg" crc="4081354965" seo="true" ref="upmc">
       <caption webpage="upmc" alt=""/>
     </file>
-    <file name="homemisc.jpg" crc="156276035" ref="index">
+    <file name="homemisc.jpg" crc="493536543" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="homemisc_2x.jpg" crc="4249636752" ref="index">
+    <file name="homemisc_2x.jpg" crc="253173161" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="homehelix.jpg" crc="4031497963" seo="true" ref="index:helixredesign">
+      <caption webpage="index" alt=""/>
+      <caption webpage="helixredesign" alt=""/>
+    </file>
+    <file name="homehelix_2x.jpg" crc="4195177634" seo="true" ref="index:helixredesign">
+      <caption webpage="index" alt=""/>
+      <caption webpage="helixredesign" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4216334525" seo="true" mt="1535476810267" redirect="true"/>
+  <file name="index.html" crc="3965824001" seo="true" mt="1535570638965" redirect="true"/>
   <file name="about-me.html" crc="39934492" seo="true" mt="1535341115660" redirect="true"/>
   <file name="financialfeud.html" crc="105575445" seo="true" mt="1524683976271" redirect="true"/>
-  <file name="helixredesign.html" crc="186230050" seo="true" mt="1524683805640" redirect="true"/>
+  <file name="helixredesign.html" crc="4079254398" seo="true" mt="1535570593873" redirect="true"/>
   <file name="lofo.html" crc="510677687" seo="true" mt="1526762928966" redirect="true"/>
   <file name="misc.html" crc="4159491617" seo="true" mt="1524683805647" redirect="true"/>
-  <file name="gsk.html" crc="275169389" seo="true" mt="1535341719929" redirect="true"/>
+  <file name="gsk.html" crc="3843220864" seo="true" mt="1535570593395" redirect="true"/>
   <file name="upmc.html" crc="326979344" seo="true" mt="1535472946431" redirect="true"/>
 </manifest>
