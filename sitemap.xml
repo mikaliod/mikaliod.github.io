@@ -2,15 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mike-dong.com/index.html</loc>
-    <lastmod>2018-08-29</lastmod>
+    <lastmod>2018-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homehelix.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homehelix_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/upmc.html</loc>
@@ -155,12 +149,6 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/adm_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homehelix.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homehelix_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/financialfeud.html</loc>
@@ -224,9 +212,15 @@
   </url>
   <url>
     <loc>http://mike-dong.com/about-me.html</loc>
-    <lastmod>2018-08-26</lastmod>
+    <lastmod>2018-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_6845.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_6845_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/assets/value.png</loc>
@@ -272,7 +266,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/assets/resume_mikeyilindong.pdf</loc>
-    <lastmod>2018-08-27</lastmod>
+    <lastmod>2018-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
