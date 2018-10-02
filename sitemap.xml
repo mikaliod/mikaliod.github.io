@@ -66,7 +66,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mike-dong.com/images/homegsk2.png</image:loc>
+      <image:loc>http://mike-dong.com/images/homegsk.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/homegsk_2x.png</image:loc>
@@ -281,6 +281,9 @@
     <lastmod>2018-10-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homegsk.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/homehelix.png</image:loc>
     </image:image>
