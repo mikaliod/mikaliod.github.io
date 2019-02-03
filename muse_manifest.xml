@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549172609344">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549172927974">
   <folder name="css">
     <file name="site_global.css" crc="366481194"/>
     <file name="master_directories.css" crc="183296277" ref="about-me:storyofmylife:index:financialfeud:gsk:silta"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="financialfeud:helixredesign:misc:about-me:storyofmylife:index:gsk:lofo:silta"/>
     <file name="master_projects.css" crc="325318650" ref="helixredesign:misc:lofo"/>
-    <file name="financialfeud.css" crc="485019900" ref="financialfeud"/>
+    <file name="financialfeud.css" crc="3831649057" ref="financialfeud"/>
     <file name="helixredesign.css" crc="3822873264" ref="helixredesign"/>
     <file name="misc.css" crc="176356746" ref="misc"/>
     <file name="about-me.css" crc="4206305368" ref="about-me"/>
@@ -601,7 +601,7 @@
     </file>
   </folder>
   <file name="about-me.html" crc="3882548656" seo="true" mt="1538507935046" redirect="true"/>
-  <file name="financialfeud.html" crc="41392801" seo="true" mt="1549172570330" redirect="true"/>
+  <file name="financialfeud.html" crc="3884402289" seo="true" mt="1549172898917" redirect="true"/>
   <file name="helixredesign.html" crc="4084903884" seo="true" mt="1538508243438" redirect="true"/>
   <file name="lofo.html" crc="363287916" seo="true" mt="1542616856838" redirect="true"/>
   <file name="misc.html" crc="73202867" seo="true" mt="1545268473255" redirect="true"/>
