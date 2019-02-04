@@ -1,18 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549267580272">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549268218639">
   <folder name="css">
     <file name="site_global.css" crc="376954478"/>
-    <file name="master_directories.css" crc="4145714931" ref="about-me:storyofmylife:index:financialfeud:gsk:silta"/>
-    <file name="master_grandmaster.css" crc="4017877407" ref="financialfeud:helixredesign:misc:about-me:storyofmylife:index:gsk:lofo:silta"/>
+    <file name="master_directories.css" crc="4145714931" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:siltatemp"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="financialfeud:helixredesign:misc:about-me:storyofmylife:index:gsk:lofo:silta:siltatemp"/>
     <file name="master_projects.css" crc="325318650" ref="helixredesign:misc:lofo"/>
     <file name="financialfeud.css" crc="3934144920" ref="financialfeud"/>
     <file name="helixredesign.css" crc="3822873264" ref="helixredesign"/>
     <file name="misc.css" crc="176356746" ref="misc"/>
     <file name="about-me.css" crc="4206305368" ref="about-me"/>
     <file name="storyofmylife.css" crc="3861652174" ref="storyofmylife"/>
-    <file name="index.css" crc="4108919007" ref="index"/>
+    <file name="index.css" crc="3902161872" ref="index"/>
     <file name="gsk.css" crc="4034500916" ref="gsk"/>
     <file name="lofo.css" crc="345944772" ref="lofo"/>
     <file name="silta.css" crc="239986845" ref="silta"/>
+    <file name="siltatemp.css" crc="325845536" ref="siltatemp"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -69,20 +70,20 @@
     <file name="newvaluemodel.png" crc="365303473" seo="true" mt="1549264772000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta"/>
-    <file name="museutils.js" crc="340535759" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta"/>
-    <file name="whatinput.js" crc="86476730" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta"/>
-    <file name="museconfig.js" crc="310584261" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:siltatemp"/>
+    <file name="museutils.js" crc="340535759" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:siltatemp"/>
+    <file name="whatinput.js" crc="86476730" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:siltatemp"/>
+    <file name="museconfig.js" crc="310584261" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:siltatemp"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="helixredesign:misc:silta"/>
-    <file name="jquery.watch.js" crc="51536988" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta"/>
-    <file name="require.js" crc="7928878" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta"/>
+    <file name="jquery.watch.js" crc="51536988" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:siltatemp"/>
+    <file name="require.js" crc="7928878" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:siltatemp"/>
     <file name="webpro.js" crc="4059564322" ref="financialfeud:helixredesign:lofo:silta"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="financialfeud:helixredesign:lofo:silta"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="financialfeud:helixredesign:lofo:silta"/>
     <file name="touchswipe.js" crc="4075097462" ref="financialfeud:helixredesign:lofo:silta"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="lofo:gsk:financialfeud"/>
+    <file name="favicon.ico" crc="238392154" ref="lofo:gsk:index"/>
     <file name="homegsk.png" crc="4228488945" ref="gsk" seo="true">
       <caption webpage="home_old" alt=""/>
       <caption webpage="gsk" alt=""/>
@@ -530,10 +531,10 @@
     <file name="pncparentteen-crop-u20249.jpg" crc="3844134220" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="speeddating-crop-u20860.jpg" crc="4111614105" seo="true" ref="financialfeud">
+    <file name="speeddating-crop-u20860.jpg" crc="4016530387" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="speeddating-crop-u20860_2x.jpg" crc="4081991593" seo="true" ref="financialfeud">
+    <file name="speeddating-crop-u20860_2x.jpg" crc="4273080323" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="mockphoneandcard-crop-u21012.jpg" crc="3882531405" seo="true" ref="financialfeud">
@@ -662,14 +663,18 @@
     </file>
     <file name="ffgrouppic-u20086-fr.jpg" crc="321720339" ref="silta"/>
     <file name="ffgrouppic-u20086-fr_2x.jpg" crc="426594546" ref="silta"/>
+    <file name="scene-crop-u21571.png" crc="127680329" seo="true" ref="siltatemp">
+      <caption webpage="siltatemp" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="3882548656" seo="true" mt="1538507935046" redirect="true"/>
-  <file name="financialfeud.html" crc="329275967" seo="true" mt="1549267531893" redirect="true"/>
+  <file name="financialfeud.html" crc="4168787715" seo="true" mt="1549268161945" redirect="true"/>
   <file name="helixredesign.html" crc="4084903884" seo="true" mt="1538508243438" redirect="true"/>
   <file name="lofo.html" crc="363287916" seo="true" mt="1542616856838" redirect="true"/>
   <file name="misc.html" crc="73202867" seo="true" mt="1545268473255" redirect="true"/>
   <file name="gsk.html" crc="175760152" seo="true" mt="1548347144466" redirect="true"/>
-  <file name="index.html" crc="4155244699" seo="true" mt="1549143046665" redirect="true"/>
+  <file name="index.html" crc="249133966" seo="true" mt="1549268170749" redirect="true"/>
   <file name="storyofmylife.html" crc="3777302714" seo="true" mt="1542615681268" redirect="true"/>
   <file name="silta.html" crc="4082320409" seo="true" mt="1549267549246" redirect="true"/>
+  <file name="siltatemp.html" crc="4269406054" seo="true" mt="1549268146200" redirect="true"/>
 </manifest>
