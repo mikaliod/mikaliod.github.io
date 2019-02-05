@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549345453323">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549353055682">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
     <file name="master_directories.css" crc="183296277" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:siltatemp"/>
@@ -12,7 +12,7 @@
     <file name="index.css" crc="3898966817" ref="index"/>
     <file name="gsk.css" crc="3975494346" ref="gsk"/>
     <file name="lofo.css" crc="345944772" ref="lofo"/>
-    <file name="silta.css" crc="3822436599" ref="silta"/>
+    <file name="silta.css" crc="4225053731" ref="silta"/>
     <file name="siltatemp.css" crc="83917677" ref="siltatemp"/>
   </folder>
   <folder name="fonts">
@@ -60,7 +60,7 @@
     <file name="valuemodel.png" crc="3997175693" seo="true" mt="1524676837000"/>
     <file name="blueprintff.png" crc="4059595354" seo="true" mt="1524678738000"/>
     <file name="visual.png" crc="176748913" seo="true" mt="1519332225000"/>
-    <file name="resume_mikeyilindong.pdf" crc="4220135263" seo="true" mt="1536123897000"/>
+    <file name="resume_mikeyilindong.pdf" crc="485513177" seo="true" mt="1549352845000"/>
     <file name="stakeholder_new.png" crc="3963432739" seo="true" mt="1542395554000"/>
     <file name="maps.jpg" crc="4154447902" seo="true" mt="1542610091000"/>
     <file name="researchcompetitive.png" crc="27011238" seo="true" mt="1542612785000"/>
@@ -700,6 +700,6 @@
   <file name="gsk.html" crc="4204286926" seo="true" mt="1549268489256" redirect="true"/>
   <file name="index.html" crc="4154620407" seo="true" mt="1549268489256" redirect="true"/>
   <file name="storyofmylife.html" crc="4237267445" seo="true" mt="1549268489256" redirect="true"/>
-  <file name="silta.html" crc="297983378" seo="true" mt="1549345419197" redirect="true"/>
+  <file name="silta.html" crc="81928454" seo="true" mt="1549346578654" redirect="true"/>
   <file name="siltatemp.html" crc="304874988" seo="true" mt="1549322202362" redirect="true"/>
 </manifest>
