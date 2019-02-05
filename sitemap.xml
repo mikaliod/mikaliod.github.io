@@ -43,8 +43,17 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mike-dong.com/silta.html</loc>
+    <loc>http://mike-dong.com/siltatemp.html</loc>
     <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/scene-crop-u21992.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/silta.html</loc>
+    <lastmod>2019-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,14 +146,41 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/chores_2x.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/siltatemp.html</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mike-dong.com/images/scene-crop-u21992.png</image:loc>
+      <image:loc>http://mike-dong.com/images/serviceicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/serviceicon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/sharedicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/sharedicon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/autoicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/autoicon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/electricicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/electricicon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/researchicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/researchicon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/dataicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/dataicon_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -520,6 +556,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/resume_mikeyilindong.pdf</loc>
+    <lastmod>2018-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/value.png</loc>
     <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -528,12 +570,6 @@
   <url>
     <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_0516172.png</loc>
     <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/maps.jpg</loc>
-    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -563,6 +599,12 @@
   </url>
   <url>
     <loc>http://mike-dong.com/assets/newvaluemodel.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/stakeholder2.png</loc>
     <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -610,12 +652,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/resume_mikeyilindong.pdf</loc>
-    <lastmod>2018-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
     <lastmod>2017-07-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -624,6 +660,12 @@
   <url>
     <loc>http://mike-dong.com/assets/stakeholder_new.png</loc>
     <lastmod>2018-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/maps.jpg</loc>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
