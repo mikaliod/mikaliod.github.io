@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mike-dong.com/index.html</loc>
-    <lastmod>2019-02-06</lastmod>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -40,6 +40,27 @@
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/scene-crop-u19783_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u18603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u18603_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/sketches.html</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/siltatemp.html</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/scene-crop-u21992.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -139,15 +160,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mike-dong.com/siltatemp.html</loc>
-    <lastmod>2019-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/scene-crop-u21992.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://mike-dong.com/storyofmylife.html</loc>
     <lastmod>2019-02-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -155,7 +167,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/gsk.html</loc>
-    <lastmod>2019-02-06</lastmod>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +188,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/lofo.html</loc>
-    <lastmod>2018-11-19</lastmod>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -490,12 +502,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_051617.png</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/assets/stakeholder.png</loc>
     <lastmod>2018-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -538,14 +544,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/value.png</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://mike-dong.com/assets/researchcompetitive.png</loc>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_0516172.png</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://mike-dong.com/assets/researchsurvey.png</loc>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -562,14 +568,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/newvaluemodel.png</loc>
-    <lastmod>2019-02-04</lastmod>
+    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_0516172.png</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/stakeholder2.png</loc>
-    <lastmod>2019-02-04</lastmod>
+    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_051617.png</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -604,6 +610,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/birdhall-redesign.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/staircase-redesign.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/casestudy4.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/casestudy5.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/wonton.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/wonton-step.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/value.png</loc>
+    <lastmod>2018-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/stakeholders.png</loc>
     <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -634,20 +682,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/team-6-project-3-pitch.pdf</loc>
-    <lastmod>2017-11-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/assets/process-book.pdf</loc>
     <lastmod>2017-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/researchcompetitive.png</loc>
-    <lastmod>2018-11-19</lastmod>
+    <loc>http://mike-dong.com/assets/team-6-project-3-pitch.pdf</loc>
+    <lastmod>2017-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -658,8 +700,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/researchsurvey.png</loc>
-    <lastmod>2018-11-19</lastmod>
+    <loc>http://mike-dong.com/assets/newvaluemodel.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/stakeholder2.png</loc>
+    <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
