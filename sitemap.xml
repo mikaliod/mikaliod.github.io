@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/silta.html</loc>
-    <lastmod>2019-02-06</lastmod>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -86,10 +86,61 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/dataicon_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/median%20family%20income-crop-u22607.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/median%20family%20income-crop-u22607_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/mean%20travel%20time%20to%20work-crop-u22603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/mean%20travel%20time%20to%20work-crop-u22603_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/public%20transportation%20to%20work-crop-u22605.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/public%20transportation%20to%20work-crop-u22605_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/unemployment-crop-u22609.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/unemployment-crop-u22609_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_8905-crop-u22707.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_8905-crop-u22707_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_2189-crop-u22717.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_2189-crop-u22717_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_8961-crop-u22727.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_8961-crop-u22727_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/people%20interact%20poster-crop-u22768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/final%20poster%20result-crop-u22873.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/digitalized%20poster%20map-crop-u22900.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/siltatemp.html</loc>
-    <lastmod>2019-02-06</lastmod>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -475,6 +526,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/stakeholder_new.png</loc>
+    <lastmod>2018-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/maps.jpg</loc>
+    <lastmod>2018-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/value.png</loc>
     <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -483,18 +546,6 @@
   <url>
     <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_0516172.png</loc>
     <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/researchcompetitive.png</loc>
-    <lastmod>2018-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/researchsurvey.png</loc>
-    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -525,6 +576,30 @@
   <url>
     <loc>http://mike-dong.com/assets/silta-demo-final.mp4</loc>
     <lastmod>2018-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/img_8905.heic</loc>
+    <lastmod>2018-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/final-poster-result.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/digitalized-poster-map.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/process-book-team-4.pdf</loc>
+    <lastmod>2018-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -571,8 +646,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/stakeholder_new.png</loc>
-    <lastmod>2018-11-16</lastmod>
+    <loc>http://mike-dong.com/assets/researchcompetitive.png</loc>
+    <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -583,7 +658,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/maps.jpg</loc>
+    <loc>http://mike-dong.com/assets/researchsurvey.png</loc>
     <lastmod>2018-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
