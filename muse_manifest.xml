@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549963357169">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549963563327">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
     <file name="master_directories.css" crc="4145746689" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:siltatemp:sketches"/>
@@ -12,7 +12,7 @@
     <file name="index.css" crc="499979961" ref="index"/>
     <file name="gsk.css" crc="281624139" ref="gsk"/>
     <file name="lofo.css" crc="324189000" ref="lofo"/>
-    <file name="silta.css" crc="4039706471" ref="silta"/>
+    <file name="silta.css" crc="4280355571" ref="silta"/>
     <file name="siltatemp.css" crc="4243859244" ref="siltatemp"/>
     <file name="sketches.css" crc="4175130294" ref="sketches"/>
   </folder>
@@ -684,7 +684,7 @@
   <file name="gsk.html" crc="3856172039" seo="true" mt="1549524228734" redirect="true"/>
   <file name="index.html" crc="305381552" seo="true" mt="1549525904537" redirect="true"/>
   <file name="storyofmylife.html" crc="74343128" seo="true" mt="1549510289210" redirect="true"/>
-  <file name="silta.html" crc="3775326153" seo="true" mt="1549963327857" redirect="true"/>
+  <file name="silta.html" crc="437971123" seo="true" mt="1549963530761" redirect="true"/>
   <file name="siltatemp.html" crc="4106316131" seo="true" mt="1549522176839" redirect="true"/>
   <file name="sketches.html" crc="358075366" seo="true" mt="1549525569341" redirect="true"/>
 </manifest>
