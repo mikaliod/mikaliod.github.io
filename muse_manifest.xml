@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549963915581">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1549963563327">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
     <file name="master_directories.css" crc="4145746689" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:siltatemp:sketches"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="financialfeud:helixredesign:misc:about-me:storyofmylife:index:gsk:lofo:silta:siltatemp:sketches"/>
     <file name="master_projects.css" crc="253288472" ref="helixredesign:misc:lofo"/>
-    <file name="financialfeud.css" crc="493564964" ref="financialfeud"/>
+    <file name="financialfeud.css" crc="3946228090" ref="financialfeud"/>
     <file name="helixredesign.css" crc="3822873264" ref="helixredesign"/>
     <file name="misc.css" crc="176356746" ref="misc"/>
     <file name="about-me.css" crc="4244812299" ref="about-me"/>
@@ -12,7 +12,7 @@
     <file name="index.css" crc="499979961" ref="index"/>
     <file name="gsk.css" crc="281624139" ref="gsk"/>
     <file name="lofo.css" crc="324189000" ref="lofo"/>
-    <file name="silta.css" crc="3928030218" ref="silta"/>
+    <file name="silta.css" crc="4280355571" ref="silta"/>
     <file name="siltatemp.css" crc="4243859244" ref="siltatemp"/>
     <file name="sketches.css" crc="4175130294" ref="sketches"/>
   </folder>
@@ -106,7 +106,7 @@
     <file name="touchswipe.js" crc="4075097462" ref="financialfeud:helixredesign:lofo:silta"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="lofo:about-me:index:financialfeud"/>
+    <file name="favicon.ico" crc="238392154" ref="lofo:about-me:silta:index"/>
     <file name="homegsk.png" crc="4228488945" ref="gsk" seo="true">
       <caption webpage="home_old" alt=""/>
       <caption webpage="gsk" alt=""/>
@@ -349,50 +349,50 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="storychallenge.jpg" crc="368795363" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="silta" alt=""/>
       <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="storychallenge_2x.jpg" crc="3845867240" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="silta" alt=""/>
       <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="storytasks.jpg" crc="4142595054" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="silta" alt=""/>
       <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="storytasks_2x.jpg" crc="47243328" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="silta" alt=""/>
       <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="storyreward.jpg" crc="173170589" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="silta" alt=""/>
       <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="storyreward_2x.jpg" crc="149394519" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="silta" alt=""/>
       <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="store_sign_mockup_6-crop-u19111.png" crc="3893160479" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="financialfeud" alt=""/>
+      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="store_sign_mockup_6-crop-u19111_2x.png" crc="3869517286" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="financialfeud" alt=""/>
+      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="mockup-creditcard-crop-u19101.png" crc="4095793358" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="financialfeud" alt=""/>
+      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="mockup-creditcard-crop-u19101_2x.png" crc="292063107" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud-copy" alt=""/>
       <caption webpage="financialfeud" alt=""/>
+      <caption webpage="financialfeud-copy" alt=""/>
     </file>
     <file name="familyipad-crop-u19418.jpg" crc="397644552" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
@@ -404,44 +404,44 @@
       <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="arrow.png" crc="517139355" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="arrow_2x.png" crc="4107762973" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findinghome.png" crc="309846844" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findinghome_2x.png" crc="335030855" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingtrigger.png" crc="4150854690" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingtrigger_2x.png" crc="237949991" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingtailor.png" crc="4063432776" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingtailor_2x.png" crc="247766996" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingcontinuous.png" crc="4285701189" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingcontinuous_2x.png" crc="325579274" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="apple iphone 8 silver-u14825-fr.png" crc="4076768397" ref="misc"/>
     <file name="store_sign_mockup_6-crop-u18474.png" crc="3948159285" seo="true" ref="index">
@@ -677,14 +677,14 @@
     </file>
   </folder>
   <file name="about-me.html" crc="4012206803" seo="true" mt="1549510289210" redirect="true"/>
-  <file name="financialfeud.html" crc="3892657306" seo="true" mt="1549963831852" redirect="true"/>
+  <file name="financialfeud.html" crc="304997440" seo="true" mt="1549512087710" redirect="true"/>
   <file name="helixredesign.html" crc="4084903884" seo="true" mt="1538508243438" redirect="true"/>
   <file name="lofo.html" crc="3930550596" seo="true" mt="1549523996206" redirect="true"/>
   <file name="misc.html" crc="73202867" seo="true" mt="1545268473255" redirect="true"/>
   <file name="gsk.html" crc="3856172039" seo="true" mt="1549524228734" redirect="true"/>
   <file name="index.html" crc="305381552" seo="true" mt="1549525904537" redirect="true"/>
   <file name="storyofmylife.html" crc="74343128" seo="true" mt="1549510289210" redirect="true"/>
-  <file name="silta.html" crc="3980661634" seo="true" mt="1549963872464" redirect="true"/>
+  <file name="silta.html" crc="437971123" seo="true" mt="1549963530761" redirect="true"/>
   <file name="siltatemp.html" crc="4106316131" seo="true" mt="1549522176839" redirect="true"/>
   <file name="sketches.html" crc="358075366" seo="true" mt="1549525569341" redirect="true"/>
 </manifest>
