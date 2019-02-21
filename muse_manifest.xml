@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550735591419">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550736148750">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
     <file name="master_directories.css" crc="194088786" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:sketches"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="financialfeud:helixredesign:misc:about-me:storyofmylife:index:gsk:lofo:silta:sketches"/>
-    <file name="master_projects.css" crc="325318650" ref="helixredesign:misc:lofo"/>
-    <file name="financialfeud.css" crc="4084286650" ref="financialfeud"/>
+    <file name="master_projects.css" crc="253288472" ref="helixredesign:misc:lofo"/>
+    <file name="financialfeud.css" crc="313387428" ref="financialfeud"/>
     <file name="helixredesign.css" crc="3846727898" ref="helixredesign"/>
-    <file name="misc.css" crc="176356746" ref="misc"/>
-    <file name="about-me.css" crc="4244812299" ref="about-me"/>
-    <file name="storyofmylife.css" crc="3937840301" ref="storyofmylife"/>
-    <file name="index.css" crc="3985854542" ref="index"/>
-    <file name="gsk.css" crc="281624139" ref="gsk"/>
-    <file name="lofo.css" crc="324189000" ref="lofo"/>
-    <file name="silta.css" crc="329953995" ref="silta"/>
-    <file name="sketches.css" crc="4175130294" ref="sketches"/>
+    <file name="misc.css" crc="3967330310" ref="misc"/>
+    <file name="about-me.css" crc="3784184309" ref="about-me"/>
+    <file name="storyofmylife.css" crc="4131000147" ref="storyofmylife"/>
+    <file name="index.css" crc="243243633" ref="index"/>
+    <file name="gsk.css" crc="205888949" ref="gsk"/>
+    <file name="lofo.css" crc="266213558" ref="lofo"/>
+    <file name="silta.css" crc="4142197799" ref="silta"/>
+    <file name="sketches.css" crc="3830959432" ref="sketches"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -109,10 +109,10 @@
     <file name="touchswipe.js" crc="4075097462" ref="financialfeud:helixredesign:lofo:silta"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="lofo:about-me:index:helixredesign:financialfeud"/>
+    <file name="favicon.ico" crc="238392154" ref="about-me"/>
     <file name="homegsk.png" crc="4228488945" ref="gsk" seo="true">
-      <caption webpage="home_old" alt=""/>
       <caption webpage="gsk" alt=""/>
+      <caption webpage="home_old" alt=""/>
     </file>
     <file name="homehelix.png" crc="38804484" ref="helixredesign" seo="true">
       <caption webpage="helixredesign" alt=""/>
@@ -145,7 +145,7 @@
       <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="sync-u11082-fr.png" crc="265218378" ref="helixredesign"/>
-    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign"/>
+    <file name="apple iphone 8 silver-u11101-fr.png" crc="4076768397" ref="helixredesign:misc"/>
     <file name="search.gif" crc="328564339" ref="helixredesign">
       <caption webpage="helixredesign" alt=""/>
     </file>
@@ -438,7 +438,6 @@
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="apple iphone 8 silver-u14825-fr.png" crc="4076768397" ref="misc"/>
     <file name="store_sign_mockup_6-crop-u18474.png" crc="3948159285" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -472,10 +471,10 @@
     <file name="scene-crop-u20194.png" crc="127680329" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="speeddating-crop-u20860.jpg" crc="4016530387" seo="true" ref="financialfeud">
+    <file name="speeddating-crop-u20860.jpg" crc="4111614105" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="speeddating-crop-u20860_2x.jpg" crc="4273080323" seo="true" ref="financialfeud">
+    <file name="speeddating-crop-u20860_2x.jpg" crc="4081991593" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="mockphoneandcard-crop-u21012.jpg" crc="4085327613" seo="true" ref="financialfeud">
@@ -731,14 +730,14 @@
       <caption webpage="financialfeud" alt=""/>
     </file>
   </folder>
-  <file name="about-me.html" crc="4012206803" seo="true" mt="1549510289210" redirect="true"/>
-  <file name="financialfeud.html" crc="418827712" seo="true" mt="1550735551161" redirect="true"/>
-  <file name="helixredesign.html" crc="3994763747" seo="true" mt="1550537287686" redirect="true"/>
-  <file name="lofo.html" crc="3930550596" seo="true" mt="1549523996206" redirect="true"/>
-  <file name="misc.html" crc="73202867" seo="true" mt="1545268473255" redirect="true"/>
-  <file name="gsk.html" crc="3856172039" seo="true" mt="1549524228734" redirect="true"/>
-  <file name="index.html" crc="485003021" seo="true" mt="1550635731723" redirect="true"/>
-  <file name="storyofmylife.html" crc="74343128" seo="true" mt="1549510289210" redirect="true"/>
-  <file name="silta.html" crc="414919153" seo="true" mt="1550721585207" redirect="true"/>
-  <file name="sketches.html" crc="358075366" seo="true" mt="1549525569341" redirect="true"/>
+  <file name="about-me.html" crc="524361933" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="financialfeud.html" crc="325235001" seo="true" mt="1550736085017" redirect="true"/>
+  <file name="helixredesign.html" crc="454793552" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="lofo.html" crc="4126254614" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="misc.html" crc="3987027013" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="gsk.html" crc="3950167966" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="index.html" crc="4039933451" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="storyofmylife.html" crc="4148423721" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="silta.html" crc="529571229" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="sketches.html" crc="8263903" seo="true" mt="1550735997112" redirect="true"/>
 </manifest>
