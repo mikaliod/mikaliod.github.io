@@ -49,12 +49,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://mike-dong.com/sketches.html</loc>
-    <lastmod>2019-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/silta.html</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +194,12 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/grouppicsilta-crop-u23933_2x.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/sketches.html</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mike-dong.com/storyofmylife.html</loc>
@@ -664,14 +664,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/staircase-redesign.png</loc>
-    <lastmod>2019-02-07</lastmod>
+    <loc>http://mike-dong.com/assets/value.png</loc>
+    <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/casestudy4.png</loc>
-    <lastmod>2019-02-07</lastmod>
+    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_0516172.png</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -688,14 +688,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/value.png</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://mike-dong.com/assets/wonton-step.png</loc>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_0516172.png</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://mike-dong.com/assets/scandyfuture.png</loc>
+    <lastmod>2019-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -772,62 +772,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/started.png</loc>
-    <lastmod>2019-02-04</lastmod>
+    <loc>http://mike-dong.com/assets/prototype1.png</loc>
+    <lastmod>2019-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/homedevice.png</loc>
-    <lastmod>2018-11-14</lastmod>
+    <loc>http://mike-dong.com/assets/prototype2.png</loc>
+    <lastmod>2019-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/challengedetail.png</loc>
-    <lastmod>2018-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/linkpnc.png</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/familydata.png</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/familydata1.png</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/familydata2.png</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/inprogress.png</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/completed.png</loc>
-    <lastmod>2019-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/carddevice.png</loc>
-    <lastmod>2018-11-14</lastmod>
+    <loc>http://mike-dong.com/assets/prototype3.png</loc>
+    <lastmod>2019-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -874,20 +832,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/staircase-redesign.png</loc>
+    <lastmod>2019-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
     <lastmod>2017-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/wonton-step.png</loc>
+    <loc>http://mike-dong.com/assets/casestudy4.png</loc>
     <lastmod>2019-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/scandyfuture.png</loc>
-    <lastmod>2019-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
