@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550746753670">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550770799250">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
     <file name="master_directories.css" crc="194088786" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:sketches"/>
@@ -12,7 +12,7 @@
     <file name="index.css" crc="243243633" ref="index"/>
     <file name="gsk.css" crc="205888949" ref="gsk"/>
     <file name="lofo.css" crc="266213558" ref="lofo"/>
-    <file name="silta.css" crc="330207919" ref="silta"/>
+    <file name="silta.css" crc="113775192" ref="silta"/>
     <file name="sketches.css" crc="3830959432" ref="sketches"/>
   </folder>
   <folder name="fonts">
@@ -609,40 +609,22 @@
     <file name="omniwheel_2x.jpg" crc="322505275" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="screen shot 2018-12-11 at 163325-crop-u23735.jpg" crc="3773837506" seo="true" ref="silta">
+    <file name="screen shot 2018-12-11 at 163325-crop-u23735.jpg" crc="148358708" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="screen shot 2018-12-11 at 163325-crop-u23735_2x.jpg" crc="3821036649" seo="true" ref="silta">
+    <file name="screen shot 2018-12-11 at 163325-crop-u23735_2x.jpg" crc="4266018347" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="screen shot 2018-12-11 at 163133-crop-u23817.jpg" crc="335625995" seo="true" ref="silta">
+    <file name="foamboard-crop-u23897.jpg" crc="340499971" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="screen shot 2018-12-11 at 163133-crop-u23817_2x.jpg" crc="4196552521" seo="true" ref="silta">
+    <file name="foamboard-crop-u23897_2x.jpg" crc="221345323" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="screen shot 2018-12-11 at 163119.jpg" crc="130691509" seo="true" ref="silta">
+    <file name="img_8672 copy-crop-u23905.jpg" crc="4008028961" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="screen shot 2018-12-11 at 163119_2x.jpg" crc="264166494" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="screen shot 2018-12-11 at 163113.jpg" crc="4205909751" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="screen shot 2018-12-11 at 163113_2x.jpg" crc="3899181789" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="foamboard-crop-u23897.jpg" crc="4062559067" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="foamboard-crop-u23897_2x.jpg" crc="3869759542" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="img_8672 copy-crop-u23905.jpg" crc="75363683" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="img_8672 copy-crop-u23905_2x.jpg" crc="120267987" seo="true" ref="silta">
+    <file name="img_8672 copy-crop-u23905_2x.jpg" crc="331399347" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
     <file name="grouppicsilta-crop-u23933.jpg" crc="4107644459" seo="true" ref="silta">
@@ -765,34 +747,70 @@
     <file name="brainstormwhiteboard-crop-u26393_2x.jpg" crc="505733205" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="brainstormwhiteboard2-crop-u26413.jpg" crc="3912810235" seo="true" ref="silta">
+    <file name="brainstormwhiteboard2-crop-u26413.jpg" crc="3997563352" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="brainstormwhiteboard2-crop-u26413_2x.jpg" crc="217601399" seo="true" ref="silta">
+    <file name="brainstormwhiteboard2-crop-u26413_2x.jpg" crc="452825012" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="brainstormwhiteboard3-crop-u26433.jpg" crc="4138264874" seo="true" ref="silta">
+    <file name="brainstormwhiteboard3-crop-u26433.jpg" crc="534801764" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="brainstormwhiteboard3-crop-u26433_2x.jpg" crc="353229973" seo="true" ref="silta">
+    <file name="brainstormwhiteboard3-crop-u26433_2x.jpg" crc="463740250" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="brainstormwhiteboard4-crop-u26453.jpg" crc="9301075" seo="true" ref="silta">
+    <file name="brainstormwhiteboard4-crop-u26453.jpg" crc="4178940216" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="brainstormwhiteboard4-crop-u26453_2x.jpg" crc="489638972" seo="true" ref="silta">
+    <file name="brainstormwhiteboard4-crop-u26453_2x.jpg" crc="449986271" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="brainstormwhiteboard5-crop-u26473.jpg" crc="120171481" seo="true" ref="silta">
+    <file name="brainstormwhiteboard5-crop-u26473.jpg" crc="517990939" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="brainstormwhiteboard5-crop-u26473_2x.jpg" crc="73916520" seo="true" ref="silta">
+    <file name="brainstormwhiteboard5-crop-u26473_2x.jpg" crc="182639659" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
     <file name="scandyfuture-crop-u26493.jpg" crc="281484311" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
     <file name="scandyfuture-crop-u26493_2x.jpg" crc="357283907" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="vehiclemike-crop-u26541.jpg" crc="4267269693" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="vehiclemike-crop-u26541_2x.jpg" crc="4267134775" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="vehiclesusie-crop-u26697.jpg" crc="4228433639" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="vehiclesusie-crop-u26697_2x.jpg" crc="4113663330" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="vehiclewenjie-crop-u26717.jpg" crc="3942187799" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="vehiclewenjie-crop-u26717_2x.jpg" crc="4200200230" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-11 at 163133433x232.jpg" crc="132660699" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-11 at 163133433x232_2x.jpg" crc="189165278" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-11 at 163119-crop-u23844.jpg" crc="141823564" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-11 at 163119-crop-u23844_2x.jpg" crc="146954227" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-11 at 163113428x219.jpg" crc="219422089" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-11 at 163113428x219_2x.jpg" crc="4271389936" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
   </folder>
@@ -804,6 +822,6 @@
   <file name="gsk.html" crc="3950167966" seo="true" mt="1550735997112" redirect="true"/>
   <file name="index.html" crc="4039933451" seo="true" mt="1550735997112" redirect="true"/>
   <file name="storyofmylife.html" crc="4148423721" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="silta.html" crc="49731567" seo="true" mt="1550746672850" redirect="true"/>
+  <file name="silta.html" crc="104925318" seo="true" mt="1550770755471" redirect="true"/>
   <file name="sketches.html" crc="8263903" seo="true" mt="1550735997112" redirect="true"/>
 </manifest>
