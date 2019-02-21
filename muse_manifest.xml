@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550773573668">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550774856415">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
     <file name="master_directories.css" crc="194088786" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:sketches"/>
@@ -13,7 +13,7 @@
     <file name="gsk.css" crc="205888949" ref="gsk"/>
     <file name="lofo.css" crc="266213558" ref="lofo"/>
     <file name="silta.css" crc="3879764039" ref="silta"/>
-    <file name="sketches.css" crc="3830959432" ref="sketches"/>
+    <file name="sketches.css" crc="510119676" ref="sketches"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -77,7 +77,6 @@
     <file name="casestudy4.png" crc="4210550327" seo="true" mt="1549524940000"/>
     <file name="casestudy5.png" crc="438336117" seo="true" mt="1549524942000"/>
     <file name="wonton.png" crc="3930135248" seo="true" mt="1549524761000"/>
-    <file name="wonton-step.png" crc="4282749734" seo="true" mt="1549524968000"/>
     <file name="scandyfuture.png" crc="3999982461" seo="true" mt="1549766753000"/>
     <file name="brainstormpic.png" crc="349060746" seo="true" mt="1549955955000"/>
     <file name="brainstormwhiteboard.png" crc="4158349827" seo="true" mt="1549956340000"/>
@@ -805,7 +804,7 @@
     <file name="storyboard_super-crop-u23735_2x.jpg" crc="3760404454" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="storyboard_pet-crop-u23844.jpg" crc="3924416910" seo="true" ref="silta">
+    <file name="storyboard_pet-crop-u23844.jpg" crc="141823564" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
     <file name="storyboard_pet-crop-u23844_2x.jpg" crc="146954227" seo="true" ref="silta">
@@ -817,6 +816,42 @@
     <file name="storyboard_yoga428x219_2x.jpg" crc="4271389936" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
+    <file name="birdhall redesign.jpg" crc="3901256578" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="birdhall redesign_2x.jpg" crc="3866268495" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="casestudy4.jpg" crc="3993361220" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="casestudy4_2x.jpg" crc="121976892" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="wonton.jpg" crc="4210856967" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="wonton_2x.jpg" crc="3816233251" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="staircase redesign.jpg" crc="10785768" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="staircase redesign_2x.jpg" crc="4132337378" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="casestudy5.jpg" crc="2055577" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="casestudy5_2x.jpg" crc="447090782" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="wonton step.jpg" crc="3964698806" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="wonton step_2x.jpg" crc="3848772632" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="524361933" seo="true" mt="1550735997112" redirect="true"/>
   <file name="financialfeud.html" crc="3860611677" seo="true" mt="1550738043458" redirect="true"/>
@@ -826,6 +861,6 @@
   <file name="gsk.html" crc="3950167966" seo="true" mt="1550735997112" redirect="true"/>
   <file name="index.html" crc="4039933451" seo="true" mt="1550735997112" redirect="true"/>
   <file name="storyofmylife.html" crc="4148423721" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="silta.html" crc="3805048791" seo="true" mt="1550773539429" redirect="true"/>
-  <file name="sketches.html" crc="8263903" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="silta.html" crc="4043962831" seo="true" mt="1550773617761" redirect="true"/>
+  <file name="sketches.html" crc="4172274351" seo="true" mt="1550774814318" redirect="true"/>
 </manifest>

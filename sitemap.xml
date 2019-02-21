@@ -49,6 +49,48 @@
     </image:image>
   </url>
   <url>
+    <loc>http://mike-dong.com/sketches.html</loc>
+    <lastmod>2019-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/birdhall%20redesign.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/birdhall%20redesign_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/casestudy4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/casestudy4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/wonton.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/wonton_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/staircase%20redesign.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/staircase%20redesign_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/casestudy5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/casestudy5_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/wonton%20step.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/wonton%20step_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://mike-dong.com/silta.html</loc>
     <lastmod>2019-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -272,12 +314,6 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/storyboard_yoga428x219_2x.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/sketches.html</loc>
-    <lastmod>2019-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mike-dong.com/storyofmylife.html</loc>
@@ -772,12 +808,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/wonton-step.png</loc>
-    <lastmod>2019-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/assets/scandyfuture.png</loc>
     <lastmod>2019-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -940,14 +970,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/casestudy5.png</loc>
-    <lastmod>2019-02-07</lastmod>
+    <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
+    <lastmod>2017-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/%E7%BE%8E%E8%9F%B9.jpg</loc>
-    <lastmod>2017-07-18</lastmod>
+    <loc>http://mike-dong.com/assets/casestudy5.png</loc>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
