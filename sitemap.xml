@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mike-dong.com/index.html</loc>
-    <lastmod>2019-02-07</lastmod>
+    <lastmod>2019-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/silta.html</loc>
-    <lastmod>2019-02-18</lastmod>
+    <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -350,7 +350,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/financialfeud.html</loc>
-    <lastmod>2019-02-06</lastmod>
+    <lastmod>2019-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -391,12 +391,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/pncparentteen-crop-u19430.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/arrow.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/arrow_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/findinghome.png</image:loc>
@@ -459,30 +453,6 @@
       <image:loc>http://mike-dong.com/images/2-crop-u20980_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/linkpnc.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/linkpnc_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/familydata.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/familydata_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/familydata1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/familydata1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/familydata2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/familydata2_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mike-dong.com/images/storyboard2.jpg</image:loc>
     </image:image>
     <image:image>
@@ -495,46 +465,82 @@
       <image:loc>http://mike-dong.com/images/storyboard3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/homedevice.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homedevice_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/challengedetail.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/challengedetail_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/started.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/started_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/inprogress.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/inprogress_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/completed.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/completed_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/carddevice.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/carddevice_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mike-dong.com/images/ffgrouppic-crop-u21207.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/ffgrouppic-crop-u21207_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research1-crop-u24534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research1-crop-u24534_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research2-crop-u24786.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research2-crop-u24786_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research3-crop-u24806.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research3-crop-u24806_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research5-crop-u24846.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research5-crop-u24846_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research6-crop-u24866.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/research6-crop-u24866_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/pncmaria-crop-u25032.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/pncmaria-crop-u25032_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/ffjustin-crop-u25034.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/ffjustin-crop-u25034_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/pncjudy-crop-u25145.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/pncjudy-crop-u25145_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/pncmaria-crop-u25125.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/pncmaria-crop-u25125_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/ffjustin-crop-u25159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/ffjustin-crop-u25159_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/pncjudy-crop-u25194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/pncjudy-crop-u25194_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -616,12 +622,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/ff2@2x.png</loc>
-    <lastmod>2018-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mike-dong.com/assets/newvaluemodel.png</loc>
     <lastmod>2019-02-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -652,14 +652,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/value.png</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://mike-dong.com/assets/process-book-team-4.pdf</loc>
+    <lastmod>2018-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_0516172.png</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://mike-dong.com/assets/birdhall-redesign.png</loc>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -688,14 +688,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/wonton-step.png</loc>
-    <lastmod>2019-02-07</lastmod>
+    <loc>http://mike-dong.com/assets/value.png</loc>
+    <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/scandyfuture.png</loc>
-    <lastmod>2019-02-09</lastmod>
+    <loc>http://mike-dong.com/assets/pgxpl16-000212_v3_pain_0516172.png</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -766,6 +766,72 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/ff2nonbg.png</loc>
+    <lastmod>2019-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/started.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/homedevice.png</loc>
+    <lastmod>2018-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/challengedetail.png</loc>
+    <lastmod>2018-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/linkpnc.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/familydata.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/familydata1.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/familydata2.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/inprogress.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/completed.png</loc>
+    <lastmod>2019-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/carddevice.png</loc>
+    <lastmod>2018-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/stakeholders.png</loc>
     <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -814,14 +880,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/process-book-team-4.pdf</loc>
-    <lastmod>2018-12-12</lastmod>
+    <loc>http://mike-dong.com/assets/wonton-step.png</loc>
+    <lastmod>2019-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/birdhall-redesign.png</loc>
-    <lastmod>2019-02-07</lastmod>
+    <loc>http://mike-dong.com/assets/scandyfuture.png</loc>
+    <lastmod>2019-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
