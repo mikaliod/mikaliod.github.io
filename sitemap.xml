@@ -542,6 +542,12 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/pncjudy-crop-u25194_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/newvaluemodel.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/newvaluemodel_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/about-me.html</loc>

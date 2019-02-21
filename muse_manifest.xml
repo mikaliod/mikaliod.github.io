@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550737289763">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550737877479">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
     <file name="master_directories.css" crc="194088786" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:sketches"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="financialfeud:helixredesign:misc:about-me:storyofmylife:index:gsk:lofo:silta:sketches"/>
     <file name="master_projects.css" crc="253288472" ref="helixredesign:misc:lofo"/>
-    <file name="financialfeud.css" crc="481829841" ref="financialfeud"/>
+    <file name="financialfeud.css" crc="4172724353" ref="financialfeud"/>
     <file name="helixredesign.css" crc="3846727898" ref="helixredesign"/>
     <file name="misc.css" crc="3967330310" ref="misc"/>
     <file name="about-me.css" crc="3784184309" ref="about-me"/>
@@ -729,9 +729,15 @@
     <file name="pncjudy-crop-u25194_2x.jpg" crc="4186036768" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
+    <file name="newvaluemodel.jpg" crc="4162557548" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="newvaluemodel_2x.jpg" crc="451003423" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="524361933" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="financialfeud.html" crc="4289731753" seo="true" mt="1550737218422" redirect="true"/>
+  <file name="financialfeud.html" crc="3782023948" seo="true" mt="1550737839663" redirect="true"/>
   <file name="helixredesign.html" crc="454793552" seo="true" mt="1550735997112" redirect="true"/>
   <file name="lofo.html" crc="4126254614" seo="true" mt="1550735997112" redirect="true"/>
   <file name="misc.html" crc="3987027013" seo="true" mt="1550735997112" redirect="true"/>
