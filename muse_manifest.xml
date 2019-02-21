@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550774856415">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550775283842">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
-    <file name="master_directories.css" crc="194088786" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:sketches"/>
+    <file name="master_directories.css" crc="4145746689" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:sketches"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="financialfeud:helixredesign:misc:about-me:storyofmylife:index:gsk:lofo:silta:sketches"/>
     <file name="master_projects.css" crc="253288472" ref="helixredesign:misc:lofo"/>
     <file name="financialfeud.css" crc="4127339724" ref="financialfeud"/>
@@ -12,7 +12,7 @@
     <file name="index.css" crc="243243633" ref="index"/>
     <file name="gsk.css" crc="205888949" ref="gsk"/>
     <file name="lofo.css" crc="266213558" ref="lofo"/>
-    <file name="silta.css" crc="3879764039" ref="silta"/>
+    <file name="silta.css" crc="4274472776" ref="silta"/>
     <file name="sketches.css" crc="510119676" ref="sketches"/>
   </folder>
   <folder name="fonts">
@@ -852,6 +852,12 @@
     <file name="wonton step_2x.jpg" crc="3848772632" seo="true" ref="sketches">
       <caption webpage="sketches" alt=""/>
     </file>
+    <file name="stakeholder.jpg" crc="268310632" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="stakeholder_2x.jpg" crc="428741431" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="524361933" seo="true" mt="1550735997112" redirect="true"/>
   <file name="financialfeud.html" crc="3860611677" seo="true" mt="1550738043458" redirect="true"/>
@@ -861,6 +867,6 @@
   <file name="gsk.html" crc="3950167966" seo="true" mt="1550735997112" redirect="true"/>
   <file name="index.html" crc="4039933451" seo="true" mt="1550735997112" redirect="true"/>
   <file name="storyofmylife.html" crc="4148423721" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="silta.html" crc="4043962831" seo="true" mt="1550773617761" redirect="true"/>
+  <file name="silta.html" crc="3790039746" seo="true" mt="1550775188409" redirect="true"/>
   <file name="sketches.html" crc="4172274351" seo="true" mt="1550774814318" redirect="true"/>
 </manifest>

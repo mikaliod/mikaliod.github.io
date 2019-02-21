@@ -314,6 +314,12 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/storyboard_yoga428x219_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/stakeholder.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/stakeholder_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/storyofmylife.html</loc>
