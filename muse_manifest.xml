@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1574404270074">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1574406686779">
   <folder name="css">
-    <file name="site_global.css" crc="4286506530"/>
+    <file name="site_global.css" crc="3782892711"/>
     <file name="master_directories.css" crc="3880228763" ref="silta-copy:silta:gsk:index:miscprojects:helixredesign:storyofmylife:about-me:financialfeud:sketches:pennmedicine"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="silta-copy:misc:silta:gsk:lofo:index:miscprojects:helixredesign:storyofmylife:about-me:financialfeud:sketches:pennmedicine"/>
     <file name="master_projects.css" crc="325318650" ref="misc:lofo"/>
@@ -111,7 +111,7 @@
     <file name="valuemodel.png" crc="3997175693" seo="true" mt="1524676837000"/>
     <file name="blueprintff.png" crc="4059595354" seo="true" mt="1524678738000"/>
     <file name="visual.png" crc="176748913" seo="true" mt="1519332225000"/>
-    <file name="resume_mikeyilindong.pdf" crc="485513177" seo="true" mt="1549352845000"/>
+    <file name="resume_mikeyilindong.pdf" crc="4178159757" seo="true" mt="1574405937000"/>
     <file name="stakeholder_new.png" crc="3963432739" seo="true" mt="1542395554000"/>
     <file name="maps.jpg" crc="4154447902" seo="true" mt="1542610091000"/>
     <file name="researchcompetitive.png" crc="27011238" seo="true" mt="1542612785000"/>
