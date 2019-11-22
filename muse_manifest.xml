@@ -1,19 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1550775283842">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1574402623230">
   <folder name="css">
     <file name="site_global.css" crc="4286506530"/>
-    <file name="master_directories.css" crc="4145746689" ref="about-me:storyofmylife:index:financialfeud:gsk:silta:sketches"/>
-    <file name="master_grandmaster.css" crc="4017877407" ref="financialfeud:helixredesign:misc:about-me:storyofmylife:index:gsk:lofo:silta:sketches"/>
-    <file name="master_projects.css" crc="253288472" ref="helixredesign:misc:lofo"/>
-    <file name="financialfeud.css" crc="4127339724" ref="financialfeud"/>
-    <file name="helixredesign.css" crc="3846727898" ref="helixredesign"/>
-    <file name="misc.css" crc="3967330310" ref="misc"/>
-    <file name="about-me.css" crc="3784184309" ref="about-me"/>
-    <file name="storyofmylife.css" crc="4131000147" ref="storyofmylife"/>
-    <file name="index.css" crc="243243633" ref="index"/>
-    <file name="gsk.css" crc="205888949" ref="gsk"/>
-    <file name="lofo.css" crc="266213558" ref="lofo"/>
-    <file name="silta.css" crc="4274472776" ref="silta"/>
-    <file name="sketches.css" crc="510119676" ref="sketches"/>
+    <file name="master_directories.css" crc="3880228763" ref="silta-copy:silta:gsk:index:miscprojects:helixredesign:storyofmylife:about-me:financialfeud:sketches:pennmedicine"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="silta-copy:misc:silta:gsk:lofo:index:miscprojects:helixredesign:storyofmylife:about-me:financialfeud:sketches:pennmedicine"/>
+    <file name="master_projects.css" crc="325318650" ref="misc:lofo"/>
+    <file name="silta-copy.css" crc="41885632" ref="silta-copy"/>
+    <file name="misc.css" crc="3849687896" ref="misc"/>
+    <file name="silta.css" crc="4092072185" ref="silta"/>
+    <file name="gsk.css" crc="4140969324" ref="gsk"/>
+    <file name="lofo.css" crc="430030892" ref="lofo"/>
+    <file name="index.css" crc="4017892676" ref="index"/>
+    <file name="miscprojects.css" crc="4259906259" ref="miscprojects"/>
+    <file name="helixredesign.css" crc="4191138128" ref="helixredesign"/>
+    <file name="storyofmylife.css" crc="4147541905" ref="storyofmylife"/>
+    <file name="about-me.css" crc="4248150454" ref="about-me"/>
+    <file name="financialfeud.css" crc="397537743" ref="financialfeud"/>
+    <file name="sketches.css" crc="461478907" ref="sketches"/>
+    <file name="pennmedicine.css" crc="142840462" ref="pennmedicine"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -28,9 +31,57 @@
     <file name="fa-brands-400.woff" crc="79638358"/>
     <file name="fa-brands-400.eot" crc="3981260100"/>
     <file name="fa-brands-400.svg" crc="523360329"/>
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
     <file name="simple-line-icons.woff" crc="4266480848"/>
     <file name="simple-line-icons.eot" crc="41611008"/>
     <file name="simple-line-icons.svg" crc="366436234"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
     <file name="fa-solid-900.woff" crc="525439022"/>
     <file name="fa-solid-900.eot" crc="61029205"/>
     <file name="fa-solid-900.svg" crc="3772678589"/>
@@ -72,11 +123,6 @@
     <file name="final-poster-result.png" crc="223210914" seo="true" mt="1549521192000"/>
     <file name="digitalized-poster-map.png" crc="3791884318" seo="true" mt="1549521109000"/>
     <file name="process-book-team-4.pdf" crc="4116398477" seo="true" mt="1544590862000"/>
-    <file name="birdhall-redesign.png" crc="3832492220" seo="true" mt="1549524945000"/>
-    <file name="staircase-redesign.png" crc="4234426739" seo="true" mt="1549524952000"/>
-    <file name="casestudy4.png" crc="4210550327" seo="true" mt="1549524940000"/>
-    <file name="casestudy5.png" crc="438336117" seo="true" mt="1549524942000"/>
-    <file name="wonton.png" crc="3930135248" seo="true" mt="1549524761000"/>
     <file name="scandyfuture.png" crc="3999982461" seo="true" mt="1549766753000"/>
     <file name="brainstormpic.png" crc="349060746" seo="true" mt="1549955955000"/>
     <file name="brainstormwhiteboard.png" crc="4158349827" seo="true" mt="1549956340000"/>
@@ -90,61 +136,41 @@
     <file name="2lowpoly_city_free_pack_camera_1_a.tif" crc="3762725183" seo="true" mt="1550526523000"/>
     <file name="stakeholder2.png" crc="4284520027" seo="true" mt="1549334500000"/>
     <file name="ff2nonbg.png" crc="440198841" seo="true" mt="1550637465000"/>
-    <file name="prototype1.png" crc="306577820" seo="true" mt="1550733583000"/>
     <file name="prototype2.png" crc="4122615243" seo="true" mt="1550733712000"/>
+    <file name="prototype1.png" crc="306577820" seo="true" mt="1550733583000"/>
     <file name="prototype3.png" crc="3973900806" seo="true" mt="1550733622000"/>
     <file name="storyboard_system.png" crc="238022191" seo="true" mt="1544574698000"/>
     <file name="storyboard_super.png" crc="4087868130" seo="true" mt="1544574811000"/>
     <file name="storyboard_pet.png" crc="4174480227" seo="true" mt="1544574685000"/>
     <file name="storyboard_yoga.png" crc="3845757703" seo="true" mt="1544574679000"/>
+    <file name="birdhall-redesign.png" crc="3832492220" seo="true" mt="1549524945000"/>
+    <file name="staircase-redesign.png" crc="4234426739" seo="true" mt="1549524952000"/>
+    <file name="wonton.png" crc="3930135248" seo="true" mt="1549524761000"/>
+    <file name="casestudy4.png" crc="4210550327" seo="true" mt="1549524940000"/>
+    <file name="casestudy5.png" crc="438336117" seo="true" mt="1549524942000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:sketches"/>
-    <file name="museutils.js" crc="340535759" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:sketches"/>
-    <file name="whatinput.js" crc="86476730" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:sketches"/>
-    <file name="museconfig.js" crc="310584261" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:sketches"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="helixredesign:misc"/>
-    <file name="jquery.watch.js" crc="51536988" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:sketches"/>
-    <file name="require.js" crc="7928878" ref="about-me:financialfeud:helixredesign:lofo:misc:gsk:index:storyofmylife:silta:sketches"/>
-    <file name="webpro.js" crc="4059564322" ref="financialfeud:helixredesign:lofo:silta"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="financialfeud:helixredesign:lofo:silta"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="financialfeud:helixredesign:lofo:silta"/>
-    <file name="touchswipe.js" crc="4075097462" ref="financialfeud:helixredesign:lofo:silta"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:helixredesign:lofo:misc:gsk:index:storyofmylife:financialfeud:silta:sketches:miscprojects:silta-copy:pennmedicine"/>
+    <file name="museutils.js" crc="3939489907" ref="about-me:helixredesign:lofo:misc:gsk:index:storyofmylife:financialfeud:silta:sketches:miscprojects:silta-copy:pennmedicine"/>
+    <file name="whatinput.js" crc="86476730" ref="about-me:helixredesign:lofo:misc:gsk:index:storyofmylife:financialfeud:silta:sketches:miscprojects:silta-copy:pennmedicine"/>
+    <file name="museconfig.js" crc="3936894949" ref="about-me:helixredesign:lofo:misc:gsk:index:storyofmylife:financialfeud:silta:sketches:miscprojects:silta-copy:pennmedicine"/>
+    <file name="jquery.watch.js" crc="522499760" ref="about-me:helixredesign:lofo:misc:gsk:index:storyofmylife:financialfeud:silta:sketches:miscprojects:silta-copy:pennmedicine"/>
+    <file name="require.js" crc="4177726516" ref="about-me:helixredesign:lofo:misc:gsk:index:storyofmylife:financialfeud:silta:sketches:miscprojects:silta-copy:pennmedicine"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="helixredesign:misc"/>
+    <file name="webpro.js" crc="3856315280" ref="helixredesign:lofo:financialfeud:silta:silta-copy"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="helixredesign:lofo:financialfeud:silta:silta-copy"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="helixredesign:lofo:financialfeud:silta:silta-copy"/>
+    <file name="touchswipe.js" crc="3888935200" ref="helixredesign:lofo:financialfeud:silta:silta-copy"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="about-me:financialfeud:silta"/>
-    <file name="homegsk.png" crc="4228488945" ref="gsk" seo="true">
-      <caption webpage="gsk" alt=""/>
-      <caption webpage="home_old" alt=""/>
-    </file>
-    <file name="homehelix.png" crc="38804484" ref="helixredesign" seo="true">
-      <caption webpage="helixredesign" alt=""/>
-      <caption webpage="home_old" alt=""/>
-    </file>
-    <file name="homehelix_2x.png" crc="498540763" ref="helixredesign" seo="true">
-      <caption webpage="helixredesign" alt=""/>
-      <caption webpage="home_old" alt=""/>
-    </file>
+    <file name="favicon.ico" crc="238392154" ref="about-me:index:pennmedicine"/>
     <file name="img_6845.jpg" crc="3962409042" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="img_6845_2x.jpg" crc="441398018" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="financialfeud:helixredesign:lofo:silta"/>
-    <file name="loading.gif" crc="3815509949" ref="financialfeud:helixredesign:lofo:silta"/>
-    <file name="logo-helix.svg" crc="4080703492" ref="helixredesign"/>
-    <file name="logo-helix_poster_u11230.png" crc="15985251" ref="helixredesign"/>
-    <file name="23me.png" crc="361712310" seo="true" ref="helixredesign">
-      <caption webpage="helixredesign" alt=""/>
-    </file>
-    <file name="23me_2x.png" crc="4138555113" seo="true" ref="helixredesign">
-      <caption webpage="helixredesign" alt=""/>
-    </file>
-    <file name="adm.png" crc="4023033129" seo="true" ref="helixredesign">
-      <caption webpage="helixredesign" alt=""/>
-    </file>
-    <file name="adm_2x.png" crc="28479065" seo="true" ref="helixredesign">
+    <file name="homehelix-crop-u27980.png" crc="4056396212" seo="true" ref="helixredesign">
       <caption webpage="helixredesign" alt=""/>
     </file>
     <file name="sync-u11082-fr.png" crc="265218378" ref="helixredesign"/>
@@ -161,6 +187,22 @@
     <file name="swipe.gif" crc="26593918" ref="helixredesign">
       <caption webpage="helixredesign" alt=""/>
     </file>
+    <file name="logo-helix.svg" crc="4080703492" ref="helixredesign"/>
+    <file name="logo-helix_poster_u11230.png" crc="15985251" ref="helixredesign"/>
+    <file name="23me.png" crc="361712310" seo="true" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
+    </file>
+    <file name="23me_2x.png" crc="4138555113" seo="true" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="helixredesign:lofo:financialfeud:silta:silta-copy"/>
+    <file name="adm.png" crc="4023033129" seo="true" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
+    </file>
+    <file name="adm_2x.png" crc="28479065" seo="true" ref="helixredesign">
+      <caption webpage="helixredesign" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="helixredesign:lofo:financialfeud:silta:silta-copy"/>
     <file name="lofo-alt.jpg" crc="4062000161" seo="true" ref="lofo">
       <caption webpage="lofo" alt=""/>
     </file>
@@ -330,116 +372,14 @@
     <file name="chemecarlogo-line_2x.png" crc="7472947" ref="misc">
       <caption webpage="misc" alt=""/>
     </file>
-    <file name="homegsk550x341.png" crc="372060281" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="homegsk.png" crc="4228488945" seo="true" ref="gsk">
+      <caption webpage="gsk" alt=""/>
     </file>
-    <file name="homegsk550x341_2x.png" crc="36096875" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="meandgsk-crop-u18621.png" crc="4209531284" seo="true" ref="gsk">
+      <caption webpage="gsk" alt=""/>
     </file>
-    <file name="homelofo550x341.png" crc="4238329512" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="homelofo550x341_2x.png" crc="300304202" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="homehelix550x341.png" crc="359616475" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="homehelix550x341_2x.png" crc="436928350" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="homemisc550x341.png" crc="389184846" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="homemisc550x341_2x.png" crc="342473817" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="storychallenge.jpg" crc="368795363" seo="true" ref="financialfeud">
-      <caption webpage="silta" alt=""/>
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="storychallenge_2x.jpg" crc="3845867240" seo="true" ref="financialfeud">
-      <caption webpage="silta" alt=""/>
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="storytasks.jpg" crc="4142595054" seo="true" ref="financialfeud">
-      <caption webpage="silta" alt=""/>
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="storytasks_2x.jpg" crc="47243328" seo="true" ref="financialfeud">
-      <caption webpage="silta" alt=""/>
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="storyreward.jpg" crc="173170589" seo="true" ref="financialfeud">
-      <caption webpage="silta" alt=""/>
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="storyreward_2x.jpg" crc="149394519" seo="true" ref="financialfeud">
-      <caption webpage="silta" alt=""/>
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="store_sign_mockup_6-crop-u19111.png" crc="3893160479" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="store_sign_mockup_6-crop-u19111_2x.png" crc="3869517286" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="mockup-creditcard-crop-u19101.png" crc="3938462278" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="mockup-creditcard-crop-u19101_2x.png" crc="13019198" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeud-copy" alt=""/>
-    </file>
-    <file name="familyipad-crop-u19418.jpg" crc="3762042154" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="familyipad-crop-u19418_2x.jpg" crc="171873086" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="pncparentteen-crop-u19430.jpg" crc="431310303" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="findinghome.png" crc="309846844" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="findinghome_2x.png" crc="335030855" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="findingtrigger.png" crc="4150854690" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="findingtrigger_2x.png" crc="237949991" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="findingtailor.png" crc="4063432776" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="findingtailor_2x.png" crc="247766996" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="findingcontinuous.png" crc="4285701189" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="findingcontinuous_2x.png" crc="325579274" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="silta" alt=""/>
+    <file name="meandgsk-crop-u18621_2x.png" crc="364608505" seo="true" ref="gsk">
+      <caption webpage="gsk" alt=""/>
     </file>
     <file name="store_sign_mockup_6-crop-u18474.png" crc="3948159285" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -453,149 +393,23 @@
     <file name="scene-crop-u19783_2x.png" crc="527589072" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pncjudy-crop-u20323.jpg" crc="488862591" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
+    <file name="homegsk550x341.png" crc="372060281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pncjudy-crop-u20323_2x.jpg" crc="238521629" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
+    <file name="homegsk550x341_2x.png" crc="36096875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pncmaria-crop-u20389.jpg" crc="192089505" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
+    <file name="homelofo550x341.png" crc="4238329512" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="pncmaria-crop-u20389_2x.jpg" crc="4088759075" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
+    <file name="homelofo550x341_2x.png" crc="300304202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="ffjustin-crop-u20472.jpg" crc="3841252827" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
+    <file name="homehelix550x341.png" crc="4264343316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="ffjustin-crop-u20472_2x.jpg" crc="233100748" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="scene-crop-u20194.png" crc="127680329" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="speeddating-crop-u20860.jpg" crc="4016530387" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="speeddating-crop-u20860_2x.jpg" crc="4273080323" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="mockphoneandcard-crop-u21012.jpg" crc="4085327613" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="mockphoneandcard-crop-u21012_2x.jpg" crc="3796251913" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="2-crop-u20980.jpg" crc="194596591" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="2-crop-u20980_2x.jpg" crc="139414503" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="storyboard2.jpg" crc="4112631649" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="storyboard1.jpg" crc="4240896411" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="storyboard4.jpg" crc="4139843286" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="storyboard3.jpg" crc="4154266874" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="ffgrouppic-crop-u21207.jpg" crc="472848492" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="ffgrouppic-crop-u21207_2x.jpg" crc="4025325389" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
-    </file>
-    <file name="serviceicon.png" crc="92429063" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="serviceicon_2x.png" crc="4236203317" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="sharedicon.png" crc="3847900119" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="sharedicon_2x.png" crc="333791827" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="autoicon.png" crc="3982791438" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="autoicon_2x.png" crc="102698426" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="electricicon.png" crc="3825695960" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="electricicon_2x.png" crc="3846968892" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="researchicon.png" crc="231001074" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="researchicon_2x.png" crc="254994487" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="dataicon.png" crc="264537809" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="dataicon_2x.png" crc="4237135907" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="meandgsk-crop-u18621.png" crc="4209531284" seo="true" ref="gsk">
-      <caption webpage="gsk" alt=""/>
-    </file>
-    <file name="meandgsk-crop-u18621_2x.png" crc="364608505" seo="true" ref="gsk">
-      <caption webpage="gsk" alt=""/>
-    </file>
-    <file name="median family income-crop-u22607.jpg" crc="60246813" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="median family income-crop-u22607_2x.jpg" crc="4146048043" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="mean travel time to work-crop-u22603.jpg" crc="459990495" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="mean travel time to work-crop-u22603_2x.jpg" crc="317396313" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="public transportation to work-crop-u22605.jpg" crc="4244382174" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="public transportation to work-crop-u22605_2x.jpg" crc="485810557" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="unemployment-crop-u22609.jpg" crc="425383907" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="unemployment-crop-u22609_2x.jpg" crc="190824473" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="img_8905-crop-u22707.jpg" crc="4050167991" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="img_8905-crop-u22707_2x.jpg" crc="3969700955" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="img_2189-crop-u22717.jpg" crc="3781790535" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="img_2189-crop-u22717_2x.jpg" crc="294319703" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="people interact poster-crop-u22768.jpg" crc="120116536" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="final poster result-crop-u22873.jpg" crc="486768023" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="digitalized poster map-crop-u22900.jpg" crc="57783196" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="homehelix550x341_2x.png" crc="265997371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u18603.jpg" crc="4160739940" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -603,32 +417,50 @@
     <file name="finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u18603_2x.jpg" crc="232562773" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="siltasontheroad-crop-u23660.png" crc="4220560522" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="homemisc550x341.png" crc="389184846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="omniwheel.jpg" crc="240686908" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="homemisc550x341_2x.png" crc="342473817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="omniwheel_2x.jpg" crc="322505275" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="store_sign_mockup_6-crop-u19111.png" crc="3893160479" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="foamboard-crop-u23897.jpg" crc="340499971" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="store_sign_mockup_6-crop-u19111_2x.png" crc="3869517286" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="foamboard-crop-u23897_2x.jpg" crc="221345323" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="storychallenge.jpg" crc="368795363" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="img_8672 copy-crop-u23905.jpg" crc="4008028961" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="storychallenge_2x.jpg" crc="3845867240" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="img_8672 copy-crop-u23905_2x.jpg" crc="331399347" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="storytasks.jpg" crc="4142595054" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="grouppicsilta-crop-u23933.jpg" crc="4107644459" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="storytasks_2x.jpg" crc="47243328" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="grouppicsilta-crop-u23933_2x.jpg" crc="4051381809" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="storyreward.jpg" crc="173170589" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="storyreward_2x.jpg" crc="149394519" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="familyipad-crop-u19418.jpg" crc="3762042154" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="familyipad-crop-u19418_2x.jpg" crc="171873086" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="mockup-creditcard-crop-u19101.png" crc="240599678" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="mockup-creditcard-crop-u19101_2x.png" crc="365704818" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="pncparentteen-crop-u19430.jpg" crc="431310303" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="research1-crop-u24534.jpg" crc="3794324035" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
@@ -664,6 +496,66 @@
       <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="research6-crop-u24866_2x.jpg" crc="4209421342" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="findinghome.png" crc="309846844" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="findinghome_2x.png" crc="335030855" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="findingtrigger.png" crc="4150854690" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="findingtrigger_2x.png" crc="237949991" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="findingcontinuous.png" crc="4285701189" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="findingcontinuous_2x.png" crc="325579274" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="findingtailor.png" crc="4063432776" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="findingtailor_2x.png" crc="247766996" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="pncjudy-crop-u20323.jpg" crc="488862591" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="pncjudy-crop-u20323_2x.jpg" crc="238521629" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="pncmaria-crop-u20389.jpg" crc="192089505" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="pncmaria-crop-u20389_2x.jpg" crc="4088759075" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="ffjustin-crop-u20472.jpg" crc="3841252827" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="ffjustin-crop-u20472_2x.jpg" crc="233100748" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="speeddating-crop-u20860.jpg" crc="4111614105" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="speeddating-crop-u20860_2x.jpg" crc="4081991593" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="mockphoneandcard-crop-u21012.jpg" crc="4085327613" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="mockphoneandcard-crop-u21012_2x.jpg" crc="3796251913" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="2-crop-u20980.jpg" crc="194596591" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="2-crop-u20980_2x.jpg" crc="139414503" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="pncmaria-crop-u25032.jpg" crc="3764171919" seo="true" ref="financialfeud">
@@ -708,28 +600,140 @@
     <file name="newvaluemodel_2x.jpg" crc="451003423" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="expanddemo.gif" crc="4011990397" seo="true" ref="silta">
+    <file name="storyboard2.jpg" crc="4112631649" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="storyboard1.jpg" crc="4240896411" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="storyboard4.jpg" crc="4139843286" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="storyboard3.jpg" crc="4154266874" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="ffgrouppic-crop-u21207.jpg" crc="472848492" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="ffgrouppic-crop-u21207_2x.jpg" crc="4025325389" seo="true" ref="financialfeud">
+      <caption webpage="financialfeud" alt=""/>
+    </file>
+    <file name="scene-crop-u20194.png" crc="127680329" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="miura.gif" crc="205643088" seo="true" ref="silta">
+    <file name="siltasontheroad-crop-u23660.png" crc="4220560522" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="jamsheets.gif" crc="23785191" seo="true" ref="silta">
+    <file name="expanddemo.gif" crc="4011990397" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="rigiddemo.gif" crc="3858082220" seo="true" ref="silta">
+    <file name="miura.gif" crc="205643088" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
       <caption webpage="silta" alt=""/>
     </file>
-    <file name="rigiddemo_2x.gif" crc="3858082220" seo="true" ref="silta">
+    <file name="jamsheets.gif" crc="23785191" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="rigiddemo.gif" crc="3858082220" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="rigiddemo_2x.gif" crc="3858082220" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="omniwheel.jpg" crc="240686908" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="omniwheel_2x.jpg" crc="322505275" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="serviceicon.png" crc="92429063" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="serviceicon_2x.png" crc="4236203317" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="sharedicon.png" crc="3847900119" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="sharedicon_2x.png" crc="333791827" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="autoicon.png" crc="3982791438" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="autoicon_2x.png" crc="102698426" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="electricicon.png" crc="3825695960" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="electricicon_2x.png" crc="3846968892" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="researchicon.png" crc="231001074" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="researchicon_2x.png" crc="254994487" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="dataicon.png" crc="264537809" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="dataicon_2x.png" crc="4237135907" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="img_8905-crop-u22707.jpg" crc="4050167991" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="img_8905-crop-u22707_2x.jpg" crc="3969700955" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="img_2189-crop-u22717.jpg" crc="3781790535" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="img_2189-crop-u22717_2x.jpg" crc="294319703" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="people interact poster-crop-u22768.jpg" crc="120116536" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
     <file name="people interact poster-crop-u22768_2x.jpg" crc="393505716" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
+    <file name="final poster result-crop-u22873.jpg" crc="486768023" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
     <file name="final poster result-crop-u22873_2x.jpg" crc="3930322013" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
+    <file name="digitalized poster map-crop-u22900.jpg" crc="57783196" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
     <file name="digitalized poster map-crop-u22900_2x.jpg" crc="4011890804" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="scandyfuture-crop-u26493.jpg" crc="281484311" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="scandyfuture-crop-u26493_2x.jpg" crc="357283907" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
     <file name="brainstormpic-crop-u26267.jpg" crc="4024405223" seo="true" ref="silta">
@@ -744,6 +748,18 @@
     <file name="brainstormwhiteboard-crop-u26393_2x.jpg" crc="505733205" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
+    <file name="brainstormwhiteboard5-crop-u26473.jpg" crc="517990939" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard5-crop-u26473_2x.jpg" crc="182639659" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard4-crop-u26453.jpg" crc="4178940216" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard4-crop-u26453_2x.jpg" crc="449986271" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
     <file name="brainstormwhiteboard2-crop-u26413.jpg" crc="3997563352" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
@@ -754,24 +770,6 @@
       <caption webpage="silta" alt=""/>
     </file>
     <file name="brainstormwhiteboard3-crop-u26433_2x.jpg" crc="463740250" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="brainstormwhiteboard4-crop-u26453.jpg" crc="4178940216" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="brainstormwhiteboard4-crop-u26453_2x.jpg" crc="449986271" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="brainstormwhiteboard5-crop-u26473.jpg" crc="517990939" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="brainstormwhiteboard5-crop-u26473_2x.jpg" crc="182639659" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="scandyfuture-crop-u26493.jpg" crc="281484311" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
-    </file>
-    <file name="scandyfuture-crop-u26493_2x.jpg" crc="357283907" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
     <file name="vehiclemike-crop-u26541.jpg" crc="4267269693" seo="true" ref="silta">
@@ -816,6 +814,56 @@
     <file name="storyboard_yoga428x219_2x.jpg" crc="4271389936" seo="true" ref="silta">
       <caption webpage="silta" alt=""/>
     </file>
+    <file name="foamboard-crop-u23897.jpg" crc="340499971" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="foamboard-crop-u23897_2x.jpg" crc="221345323" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="img_8672 copy-crop-u23905.jpg" crc="4008028961" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="img_8672 copy-crop-u23905_2x.jpg" crc="331399347" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="median family income-crop-u22607.jpg" crc="60246813" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="median family income-crop-u22607_2x.jpg" crc="4146048043" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="mean travel time to work-crop-u22603.jpg" crc="459990495" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="mean travel time to work-crop-u22603_2x.jpg" crc="317396313" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="public transportation to work-crop-u22605.jpg" crc="4244382174" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="public transportation to work-crop-u22605_2x.jpg" crc="485810557" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="unemployment-crop-u22609.jpg" crc="425383907" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="unemployment-crop-u22609_2x.jpg" crc="190824473" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="stakeholder.jpg" crc="268310632" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="stakeholder_2x.jpg" crc="428741431" seo="true" ref="silta:silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="grouppicsilta-crop-u23933.jpg" crc="4107644459" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
+    <file name="grouppicsilta-crop-u23933_2x.jpg" crc="4051381809" seo="true" ref="silta">
+      <caption webpage="silta" alt=""/>
+    </file>
     <file name="birdhall redesign.jpg" crc="3901256578" seo="true" ref="sketches">
       <caption webpage="sketches" alt=""/>
     </file>
@@ -852,21 +900,199 @@
     <file name="wonton step_2x.jpg" crc="3848772632" seo="true" ref="sketches">
       <caption webpage="sketches" alt=""/>
     </file>
-    <file name="stakeholder.jpg" crc="268310632" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="store_sign_mockup_6-crop-u26971.png" crc="3948159285" seo="true" ref="miscprojects">
+      <caption webpage="miscprojects" alt=""/>
     </file>
-    <file name="stakeholder_2x.jpg" crc="428741431" seo="true" ref="silta">
-      <caption webpage="silta" alt=""/>
+    <file name="store_sign_mockup_6-crop-u26971_2x.png" crc="4035005680" seo="true" ref="miscprojects">
+      <caption webpage="miscprojects" alt=""/>
+    </file>
+    <file name="scene-crop-u26980.png" crc="342117213" seo="true" ref="miscprojects">
+      <caption webpage="miscprojects" alt=""/>
+    </file>
+    <file name="scene-crop-u26980_2x.png" crc="527589072" seo="true" ref="miscprojects">
+      <caption webpage="miscprojects" alt=""/>
+    </file>
+    <file name="finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u26996.jpg" crc="4160739940" seo="true" ref="miscprojects">
+      <caption webpage="miscprojects" alt=""/>
+    </file>
+    <file name="finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u26996_2x.jpg" crc="232562773" seo="true" ref="miscprojects">
+      <caption webpage="miscprojects" alt=""/>
+    </file>
+    <file name="homehelix-crop-u27294.png" crc="4056396212" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="siltasontheroad-crop-u27157.png" crc="4220560522" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="img_8905-crop-u27041.jpg" crc="4050167991" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="img_8905-crop-u27041_2x.jpg" crc="3969700955" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="img_2189-crop-u27306.jpg" crc="3781790535" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="img_2189-crop-u27306_2x.jpg" crc="294319703" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="people interact poster-crop-u27104.jpg" crc="120116536" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="people interact poster-crop-u27104_2x.jpg" crc="393505716" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="final poster result-crop-u27106.jpg" crc="486768023" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="final poster result-crop-u27106_2x.jpg" crc="3930322013" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="digitalized poster map-crop-u27102.jpg" crc="57783196" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="digitalized poster map-crop-u27102_2x.jpg" crc="4011890804" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="scandyfuture-crop-u27206.jpg" crc="281484311" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="scandyfuture-crop-u27206_2x.jpg" crc="357283907" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormpic-crop-u27204.jpg" crc="4024405223" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormpic-crop-u27204_2x.jpg" crc="199665816" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard-crop-u27198.jpg" crc="276362678" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard-crop-u27198_2x.jpg" crc="505733205" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard5-crop-u27200.jpg" crc="517990939" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard5-crop-u27200_2x.jpg" crc="182639659" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard4-crop-u27202.jpg" crc="4178940216" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard4-crop-u27202_2x.jpg" crc="449986271" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard2-crop-u27208.jpg" crc="3997563352" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard2-crop-u27208_2x.jpg" crc="452825012" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard3-crop-u27196.jpg" crc="534801764" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="brainstormwhiteboard3-crop-u27196_2x.jpg" crc="463740250" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="vehiclemike-crop-u27331.jpg" crc="4267269693" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="vehiclemike-crop-u27331_2x.jpg" crc="4267134775" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="vehiclesusie-crop-u27333.jpg" crc="4228433639" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="vehiclesusie-crop-u27333_2x.jpg" crc="4113663330" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="vehiclewenjie-crop-u27335.jpg" crc="3942187799" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="vehiclewenjie-crop-u27335_2x.jpg" crc="4200200230" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="storyboard_super-crop-u27134.jpg" crc="378345418" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="storyboard_super-crop-u27134_2x.jpg" crc="3760404454" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="storyboard_pet-crop-u27130.jpg" crc="3924416910" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="storyboard_pet-crop-u27130_2x.jpg" crc="146954227" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="foamboard-crop-u27276.jpg" crc="340499971" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="foamboard-crop-u27276_2x.jpg" crc="221345323" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="img_8672 copy-crop-u27163.jpg" crc="4008028961" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="img_8672 copy-crop-u27163_2x.jpg" crc="331399347" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="median family income-crop-u27232.jpg" crc="60246813" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="median family income-crop-u27232_2x.jpg" crc="4146048043" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="mean travel time to work-crop-u27238.jpg" crc="459990495" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="mean travel time to work-crop-u27238_2x.jpg" crc="317396313" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="public transportation to work-crop-u27234.jpg" crc="4244382174" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="public transportation to work-crop-u27234_2x.jpg" crc="485810557" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="unemployment-crop-u27236.jpg" crc="425383907" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="unemployment-crop-u27236_2x.jpg" crc="190824473" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="grouppicsilta-crop-u27124.jpg" crc="4107644459" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="grouppicsilta-crop-u27124_2x.jpg" crc="4051381809" seo="true" ref="silta-copy">
+      <caption webpage="silta-copy" alt=""/>
+    </file>
+    <file name="homepennmedicine.jpg" crc="3969407453" seo="true" ref="index:pennmedicine">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pennmedicine" alt=""/>
+    </file>
+    <file name="homepennmedicine_2x.jpg" crc="392263352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3477-crop-u28307.jpg" crc="84866805" seo="true" ref="pennmedicine">
+      <caption webpage="pennmedicine" alt=""/>
+    </file>
+    <file name="img_3477-crop-u28307_2x.jpg" crc="3938517898" seo="true" ref="pennmedicine">
+      <caption webpage="pennmedicine" alt=""/>
     </file>
   </folder>
-  <file name="about-me.html" crc="524361933" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="financialfeud.html" crc="3860611677" seo="true" mt="1550738043458" redirect="true"/>
-  <file name="helixredesign.html" crc="454793552" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="lofo.html" crc="4126254614" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="misc.html" crc="3987027013" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="gsk.html" crc="3950167966" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="index.html" crc="4039933451" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="storyofmylife.html" crc="4148423721" seo="true" mt="1550735997112" redirect="true"/>
-  <file name="silta.html" crc="3790039746" seo="true" mt="1550775188409" redirect="true"/>
-  <file name="sketches.html" crc="4172274351" seo="true" mt="1550774814318" redirect="true"/>
+  <file name="about-me.html" crc="517869624" seo="true" mt="1574398531327" redirect="true"/>
+  <file name="helixredesign.html" crc="4214903958" seo="true" mt="1574398341301" redirect="true"/>
+  <file name="lofo.html" crc="383625143" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="misc.html" crc="258708005" seo="true" mt="1550735997112" redirect="true"/>
+  <file name="gsk.html" crc="37290480" seo="true" mt="1574398341301" redirect="true"/>
+  <file name="index.html" crc="209116126" seo="true" mt="1574400878137" redirect="true"/>
+  <file name="storyofmylife.html" crc="59470747" seo="true" mt="1574398341301" redirect="true"/>
+  <file name="financialfeud.html" crc="3992608004" seo="true" mt="1574398341301" redirect="true"/>
+  <file name="silta.html" crc="293006467" seo="true" mt="1574398341301" redirect="true"/>
+  <file name="sketches.html" crc="11380417" seo="true" mt="1574398341301" redirect="true"/>
+  <file name="miscprojects.html" crc="4013552547" seo="true" mt="1574398341301" redirect="true"/>
+  <file name="silta-copy.html" crc="4153019135" seo="true" mt="1574398341301" redirect="true"/>
+  <file name="pennmedicine.html" crc="292759083" seo="true" mt="1574402567033" redirect="true"/>
 </manifest>
