@@ -18,24 +18,6 @@
       <image:loc>http://mike-dong.com/images/scene-crop-u19783_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/homegsk550x341.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homegsk550x341_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homelofo550x341.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homelofo550x341_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homehelix550x341.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/homehelix550x341_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mike-dong.com/images/finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u18603.jpg</image:loc>
     </image:image>
     <image:image>
@@ -48,10 +30,10 @@
       <image:loc>http://mike-dong.com/images/homemisc550x341_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/homepennmedicine.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/homepennmedicine550x341.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/homepennmedicine_2x.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/homepennmedicine550x341_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -290,26 +272,32 @@
   </url>
   <url>
     <loc>http://mike-dong.com/miscprojects.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mike-dong.com/images/store_sign_mockup_6-crop-u26971.png</image:loc>
+      <image:loc>http://mike-dong.com/images/homegsk550x341.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/store_sign_mockup_6-crop-u26971_2x.png</image:loc>
+      <image:loc>http://mike-dong.com/images/homegsk550x341_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/scene-crop-u26980.png</image:loc>
+      <image:loc>http://mike-dong.com/images/homelofo550x341.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/scene-crop-u26980_2x.png</image:loc>
+      <image:loc>http://mike-dong.com/images/homelofo550x341_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u26996.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/homehelix550x341.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/finalprojectrawsketches_mikeyilindong_page_18_image_0001-crop-u26996_2x.jpg</image:loc>
+      <image:loc>http://mike-dong.com/images/homehelix550x341_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homemisc550x341.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homemisc550x341_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -587,7 +575,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/financialfeud.html</loc>
-    <lastmod>2019-11-21</lastmod>
+    <lastmod>2019-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
