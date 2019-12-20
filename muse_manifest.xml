@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1574406686779">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1576822675457">
   <folder name="css">
     <file name="site_global.css" crc="3782892711"/>
-    <file name="master_directories.css" crc="3880228763" ref="silta-copy:silta:gsk:index:miscprojects:helixredesign:storyofmylife:about-me:financialfeud:sketches:pennmedicine"/>
+    <file name="master_directories.css" crc="3858696853" ref="silta-copy:silta:gsk:index:miscprojects:helixredesign:storyofmylife:about-me:financialfeud:sketches:pennmedicine"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="silta-copy:misc:silta:gsk:lofo:index:miscprojects:helixredesign:storyofmylife:about-me:financialfeud:sketches:pennmedicine"/>
     <file name="master_projects.css" crc="325318650" ref="misc:lofo"/>
     <file name="silta-copy.css" crc="41885632" ref="silta-copy"/>
@@ -16,7 +16,7 @@
     <file name="about-me.css" crc="4248150454" ref="about-me"/>
     <file name="financialfeud.css" crc="3856424279" ref="financialfeud"/>
     <file name="sketches.css" crc="461478907" ref="sketches"/>
-    <file name="pennmedicine.css" crc="3774399922" ref="pennmedicine"/>
+    <file name="pennmedicine.css" crc="2192168" ref="pennmedicine"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -163,7 +163,7 @@
     <file name="touchswipe.js" crc="3888935200" ref="helixredesign:lofo:financialfeud:silta:silta-copy"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="238392154" ref="about-me:index:financialfeud"/>
+    <file name="favicon.ico" crc="238392154" ref="about-me:index:financialfeud:pennmedicine"/>
     <file name="img_6845.jpg" crc="3962409042" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -1087,5 +1087,5 @@
   <file name="sketches.html" crc="11380417" seo="true" mt="1574398341301" redirect="true"/>
   <file name="miscprojects.html" crc="3860775981" seo="true" mt="1574403998292" redirect="true"/>
   <file name="silta-copy.html" crc="4153019135" seo="true" mt="1574398341301" redirect="true"/>
-  <file name="pennmedicine.html" crc="3818163922" seo="true" mt="1574404191734" redirect="true"/>
+  <file name="pennmedicine.html" crc="3842864314" seo="true" mt="1576822615739" redirect="true"/>
 </manifest>
