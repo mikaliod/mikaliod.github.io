@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mike-dong.com/index.html</loc>
-    <lastmod>2021-06-22</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -38,19 +38,22 @@
   </url>
   <url>
     <loc>http://mike-dong.com/sprout.html</loc>
-    <lastmod>2021-06-22</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mike-dong.com/images/mikememojipink@2x.png</image:loc>
+      <image:loc>http://mike-dong.com/images/sproutheroimage.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/mikememojipink@2x_2x.png</image:loc>
+      <image:loc>http://mike-dong.com/images/processoverview.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/processoverview_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/mend.html</loc>
-    <lastmod>2021-06-22</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -81,21 +84,21 @@
       <image:loc>http://mike-dong.com/images/phimend-crop-u29944_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/flowaftergif.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/flowbeforegif.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mike-dong.com/images/newupdategif.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/oldupdategif.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/flowbeforegif.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/flowaftergif.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/sketches.html</loc>
-    <lastmod>2021-06-22</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -179,7 +182,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/financialfeud.html</loc>
-    <lastmod>2021-05-31</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -380,7 +383,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/about-me.html</loc>
-    <lastmod>2021-06-22</lastmod>
+    <lastmod>2021-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -547,6 +550,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/brainstormwhiteboard4.png</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/blueprint.png</loc>
     <lastmod>2018-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -555,12 +564,6 @@
   <url>
     <loc>http://mike-dong.com/assets/initial-stakeholder-analysis.png</loc>
     <lastmod>2018-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/vehiclemike.png</loc>
-    <lastmod>2019-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -715,6 +718,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/mendmemberpaper.png</loc>
+    <lastmod>2021-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/updatewireframe.png</loc>
+    <lastmod>2021-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/final-poster.png</loc>
     <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -739,14 +754,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/brainstormwhiteboard4.png</loc>
+    <loc>http://mike-dong.com/assets/brainstormwhiteboard5.png</loc>
     <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/brainstormwhiteboard5.png</loc>
-    <lastmod>2019-02-11</lastmod>
+    <loc>http://mike-dong.com/assets/vehiclemike.png</loc>
+    <lastmod>2019-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
