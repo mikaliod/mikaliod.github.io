@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1627457599376">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1627458309515">
   <folder name="css">
     <file name="site_global.css" crc="399503612"/>
     <file name="master_directories.css" crc="4130757185" ref="financialfeudoldd"/>
@@ -6,10 +6,10 @@
     <file name="index.css" crc="300772129" ref="index"/>
     <file name="about-me.css" crc="3960823004" ref="about-me"/>
     <file name="financialfeud.css" crc="4076345465" ref="financialfeud"/>
-    <file name="sketches.css" crc="270770269" ref="sketches"/>
+    <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud"/>
     <file name="mend.css" crc="55737884" ref="mend"/>
-    <file name="sprout.css" crc="4140049267" ref="sprout"/>
+    <file name="sprout.css" crc="3786110047" ref="sprout"/>
     <file name="financialfeudoldd.css" crc="4102424513" ref="financialfeudoldd"/>
   </folder>
   <folder name="fonts">
@@ -851,12 +851,18 @@
     <file name="teampolaroids_2x.jpg" crc="363995815" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
+    <file name="superscrubssketch.jpg" crc="128192039" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="superscrubssketch_2x.jpg" crc="4068581273" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="4028839044" seo="true" mt="1627373265915" redirect="true"/>
   <file name="index.html" crc="179740795" seo="true" mt="1627425600769" redirect="true"/>
   <file name="financialfeud.html" crc="407912140" seo="true" mt="1627425614581" redirect="true"/>
-  <file name="sketches.html" crc="4034768974" seo="true" mt="1627373265915" redirect="true"/>
+  <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="3839549178" seo="true" mt="1627425734255" redirect="true"/>
-  <file name="sprout.html" crc="195665183" seo="true" mt="1627457558718" redirect="true"/>
+  <file name="sprout.html" crc="480493540" seo="true" mt="1627458001788" redirect="true"/>
   <file name="financialfeudoldd.html" crc="3945874148" seo="true" mt="1627425600774" redirect="true"/>
 </manifest>

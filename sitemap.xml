@@ -407,7 +407,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/sketches.html</loc>
-    <lastmod>2021-07-27</lastmod>
+    <lastmod>2021-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -487,6 +487,12 @@
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/untitled_artwork%2019_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/superscrubssketch.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/superscrubssketch_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
