@@ -1,16 +1,14 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1627458309515">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1627458915191">
   <folder name="css">
-    <file name="site_global.css" crc="399503612"/>
-    <file name="master_directories.css" crc="4130757185" ref="financialfeudoldd"/>
-    <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:financialfeudoldd"/>
+    <file name="site_global.css" crc="86868133"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout"/>
     <file name="index.css" crc="300772129" ref="index"/>
     <file name="about-me.css" crc="3960823004" ref="about-me"/>
-    <file name="financialfeud.css" crc="4076345465" ref="financialfeud"/>
+    <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud"/>
     <file name="mend.css" crc="55737884" ref="mend"/>
     <file name="sprout.css" crc="3786110047" ref="sprout"/>
-    <file name="financialfeudoldd.css" crc="4102424513" ref="financialfeudoldd"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -156,277 +154,105 @@
     <file name="team-7-blingbling---copy-of-down-select.jpg" crc="123718367" seo="true" mt="1627448539000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:index:financialfeud:sketches:mend:sprout:financialfeudoldd"/>
-    <file name="museutils.js" crc="3939489907" ref="about-me:index:financialfeud:sketches:mend:sprout:financialfeudoldd"/>
-    <file name="whatinput.js" crc="86476730" ref="about-me:index:financialfeud:sketches:mend:sprout:financialfeudoldd"/>
-    <file name="museconfig.js" crc="3936894949" ref="about-me:index:financialfeud:sketches:mend:sprout:financialfeudoldd"/>
-    <file name="jquery.watch.js" crc="522499760" ref="about-me:index:financialfeud:sketches:mend:sprout:financialfeudoldd"/>
-    <file name="require.js" crc="4177726516" ref="about-me:index:financialfeud:sketches:mend:sprout:financialfeudoldd"/>
-    <file name="webpro.js" crc="3856315280" ref="financialfeud:financialfeudoldd"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="financialfeud:financialfeudoldd"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="financialfeud:financialfeudoldd"/>
-    <file name="touchswipe.js" crc="3888935200" ref="financialfeud:financialfeudoldd"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
+    <file name="museutils.js" crc="3939489907" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
+    <file name="whatinput.js" crc="86476730" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
+    <file name="museconfig.js" crc="3936894949" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
+    <file name="jquery.watch.js" crc="522499760" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
+    <file name="require.js" crc="4177726516" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
+    <file name="webpro.js" crc="3856315280" ref="financialfeud"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="financialfeud"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="financialfeud"/>
+    <file name="touchswipe.js" crc="3888935200" ref="financialfeud"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="financialfeud:financialfeudoldd"/>
-    <file name="loading.gif" crc="3815509949" ref="financialfeud:financialfeudoldd"/>
-    <file name="store_sign_mockup_6-crop-u19111.png" crc="3893160479" seo="true" ref="financialfeudoldd">
+    <file name="blank.gif" crc="4208392903" ref="financialfeud"/>
+    <file name="loading.gif" crc="3815509949" ref="financialfeud"/>
+    <file name="storychallenge.jpg" crc="368795363" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="store_sign_mockup_6-crop-u19111_2x.png" crc="3869517286" seo="true" ref="financialfeudoldd">
+    <file name="storychallenge_2x.jpg" crc="3845867240" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="storychallenge.jpg" crc="368795363" seo="true" ref="financialfeud:financialfeudoldd">
+    <file name="storytasks.jpg" crc="4142595054" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="storychallenge_2x.jpg" crc="3845867240" seo="true" ref="financialfeud:financialfeudoldd">
+    <file name="storytasks_2x.jpg" crc="47243328" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="storytasks.jpg" crc="4142595054" seo="true" ref="financialfeud:financialfeudoldd">
+    <file name="storyreward.jpg" crc="173170589" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="storytasks_2x.jpg" crc="47243328" seo="true" ref="financialfeud:financialfeudoldd">
+    <file name="storyreward_2x.jpg" crc="149394519" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="storyreward.jpg" crc="173170589" seo="true" ref="financialfeud:financialfeudoldd">
+    <file name="research4.jpg" crc="4133385951" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="storyreward_2x.jpg" crc="149394519" seo="true" ref="financialfeud:financialfeudoldd">
+    <file name="research4_2x.jpg" crc="535560954" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="familyipad-crop-u19418.jpg" crc="3762042154" seo="true" ref="financialfeudoldd">
+    <file name="findinghome.png" crc="309846844" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="familyipad-crop-u19418_2x.jpg" crc="171873086" seo="true" ref="financialfeudoldd">
+    <file name="findinghome_2x.png" crc="335030855" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="mockup-creditcard-crop-u19101.png" crc="240599678" seo="true" ref="financialfeudoldd">
+    <file name="findingtrigger.png" crc="4150854690" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="mockup-creditcard-crop-u19101_2x.png" crc="365704818" seo="true" ref="financialfeudoldd">
+    <file name="findingtrigger_2x.png" crc="237949991" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="pncparentteen-crop-u19430.jpg" crc="431310303" seo="true" ref="financialfeudoldd">
+    <file name="findingcontinuous.png" crc="4285701189" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research1-crop-u24534.jpg" crc="3794324035" seo="true" ref="financialfeudoldd">
+    <file name="findingcontinuous_2x.png" crc="325579274" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research1-crop-u24534_2x.jpg" crc="3868464061" seo="true" ref="financialfeudoldd">
+    <file name="findingtailor.png" crc="4063432776" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research2-crop-u24786.jpg" crc="433609286" seo="true" ref="financialfeudoldd">
+    <file name="findingtailor_2x.png" crc="247766996" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research2-crop-u24786_2x.jpg" crc="4001601092" seo="true" ref="financialfeudoldd">
+    <file name="newvaluemodel.jpg" crc="4162557548" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research3-crop-u24806.jpg" crc="116237721" seo="true" ref="financialfeudoldd">
+    <file name="newvaluemodel_2x.jpg" crc="451003423" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research3-crop-u24806_2x.jpg" crc="4182638485" seo="true" ref="financialfeudoldd">
+    <file name="storyboard2.jpg" crc="4112631649" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research4.jpg" crc="4133385951" seo="true" ref="financialfeud:financialfeudoldd">
+    <file name="storyboard1.jpg" crc="4240896411" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research4_2x.jpg" crc="535560954" seo="true" ref="financialfeud:financialfeudoldd">
+    <file name="storyboard4.jpg" crc="4139843286" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
-    <file name="research5-crop-u24846.jpg" crc="359580884" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="research5-crop-u24846_2x.jpg" crc="4165476864" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="research6-crop-u24866.jpg" crc="3907626441" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="research6-crop-u24866_2x.jpg" crc="4209421342" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="findinghome.png" crc="309846844" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="findinghome_2x.png" crc="335030855" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="findingtrigger.png" crc="4150854690" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="findingtrigger_2x.png" crc="237949991" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="findingcontinuous.png" crc="4285701189" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="findingcontinuous_2x.png" crc="325579274" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="findingtailor.png" crc="4063432776" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="findingtailor_2x.png" crc="247766996" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncjudy-crop-u20323.jpg" crc="488862591" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncjudy-crop-u20323_2x.jpg" crc="238521629" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncmaria-crop-u20389.jpg" crc="192089505" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncmaria-crop-u20389_2x.jpg" crc="4088759075" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="ffjustin-crop-u20472.jpg" crc="3841252827" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="ffjustin-crop-u20472_2x.jpg" crc="233100748" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="speeddating-crop-u20860.jpg" crc="4111614105" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="speeddating-crop-u20860_2x.jpg" crc="4081991593" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="mockphoneandcard-crop-u21012.jpg" crc="4085327613" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="mockphoneandcard-crop-u21012_2x.jpg" crc="3796251913" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="2-crop-u20980.jpg" crc="194596591" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="2-crop-u20980_2x.jpg" crc="139414503" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncmaria-crop-u25032.jpg" crc="3764171919" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncmaria-crop-u25032_2x.jpg" crc="4076948860" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="ffjustin-crop-u25034.jpg" crc="91977422" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="ffjustin-crop-u25034_2x.jpg" crc="408664660" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncjudy-crop-u25145.jpg" crc="259745778" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncjudy-crop-u25145_2x.jpg" crc="4186036768" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncmaria-crop-u25125.jpg" crc="3764171919" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncmaria-crop-u25125_2x.jpg" crc="4076948860" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="ffjustin-crop-u25159.jpg" crc="91977422" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="ffjustin-crop-u25159_2x.jpg" crc="408664660" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncjudy-crop-u25194.jpg" crc="259745778" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="pncjudy-crop-u25194_2x.jpg" crc="4186036768" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="newvaluemodel.jpg" crc="4162557548" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="newvaluemodel_2x.jpg" crc="451003423" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="storyboard2.jpg" crc="4112631649" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="storyboard1.jpg" crc="4240896411" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="storyboard4.jpg" crc="4139843286" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="storyboard3.jpg" crc="4154266874" seo="true" ref="financialfeud:financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="ffgrouppic-crop-u21207.jpg" crc="472848492" seo="true" ref="financialfeudoldd">
-      <caption webpage="financialfeud" alt=""/>
-      <caption webpage="financialfeudoldd" alt=""/>
-    </file>
-    <file name="ffgrouppic-crop-u21207_2x.jpg" crc="4025325389" seo="true" ref="financialfeudoldd">
+    <file name="storyboard3.jpg" crc="4154266874" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
     </file>
@@ -454,8 +280,7 @@
       <caption webpage="sketches" alt=""/>
       <caption webpage="old-sketches" alt=""/>
     </file>
-    <file name="directories-favicon.ico" crc="4085340272" ref="financialfeudoldd"/>
-    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:sprout"/>
+    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:sprout:financialfeud"/>
     <file name="mikememoji@2x.png" crc="4077833838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="new-home" alt=""/>
@@ -647,10 +472,10 @@
     <file name="familyipad-crop-u31241_2x.jpg" crc="171873086" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="mockup-creditcard-crop-u31316.png" crc="240599678" seo="true" ref="financialfeud">
+    <file name="mockup-creditcard-crop-u31316.png" crc="3938462278" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="mockup-creditcard-crop-u31316_2x.png" crc="365704818" seo="true" ref="financialfeud">
+    <file name="mockup-creditcard-crop-u31316_2x.png" crc="13019198" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="pncparentteen-crop-u31333.jpg" crc="431310303" seo="true" ref="financialfeud">
@@ -704,10 +529,10 @@
     <file name="ffjustin-crop-u31455_2x.jpg" crc="233100748" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="speeddating-crop-u31355.jpg" crc="4111614105" seo="true" ref="financialfeud">
+    <file name="speeddating-crop-u31355.jpg" crc="4016530387" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="speeddating-crop-u31355_2x.jpg" crc="4081991593" seo="true" ref="financialfeud">
+    <file name="speeddating-crop-u31355_2x.jpg" crc="4273080323" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="mockphoneandcard-crop-u31417.jpg" crc="4085327613" seo="true" ref="financialfeud">
@@ -860,9 +685,8 @@
   </folder>
   <file name="about-me.html" crc="4028839044" seo="true" mt="1627373265915" redirect="true"/>
   <file name="index.html" crc="179740795" seo="true" mt="1627425600769" redirect="true"/>
-  <file name="financialfeud.html" crc="407912140" seo="true" mt="1627425614581" redirect="true"/>
+  <file name="financialfeud.html" crc="3875829737" seo="true" mt="1627458821154" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="3839549178" seo="true" mt="1627425734255" redirect="true"/>
   <file name="sprout.html" crc="480493540" seo="true" mt="1627458001788" redirect="true"/>
-  <file name="financialfeudoldd.html" crc="3945874148" seo="true" mt="1627425600774" redirect="true"/>
 </manifest>
