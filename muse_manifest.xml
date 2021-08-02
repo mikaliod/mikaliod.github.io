@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1627458915191">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1627900515902">
   <folder name="css">
     <file name="site_global.css" crc="86868133"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout"/>
-    <file name="index.css" crc="300772129" ref="index"/>
+    <file name="index.css" crc="3864815920" ref="index"/>
     <file name="about-me.css" crc="3960823004" ref="about-me"/>
     <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
@@ -145,7 +145,6 @@
     <file name="databefore.png" crc="133192242" seo="true" mt="1622453323000"/>
     <file name="img_0958-copy.png" crc="278232619" seo="true" mt="1622456050000"/>
     <file name="drawactivity.png" crc="399479976" seo="true" mt="1617673405000"/>
-    <file name="mikedongresume.pdf" crc="4188749885" seo="true" mt="1624359040000"/>
     <file name="mendmemberpaper.png" crc="4160923632" seo="true" mt="1627351103000"/>
     <file name="updatewireframe.png" crc="3950738372" seo="true" mt="1627352028000"/>
     <file name="oldmockupxdr.png" crc="25989526" seo="true" mt="1627370735000"/>
@@ -684,7 +683,7 @@
     </file>
   </folder>
   <file name="about-me.html" crc="4028839044" seo="true" mt="1627373265915" redirect="true"/>
-  <file name="index.html" crc="179740795" seo="true" mt="1627425600769" redirect="true"/>
+  <file name="index.html" crc="4085902689" seo="true" mt="1627900412535" redirect="true"/>
   <file name="financialfeud.html" crc="3875829737" seo="true" mt="1627458821154" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="3839549178" seo="true" mt="1627425734255" redirect="true"/>
