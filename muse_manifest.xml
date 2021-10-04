@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633337057710">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633347985662">
   <folder name="css">
     <file name="site_global.css" crc="116579358"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
-    <file name="index.css" crc="3864815920" ref="index"/>
+    <file name="index.css" crc="113791066" ref="index"/>
     <file name="about-me.css" crc="3960823004" ref="about-me"/>
     <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
-    <file name="mend.css" crc="55737884" ref="mend"/>
-    <file name="sprout.css" crc="3786110047" ref="sprout"/>
-    <file name="patiently.css" crc="4152743461" ref="patiently"/>
+    <file name="mend.css" crc="3810267185" ref="mend"/>
+    <file name="sprout.css" crc="457644318" ref="sprout"/>
+    <file name="patiently.css" crc="3783608562" ref="patiently"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -281,7 +281,7 @@
       <caption webpage="sketches" alt=""/>
       <caption webpage="old-sketches" alt=""/>
     </file>
-    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:sprout:financialfeud:patiently"/>
+    <file name="new-directories-favicon.ico" crc="4085340272" ref="index"/>
     <file name="mikememoji@2x.png" crc="4077833838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="new-home" alt=""/>
@@ -699,12 +699,24 @@
       <caption webpage="patiently" alt=""/>
       <caption webpage="patiently" alt=""/>
     </file>
+    <file name="coverpatiently551x341.jpg" crc="155161937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coverpatiently551x341_2x.jpg" crc="3985014714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coverpatiently.jpg" crc="3989255991" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="coverpatiently_2x.jpg" crc="367830491" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="4028839044" seo="true" mt="1627373265915" redirect="true"/>
-  <file name="index.html" crc="4085902689" seo="true" mt="1627900412535" redirect="true"/>
-  <file name="financialfeud.html" crc="3875829737" seo="true" mt="1627458821154" redirect="true"/>
+  <file name="index.html" crc="496862184" seo="true" mt="1633344938435" redirect="true"/>
+  <file name="financialfeud.html" crc="174740635" seo="true" mt="1633347901556" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
-  <file name="mend.html" crc="3839549178" seo="true" mt="1627425734255" redirect="true"/>
-  <file name="sprout.html" crc="480493540" seo="true" mt="1627458001788" redirect="true"/>
-  <file name="patiently.html" crc="3773454312" seo="true" mt="1633337027672" redirect="true"/>
+  <file name="mend.html" crc="456597712" seo="true" mt="1633347877768" redirect="true"/>
+  <file name="sprout.html" crc="4138775303" seo="true" mt="1633347756155" redirect="true"/>
+  <file name="patiently.html" crc="4227759813" seo="true" mt="1633347825286" redirect="true"/>
 </manifest>

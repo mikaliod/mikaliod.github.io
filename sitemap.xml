@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mike-dong.com/index.html</loc>
-    <lastmod>2021-08-02</lastmod>
+    <lastmod>2021-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,10 +35,16 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/birdhall%20redesign-crop-u30040_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/coverpatiently551x341.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/coverpatiently551x341_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/sprout.html</loc>
-    <lastmod>2021-07-28</lastmod>
+    <lastmod>2021-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,10 +155,16 @@
     <image:image>
       <image:loc>http://mike-dong.com/images/apple%20iphone%2012%20pro%20pacific%20blue_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/coverpatiently.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/coverpatiently_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://mike-dong.com/mend.html</loc>
-    <lastmod>2021-07-27</lastmod>
+    <lastmod>2021-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,7 +320,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/financialfeud.html</loc>
-    <lastmod>2021-07-28</lastmod>
+    <lastmod>2021-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
