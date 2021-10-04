@@ -1,14 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1627900515902">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633337057710">
   <folder name="css">
-    <file name="site_global.css" crc="86868133"/>
-    <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout"/>
+    <file name="site_global.css" crc="116579358"/>
+    <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
     <file name="index.css" crc="3864815920" ref="index"/>
     <file name="about-me.css" crc="3960823004" ref="about-me"/>
     <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
-    <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud"/>
+    <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
     <file name="mend.css" crc="55737884" ref="mend"/>
     <file name="sprout.css" crc="3786110047" ref="sprout"/>
+    <file name="patiently.css" crc="4152743461" ref="patiently"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -88,12 +89,10 @@
     <file name="fa-brands-400.svg" crc="523360329"/>
   </folder>
   <folder name="assets">
-    <file name="美蟹.jpg" crc="179678164" seo="true" mt="1500419860000"/>
     <file name="process-book.pdf" crc="121756626" seo="true" mt="1510374385000"/>
     <file name="team-6-project-3-pitch.pdf" crc="4118769430" seo="true" mt="1510374704000"/>
     <file name="final-poster.png" crc="4025344845" seo="true" mt="1517469785000"/>
     <file name="service-design---final-process-book.pdf" crc="515912626" seo="true" mt="1517469818000"/>
-    <file name="blueprint.png" crc="308453839" seo="true" mt="1519332395000"/>
     <file name="initial-stakeholder-analysis.png" crc="337589067" seo="true" mt="1524616907000"/>
     <file name="stakeholders.png" crc="203396369" seo="true" mt="1519282944000"/>
     <file name="value.png" crc="4191381963" seo="true" mt="1519283350000"/>
@@ -110,8 +109,6 @@
     <file name="researchsurvey.png" crc="4050688359" seo="true" mt="1542612737000"/>
     <file name="researchpaper.png" crc="383496073" seo="true" mt="1542612827000"/>
     <file name="newvaluemodel.png" crc="365303473" seo="true" mt="1549264772000"/>
-    <file name="silta-demo-final.mp4" crc="3767928436" seo="true" mt="1544084581000"/>
-    <file name="img_8905.heic" crc="22134342" seo="true" mt="1540420714000"/>
     <file name="final-poster-result.png" crc="223210914" seo="true" mt="1549521192000"/>
     <file name="digitalized-poster-map.png" crc="3791884318" seo="true" mt="1549521109000"/>
     <file name="process-book-team-4.pdf" crc="4116398477" seo="true" mt="1544590862000"/>
@@ -125,7 +122,6 @@
     <file name="vehiclemike.png" crc="507847188" seo="true" mt="1549962664000"/>
     <file name="vehiclesusie.png" crc="270667910" seo="true" mt="1549960475000"/>
     <file name="vehiclewenjie.png" crc="31714487" seo="true" mt="1549962534000"/>
-    <file name="2lowpoly_city_free_pack_camera_1_a.tif" crc="3762725183" seo="true" mt="1550526523000"/>
     <file name="stakeholder2.png" crc="4284520027" seo="true" mt="1549334500000"/>
     <file name="ff2nonbg.png" crc="440198841" seo="true" mt="1550637465000"/>
     <file name="prototype2.png" crc="4122615243" seo="true" mt="1550733712000"/>
@@ -151,14 +147,20 @@
     <file name="newmockupxdr.png" crc="4074470216" seo="true" mt="1627370818000"/>
     <file name="resume_mikedong_2021.pdf" crc="3794223838" seo="true" mt="1625558354000"/>
     <file name="team-7-blingbling---copy-of-down-select.jpg" crc="123718367" seo="true" mt="1627448539000"/>
+    <file name="vidsmolhomepagescreen.mp4" crc="3844545213" seo="true" mt="1633307070000"/>
+    <file name="vidsmolchoosesharescreen.mp4" crc="311548243" seo="true" mt="1633307051000"/>
+    <file name="vidsmolonboardingscreen.mp4" crc="433389000" seo="true" mt="1633307094000"/>
+    <file name="vidsmolrecordingscreen.mp4" crc="3785314349" seo="true" mt="1633307122000"/>
+    <file name="vidsmolselectpromptscreen.mp4" crc="190307660" seo="true" mt="1633307142000"/>
+    <file name="vidsmoltop3screen.mp4" crc="4163218700" seo="true" mt="1633307159000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
-    <file name="museutils.js" crc="3939489907" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
-    <file name="whatinput.js" crc="86476730" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
-    <file name="museconfig.js" crc="3936894949" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
-    <file name="jquery.watch.js" crc="522499760" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
-    <file name="require.js" crc="4177726516" ref="about-me:index:financialfeud:sketches:mend:sprout"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:index:financialfeud:sketches:mend:sprout:patiently"/>
+    <file name="museutils.js" crc="3939489907" ref="about-me:index:financialfeud:sketches:mend:sprout:patiently"/>
+    <file name="whatinput.js" crc="86476730" ref="about-me:index:financialfeud:sketches:mend:sprout:patiently"/>
+    <file name="museconfig.js" crc="3936894949" ref="about-me:index:financialfeud:sketches:mend:sprout:patiently"/>
+    <file name="jquery.watch.js" crc="522499760" ref="about-me:index:financialfeud:sketches:mend:sprout:patiently"/>
+    <file name="require.js" crc="4177726516" ref="about-me:index:financialfeud:sketches:mend:sprout:patiently"/>
     <file name="webpro.js" crc="3856315280" ref="financialfeud"/>
     <file name="musewpslideshow.js" crc="244150766" ref="financialfeud"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="financialfeud"/>
@@ -279,7 +281,7 @@
       <caption webpage="sketches" alt=""/>
       <caption webpage="old-sketches" alt=""/>
     </file>
-    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:sprout:financialfeud"/>
+    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:sprout:financialfeud:patiently"/>
     <file name="mikememoji@2x.png" crc="4077833838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="new-home" alt=""/>
@@ -681,6 +683,22 @@
     <file name="superscrubssketch_2x.jpg" crc="4068581273" seo="true" ref="sketches">
       <caption webpage="sketches" alt=""/>
     </file>
+    <file name="apple iphone 12 pro pacific blue.png" crc="3853231136" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="apple iphone 12 pro pacific blue_2x.png" crc="426850148" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+      <caption webpage="patiently" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="4028839044" seo="true" mt="1627373265915" redirect="true"/>
   <file name="index.html" crc="4085902689" seo="true" mt="1627900412535" redirect="true"/>
@@ -688,4 +706,5 @@
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="3839549178" seo="true" mt="1627425734255" redirect="true"/>
   <file name="sprout.html" crc="480493540" seo="true" mt="1627458001788" redirect="true"/>
+  <file name="patiently.html" crc="3773454312" seo="true" mt="1633337027672" redirect="true"/>
 </manifest>
