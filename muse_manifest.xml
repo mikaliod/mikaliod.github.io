@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633406413957">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633424960541">
   <folder name="css">
-    <file name="site_global.css" crc="70381589"/>
+    <file name="site_global.css" crc="3847898346"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
     <file name="index.css" crc="113791066" ref="index"/>
-    <file name="about-me.css" crc="122170033" ref="about-me"/>
+    <file name="about-me.css" crc="3925731036" ref="about-me"/>
     <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
@@ -313,16 +313,6 @@
     <file name="sproutheroimage-crop-u29246_2x.jpg" crc="3944542615" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="new-home" alt=""/>
-    </file>
-    <file name="mikememojipink@2x.png" crc="3966429543" seo="true" ref="about-me">
-      <caption webpage="mend" alt=""/>
-      <caption webpage="sprout" alt=""/>
-      <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="mikememojipink@2x_2x.png" crc="468441191" seo="true" ref="about-me">
-      <caption webpage="mend" alt=""/>
-      <caption webpage="sprout" alt=""/>
-      <caption webpage="about-me" alt=""/>
     </file>
     <file name="mendmockup.jpg" crc="3980505301" seo="true" ref="mend">
       <caption webpage="mend" alt=""/>
@@ -711,8 +701,74 @@
     <file name="coverpatiently_2x.jpg" crc="367830491" seo="true" ref="patiently">
       <caption webpage="patiently" alt=""/>
     </file>
+    <file name="mikeopenhandsmemoji.png" crc="4276886808" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="mikeopenhandsmemoji_2x.png" crc="482963005" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="mikethumbupmemoji.png" crc="4215343509" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="mikethumbupmemoji_2x.png" crc="326025113" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="mikethinkmemoji.png" crc="4240310511" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="mikethinkmemoji_2x.png" crc="3786637744" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="mike-10-crop-u32940.jpg" crc="279112094" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="mike-10-crop-u32940_2x.jpg" crc="3864856590" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="w-logo_white.png" crc="377542059" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="w-logo_white_2x.png" crc="3798866406" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="wordmarksquare-red-600x600.jpg" crc="170660456" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="wordmarksquare-red-600x600_2x.jpg" crc="3848331644" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="homegsk-crop-u33062.jpg" crc="252825847" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="homegsk-crop-u33062_2x.jpg" crc="317128722" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="homepennmedicine-crop-u33070.jpg" crc="198587724" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="homepennmedicine-crop-u33070_2x.jpg" crc="74808889" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="img_9768-crop-u33119.jpg" crc="84170431" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="img_9768-crop-u33119_2x.jpg" crc="4181921867" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="24941492-a7d6-4d92-a8ca-71fc2b03e075-crop-u33156.jpg" crc="3851220628" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="24941492-a7d6-4d92-a8ca-71fc2b03e075-crop-u33156_2x.jpg" crc="165543091" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137.jpg" crc="4083547236" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg" crc="4212016143" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
   </folder>
-  <file name="about-me.html" crc="3879255324" seo="true" mt="1633406386730" redirect="true"/>
+  <file name="about-me.html" crc="3851292569" seo="true" mt="1633424859105" redirect="true"/>
   <file name="index.html" crc="496862184" seo="true" mt="1633344938435" redirect="true"/>
   <file name="financialfeud.html" crc="174740635" seo="true" mt="1633347901556" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>

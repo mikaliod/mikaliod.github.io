@@ -521,14 +521,74 @@
   </url>
   <url>
     <loc>http://mike-dong.com/about-me.html</loc>
-    <lastmod>2021-10-04</lastmod>
+    <lastmod>2021-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://mike-dong.com/images/mikememojipink@2x.png</image:loc>
+      <image:loc>http://mike-dong.com/images/mikeopenhandsmemoji.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mike-dong.com/images/mikememojipink@2x_2x.png</image:loc>
+      <image:loc>http://mike-dong.com/images/mikeopenhandsmemoji_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/mikethumbupmemoji.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/mikethumbupmemoji_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/mikethinkmemoji.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/mikethinkmemoji_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/mike-10-crop-u32940.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/mike-10-crop-u32940_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/w-logo_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/w-logo_white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/wordmarksquare-red-600x600.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/wordmarksquare-red-600x600_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homegsk-crop-u33062.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homegsk-crop-u33062_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homepennmedicine-crop-u33070.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/homepennmedicine-crop-u33070_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_9768-crop-u33119.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/img_9768-crop-u33119_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/24941492-a7d6-4d92-a8ca-71fc2b03e075-crop-u33156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/24941492-a7d6-4d92-a8ca-71fc2b03e075-crop-u33156_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
