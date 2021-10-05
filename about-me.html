@@ -17,17 +17,19 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/new-directories-favicon.ico?crc=4085340272"/>
   <title>About me</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=86868133"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=70381589"/>
   <link rel="stylesheet" type="text/css" href="css/master_grandmaster.css?crc=4017877407"/>
   <link rel="stylesheet" type="text/css" href="css/master_new-directories.css?crc=4208755170"/>
-  <link rel="stylesheet" type="text/css" href="css/about-me.css?crc=3960823004" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/about-me.css?crc=122170033" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/dStEB_qiY6TQsyLn0N-du0w1ttXp9mT3hOFF0DFTv3CfeGCgfJWLE3wPH263FQjaw28LwR9X52gy5AbDweBy5QZ85AwkZQju5eIUwQyy5AwoZe9-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6Z8iW4zSeI7fbKGpsMMeMS6MKG4fH8oIMMjMkMfP6sFiWF8qMe0KVrYg6.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/_G_IdAi2CGSVgq9M0iHk4US5wI1DEIhu9S4YtjbpepXfeGCgfJWLE3wPH263FQjaw28LwR9X52gy5AbDweBy5QZ85AwkZQju5eIUwQyy5AwoZe9-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6Z8iW4zSeI7fbKGpsMMeMS6MKG4fH8oIMMjMkMfP6sFiWF8qMYFcrrHg6.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
 </script>
-    <!--HTML Widget code-->
+    <!--custom head HTML-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script><style>.albumArt {  border-radius: 5%;  margin-right: 50px;}.inlineContent{  display: inline-block;  position: relative;  }.inlineContainer{display: flex;align-items: center;}</style>
+  <!--HTML Widget code-->
    
 			
 				<style>
@@ -150,22 +152,107 @@ transition:none !important;
     
   
    </div>
-   <div class="clearfix grpelem" id="pu28876-4"><!-- column -->
-    <a class="nonblock nontext nav clearfix colelem" id="u28876-4" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="TextBold2021">Mike Dong</p></a>
-    <div class="clip_frame colelem" id="u29431"><!-- image -->
-     <img class="block" id="u29431_img" src="images/mikememojipink%402x.png?crc=3966429543" data-hidpi-src="images/mikememojipink%402x_2x.png?crc=468441191" alt="" data-heightwidthratio="1" data-image-width="269" data-image-height="269"/>
+   <div class="clearfix grpelem" id="ppu28876-4"><!-- column -->
+    <div class="clearfix colelem" id="pu28876-4"><!-- group -->
+     <a class="nonblock nontext nav clearfix grpelem" id="u28876-4" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="TextBold2021">Mike Dong</p></a>
+     <a class="nonblock nontext clearfix grpelem" id="u28931-4" href="index.html#projects" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Link2021">Work</p></a>
     </div>
-   </div>
-   <div class="clearfix grpelem" id="pu28931-4"><!-- column -->
-    <a class="nonblock nontext clearfix colelem" id="u28931-4" href="index.html#projects" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Link2021">Work</p></a>
-    <div class="clearfix colelem" id="u29430-6"><!-- content -->
-     <p id="u29430-2">Under construction...</p>
-     <p id="u29430-4">Please check back later!</p>
+    <div class="clearfix colelem" id="pu29431"><!-- group -->
+     <div class="clip_frame grpelem" id="u29431"><!-- image -->
+      <img class="block" id="u29431_img" src="images/mikememojipink%402x.png?crc=3966429543" data-hidpi-src="images/mikememojipink%402x_2x.png?crc=468441191" alt="" data-heightwidthratio="1" data-image-width="269" data-image-height="269"/>
+     </div>
+     <div class="clearfix grpelem" id="u29430-6"><!-- content -->
+      <p id="u29430-2">Under construction...</p>
+      <p id="u29430-4">Please check back later!</p>
+     </div>
+    </div>
+    <div class="colelem" id="u32816"><!-- custom html -->
+     <div class="inlineContainer">
+<div class="inlineContent">
+<img src="images/mikeairpods.png" class="albumArt" id="albumArt" height="205" width="205">
+</img>
+</div>
+<div class="inlineContent">
+<p class="weeklySong">
+I'm now listening to
+<a id="recentSong" target="_blank">
+<span id="recentSongTitle" class="loading">
+[fetching data...]
+</span>
+<span id="recentSongArtist">
+</span>
+</a>
+, and my favorite songs over the past week are 
+<a id="weeklySong1" target="_blank">
+<span id="weeklySong1Title" class="loading">
+[fetching data...]
+</span>
+<span id="weeklySong1Artist">
+</span>
+</a>
+and 
+<a id="weeklySong2" target="_blank">
+<span id="weeklySong2Title" class="loading">
+[fetching data...]
+</span>
+<span id="weeklySong2Artist">
+</span>
+</a>
+.
+</p>
+</div>
+</div>
+
+<script type="text/javascript">
+$(document).ready(
+ function() {
+ setInterval(function(){
+console.log('ran');
+const Url='http://ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user=mikaliod&api_key=60982720a3aa28ffe91f2e2b8c6475cf&format=json';
+const Url2='http://ws.audioscrobbler.com/2.0/?method=user.getWeeklyTrackChart&user=mikaliod&api_key=60982720a3aa28ffe91f2e2b8c6475cf&format=json';
+        $.get( Url, function( data ) {
+var recentSong = document.getElementById("recentSong");
+var recentSongTitle = document.getElementById("recentSongTitle");
+var recentSongArtist = document.getElementById("recentSongArtist");
+var recentSongAlbumArt = document.getElementById("albumArt")
+
+recentSongTitle.innerHTML = data.recenttracks.track[0].name;
+recentSongTitle.classList.remove('loading');
+recentSongTitle.style.fontWeight = "bold";
+recentSongArtist.innerHTML=' by '+data.recenttracks.track[0].artist['#text'];
+recentSong.setAttribute('href', data.recenttracks.track[0].url);
+recentSongAlbumArt.src=data.recenttracks.track[0].image[3]['#text'];
+
+        });
+        $.get( Url2, function( data ) {
+
+var weeklySong1 = document.getElementById("weeklySong1");
+var weeklySong1Title = document.getElementById("weeklySong1Title");
+var weeklySong1Artist = document.getElementById("weeklySong1Artist");
+var weeklySong2 = document.getElementById("weeklySong2");
+var weeklySong2Title = document.getElementById("weeklySong2Title");
+var weeklySong2Artist = document.getElementById("weeklySong2Artist");
+
+weeklySong1Title.innerHTML = data.weeklytrackchart.track[0].name;
+weeklySong1Title.classList.remove('loading');
+weeklySong1Title.style.fontWeight = "bold";
+weeklySong1Artist.innerHTML=' by '+data.weeklytrackchart.track[0].artist['#text'];
+weeklySong1.setAttribute('href', data.weeklytrackchart.track[0].url);
+weeklySong2Title.innerHTML = data.weeklytrackchart.track[1].name;
+weeklySong2Title.classList.remove('loading');
+weeklySong2Title.style.fontWeight = "bold";
+weeklySong2Artist.innerHTML=' by '+data.weeklytrackchart.track[1].artist['#text'];
+weeklySong2.setAttribute('href', data.weeklytrackchart.track[1].url);
+        });
+      }, 5000); 
+});
+</script>
+
     </div>
    </div>
    <a class="nonblock nontext MuseLinkActive clearfix grpelem" id="u28916-4" href="about-me.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Link2021">About</p></a>
    <a class="nonblock nontext clearfix grpelem" id="u28922-4" href="assets/resume_mikedong_2021.pdf" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Link2021">Resume</p></a>
-   <div class="verticalspacer" data-offset-top="515" data-content-above-spacer="515" data-content-below-spacer="250" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="793" data-content-above-spacer="793" data-content-below-spacer="250" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    <a class="nonblock nontext clearfix grpelem" id="u28877-4" href="https://www.linkedin.com/in/mikedongdesign/" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Link2021" id="u28877-2">LinkedIn</p></a>
    <a class="nonblock nontext clearfix grpelem" id="u28925-4" href="mailto:mikedong@uw.edu" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Link2021" id="u28925-2">Email</p></a>
    <a class="nonblock nontext clearfix grpelem" id="u28928-4" href="assets/resume_mikedong_2021.pdf" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="Link2021" id="u28928-2">Resume</p></a>

@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633386222474">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633406413957">
   <folder name="css">
-    <file name="site_global.css" crc="116579358"/>
+    <file name="site_global.css" crc="70381589"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
     <file name="index.css" crc="113791066" ref="index"/>
-    <file name="about-me.css" crc="3960823004" ref="about-me"/>
+    <file name="about-me.css" crc="122170033" ref="about-me"/>
     <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
@@ -281,7 +281,7 @@
       <caption webpage="sketches" alt=""/>
       <caption webpage="old-sketches" alt=""/>
     </file>
-    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:patiently"/>
+    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:patiently:about-me"/>
     <file name="mikememoji@2x.png" crc="4077833838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="new-home" alt=""/>
@@ -315,14 +315,14 @@
       <caption webpage="new-home" alt=""/>
     </file>
     <file name="mikememojipink@2x.png" crc="3966429543" seo="true" ref="about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="sprout" alt=""/>
       <caption webpage="mend" alt=""/>
+      <caption webpage="sprout" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="mikememojipink@2x_2x.png" crc="468441191" seo="true" ref="about-me">
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="sprout" alt=""/>
       <caption webpage="mend" alt=""/>
+      <caption webpage="sprout" alt=""/>
+      <caption webpage="about-me" alt=""/>
     </file>
     <file name="mendmockup.jpg" crc="3980505301" seo="true" ref="mend">
       <caption webpage="mend" alt=""/>
@@ -712,7 +712,7 @@
       <caption webpage="patiently" alt=""/>
     </file>
   </folder>
-  <file name="about-me.html" crc="4028839044" seo="true" mt="1627373265915" redirect="true"/>
+  <file name="about-me.html" crc="3879255324" seo="true" mt="1633406386730" redirect="true"/>
   <file name="index.html" crc="496862184" seo="true" mt="1633344938435" redirect="true"/>
   <file name="financialfeud.html" crc="174740635" seo="true" mt="1633347901556" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
