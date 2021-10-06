@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633511434736">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633526497098">
   <folder name="css">
-    <file name="site_global.css" crc="186334463"/>
+    <file name="site_global.css" crc="3847898346"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
     <file name="index.css" crc="113791066" ref="index"/>
     <file name="about-me.css" crc="4022503337" ref="about-me"/>
@@ -9,7 +9,7 @@
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
     <file name="mend.css" crc="3810267185" ref="mend"/>
     <file name="sprout.css" crc="457644318" ref="sprout"/>
-    <file name="patiently.css" crc="3939627101" ref="patiently"/>
+    <file name="patiently.css" crc="344878548" ref="patiently"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -777,6 +777,93 @@
     <file name="apple iphone 12 pro pacific blue205x388_2x.png" crc="108787414" seo="true" ref="patiently">
       <caption webpage="patiently" alt=""/>
     </file>
+    <file name="group 65.jpg" crc="3913375219" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="dscf6795.jpg" crc="3978397076" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="dscf6795_2x.jpg" crc="3906025765" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="emotioncardhappy.jpg" crc="4166809314" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="emotioncardhappy_2x.jpg" crc="512099500" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="emotioncardwaterbroke.jpg" crc="313368105" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="emotioncardwaterbroke_2x.jpg" crc="113174990" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="group 133.png" crc="3944369327" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="group 133_2x.png" crc="4098164703" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="untitled_artwork 11-crop-u34150.jpg" crc="3784568793" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="untitled_artwork 11-crop-u34150_2x.jpg" crc="449954212" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="untitled_artwork 14-crop-u34130.jpg" crc="4069596813" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="untitled_artwork 14-crop-u34130_2x.jpg" crc="419631052" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="untitled_artwork 19-crop-u34110.jpg" crc="3838930980" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="untitled_artwork 19-crop-u34110_2x.jpg" crc="471608342" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="untitled_artwork 13-crop-u34120.jpg" crc="87914478" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="untitled_artwork 13-crop-u34120_2x.jpg" crc="4272436139" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="storyboard.jpg" crc="3844247958" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="storyboard_2x.jpg" crc="519175646" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="iteration1-crop-u34203.jpg" crc="4068933037" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="iteration1-crop-u34203_2x.jpg" crc="487655773" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="iteration2.jpg" crc="341218034" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="iteration2_2x.jpg" crc="297960080" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="iteration3.jpg" crc="3777430370" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="iteration3_2x.jpg" crc="4137918903" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="iteration4-crop-u34225.jpg" crc="4140728600" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="iteration4-crop-u34225_2x.jpg" crc="4215025404" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="end-crop-u34279.jpg" crc="4061869555" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="group 134.png" crc="3941736372" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="76397954" seo="true" mt="1633425069686" redirect="true"/>
   <file name="index.html" crc="496862184" seo="true" mt="1633344938435" redirect="true"/>
@@ -784,5 +871,5 @@
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="456597712" seo="true" mt="1633347877768" redirect="true"/>
   <file name="sprout.html" crc="4138775303" seo="true" mt="1633347756155" redirect="true"/>
-  <file name="patiently.html" crc="4155583459" seo="true" mt="1633511396050" redirect="true"/>
+  <file name="patiently.html" crc="188378152" seo="true" mt="1633526458622" redirect="true"/>
 </manifest>
