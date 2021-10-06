@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633500902693">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633511434736">
   <folder name="css">
     <file name="site_global.css" crc="186334463"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
@@ -9,7 +9,7 @@
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
     <file name="mend.css" crc="3810267185" ref="mend"/>
     <file name="sprout.css" crc="457644318" ref="sprout"/>
-    <file name="patiently.css" crc="335892290" ref="patiently"/>
+    <file name="patiently.css" crc="3939627101" ref="patiently"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -153,6 +153,10 @@
     <file name="vidsmolrecordingscreen.mp4" crc="3785314349" seo="true" mt="1633307122000"/>
     <file name="vidsmolselectpromptscreen.mp4" crc="190307660" seo="true" mt="1633307142000"/>
     <file name="vidsmoltop3screen.mp4" crc="4163218700" seo="true" mt="1633307159000"/>
+    <file name="viddoctorepic.mp4" crc="3825569517" seo="true" mt="1633507489000"/>
+    <file name="vidhappypatient.mp4" crc="419538599" seo="true" mt="1633507530000"/>
+    <file name="vidpatientspeak.mp4" crc="465554376" seo="true" mt="1633510964000"/>
+    <file name="vidpatientvsprovider.mp4" crc="4015617530" seo="true" mt="1633508657000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:index:financialfeud:sketches:mend:sprout:patiently"/>
@@ -767,6 +771,12 @@
     <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg" crc="227254404" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
+    <file name="apple iphone 12 pro pacific blue205x388.png" crc="269228338" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
+    <file name="apple iphone 12 pro pacific blue205x388_2x.png" crc="108787414" seo="true" ref="patiently">
+      <caption webpage="patiently" alt=""/>
+    </file>
   </folder>
   <file name="about-me.html" crc="76397954" seo="true" mt="1633425069686" redirect="true"/>
   <file name="index.html" crc="496862184" seo="true" mt="1633344938435" redirect="true"/>
@@ -774,5 +784,5 @@
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="456597712" seo="true" mt="1633347877768" redirect="true"/>
   <file name="sprout.html" crc="4138775303" seo="true" mt="1633347756155" redirect="true"/>
-  <file name="patiently.html" crc="440589094" seo="true" mt="1633500872022" redirect="true"/>
+  <file name="patiently.html" crc="4155583459" seo="true" mt="1633511396050" redirect="true"/>
 </manifest>

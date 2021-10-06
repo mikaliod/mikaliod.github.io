@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/patiently.html</loc>
-    <lastmod>2021-10-05</lastmod>
+    <lastmod>2021-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -160,6 +160,12 @@
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/coverpatiently_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/apple%20iphone%2012%20pro%20pacific%20blue205x388.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mike-dong.com/images/apple%20iphone%2012%20pro%20pacific%20blue205x388_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -754,6 +760,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/ff2nonbg.png</loc>
+    <lastmod>2019-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/prototype2.png</loc>
+    <lastmod>2019-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/stakeholders.png</loc>
     <lastmod>2018-02-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -762,18 +780,6 @@
   <url>
     <loc>http://mike-dong.com/assets/value.png</loc>
     <lastmod>2018-02-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/prototype1.png</loc>
-    <lastmod>2019-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mike-dong.com/assets/prototype3.png</loc>
-    <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -934,6 +940,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/viddoctorepic.mp4</loc>
+    <lastmod>2021-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/vidhappypatient.mp4</loc>
+    <lastmod>2021-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/vidpatientspeak.mp4</loc>
+    <lastmod>2021-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/vidpatientvsprovider.mp4</loc>
+    <lastmod>2021-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/initial-stakeholder-analysis.png</loc>
     <lastmod>2018-04-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -958,8 +988,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/ff2nonbg.png</loc>
-    <lastmod>2019-02-19</lastmod>
+    <loc>http://mike-dong.com/assets/prototype1.png</loc>
+    <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -970,7 +1000,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/prototype2.png</loc>
+    <loc>http://mike-dong.com/assets/prototype3.png</loc>
     <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
