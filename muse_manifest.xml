@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633424960541">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633499338409">
   <folder name="css">
-    <file name="site_global.css" crc="3847898346"/>
+    <file name="site_global.css" crc="186334463"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
     <file name="index.css" crc="113791066" ref="index"/>
-    <file name="about-me.css" crc="3925731036" ref="about-me"/>
+    <file name="about-me.css" crc="4022503337" ref="about-me"/>
     <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
     <file name="mend.css" crc="3810267185" ref="mend"/>
     <file name="sprout.css" crc="457644318" ref="sprout"/>
-    <file name="patiently.css" crc="325770734" ref="patiently"/>
+    <file name="patiently.css" crc="4271231768" ref="patiently"/>
   </folder>
   <folder name="fonts">
     <file name="fa-solid-900.woff" crc="525439022"/>
@@ -170,92 +170,92 @@
     <file name="blank.gif" crc="4208392903" ref="financialfeud"/>
     <file name="loading.gif" crc="3815509949" ref="financialfeud"/>
     <file name="storychallenge.jpg" crc="368795363" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storychallenge_2x.jpg" crc="3845867240" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storytasks.jpg" crc="4142595054" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storytasks_2x.jpg" crc="47243328" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storyreward.jpg" crc="173170589" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storyreward_2x.jpg" crc="149394519" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="research4.jpg" crc="4133385951" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="research4_2x.jpg" crc="535560954" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findinghome.png" crc="309846844" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findinghome_2x.png" crc="335030855" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingtrigger.png" crc="4150854690" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingtrigger_2x.png" crc="237949991" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingcontinuous.png" crc="4285701189" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingcontinuous_2x.png" crc="325579274" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingtailor.png" crc="4063432776" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="findingtailor_2x.png" crc="247766996" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="newvaluemodel.jpg" crc="4162557548" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="newvaluemodel_2x.jpg" crc="451003423" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storyboard2.jpg" crc="4112631649" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storyboard1.jpg" crc="4240896411" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storyboard4.jpg" crc="4139843286" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="storyboard3.jpg" crc="4154266874" seo="true" ref="financialfeud">
-      <caption webpage="financialfeud" alt=""/>
       <caption webpage="financialfeudoldd" alt=""/>
+      <caption webpage="financialfeud" alt=""/>
     </file>
     <file name="casestudy4.jpg" crc="420103447" seo="true" ref="sketches">
       <caption webpage="sketches" alt=""/>
@@ -281,7 +281,7 @@
       <caption webpage="sketches" alt=""/>
       <caption webpage="old-sketches" alt=""/>
     </file>
-    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:patiently:about-me"/>
+    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:about-me:financialfeud:patiently"/>
     <file name="mikememoji@2x.png" crc="4077833838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="new-home" alt=""/>
@@ -761,18 +761,18 @@
     <file name="24941492-a7d6-4d92-a8ca-71fc2b03e075-crop-u33156_2x.jpg" crc="165543091" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137.jpg" crc="4083547236" seo="true" ref="about-me">
+    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137.jpg" crc="4151562886" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg" crc="4212016143" seo="true" ref="about-me">
+    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg" crc="227254404" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="about-me.html" crc="3851292569" seo="true" mt="1633424859105" redirect="true"/>
+  <file name="about-me.html" crc="76397954" seo="true" mt="1633425069686" redirect="true"/>
   <file name="index.html" crc="496862184" seo="true" mt="1633344938435" redirect="true"/>
-  <file name="financialfeud.html" crc="174740635" seo="true" mt="1633347901556" redirect="true"/>
+  <file name="financialfeud.html" crc="4131258722" seo="true" mt="1633498536091" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="456597712" seo="true" mt="1633347877768" redirect="true"/>
   <file name="sprout.html" crc="4138775303" seo="true" mt="1633347756155" redirect="true"/>
-  <file name="patiently.html" crc="530677757" seo="true" mt="1633386186379" redirect="true"/>
+  <file name="patiently.html" crc="3917812774" seo="true" mt="1633499306217" redirect="true"/>
 </manifest>
