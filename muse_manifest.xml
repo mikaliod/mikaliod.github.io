@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633768693448">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633768816919">
   <folder name="css">
     <file name="site_global.css" crc="118596091"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
@@ -866,7 +866,7 @@
     </file>
   </folder>
   <file name="about-me.html" crc="76397954" seo="true" mt="1633425069686" redirect="true"/>
-  <file name="index.html" crc="4190923415" seo="true" mt="1633768664945" redirect="true"/>
+  <file name="index.html" crc="4055974561" seo="true" mt="1633768772818" redirect="true"/>
   <file name="financialfeud.html" crc="4131258722" seo="true" mt="1633498536091" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="456597712" seo="true" mt="1633347877768" redirect="true"/>
