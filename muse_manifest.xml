@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633767063235">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633768260111">
   <folder name="css">
     <file name="site_global.css" crc="118596091"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
-    <file name="index.css" crc="113791066" ref="index"/>
+    <file name="index.css" crc="3947939535" ref="index"/>
     <file name="about-me.css" crc="4022503337" ref="about-me"/>
     <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
@@ -145,7 +145,7 @@
     <file name="updatewireframe.png" crc="3950738372" seo="true" mt="1627352028000"/>
     <file name="oldmockupxdr.png" crc="25989526" seo="true" mt="1627370735000"/>
     <file name="newmockupxdr.png" crc="4074470216" seo="true" mt="1627370818000"/>
-    <file name="resume_mikedong_2021.pdf" crc="3794223838" seo="true" mt="1625558354000"/>
+    <file name="resume_mikedong_2021.pdf" crc="4250128621" seo="true" mt="1633767805000"/>
     <file name="team-7-blingbling---copy-of-down-select.jpg" crc="123718367" seo="true" mt="1627448539000"/>
     <file name="vidsmolhomepagescreen.mp4" crc="3844545213" seo="true" mt="1633307070000"/>
     <file name="vidsmolchoosesharescreen.mp4" crc="311548243" seo="true" mt="1633307051000"/>
@@ -866,7 +866,7 @@
     </file>
   </folder>
   <file name="about-me.html" crc="76397954" seo="true" mt="1633425069686" redirect="true"/>
-  <file name="index.html" crc="496862184" seo="true" mt="1633344938435" redirect="true"/>
+  <file name="index.html" crc="190380180" seo="true" mt="1633768117408" redirect="true"/>
   <file name="financialfeud.html" crc="4131258722" seo="true" mt="1633498536091" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="456597712" seo="true" mt="1633347877768" redirect="true"/>
