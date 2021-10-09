@@ -17,12 +17,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/new-directories-favicon.ico?crc=4085340272"/>
   <title>About me</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=186334463"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=118596091"/>
   <link rel="stylesheet" type="text/css" href="css/master_grandmaster.css?crc=4017877407"/>
   <link rel="stylesheet" type="text/css" href="css/master_new-directories.css?crc=4208755170"/>
-  <link rel="stylesheet" type="text/css" href="css/about-me.css?crc=4022503337" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/about-me.css?crc=3934286391" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/RpNkkhvPES2dKTzPANFTxRYkfgnAWYXg1TrYWGx92GSfeTSgfJWLE3wPH263FQjaw28LwR9X52gy5AbDweBy5QZ85AwkZQju5eIUwQyy5AwoZe9-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6Z8iW4zSeI7fbKGpsMMeMS6MKG4fH8oIMMjMkMfH6GJttjgIMMj2PMfP6sFiWF8qMe1ELPHg6.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/2VZ-eWx_LeEEY5g9Oa_AEGtN0AUauPQotZhvtEY2h_3feTSgfJWLE3wPH263FQjaw28LwR9X52gy5AbDweBy5QZ85AwkZQju5eIUwQyy5AwoZe9-OkG0dA8nZPuqdho1OcFzdPUl-Al8OAszdcS0jhNlOYiaikol-Al8OAszdcS0jhNlJ6Z8iW4zSeI7fbKGpsMMeMS6MKG4fH8oIMMjMkMfH6GJttjgIMMj2PMfP6sFiWF8qMYa6t-Og6.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -230,7 +230,7 @@ transition:none !important;
     </div>
     <div class="clearfix colelem" id="u33289"><!-- group -->
      <div class="rounded-corners clip_frame grpelem" id="u33137"><!-- image -->
-      <img class="block" id="u33137_img" src="images/3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137.jpg?crc=4151562886" data-hidpi-src="images/3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg?crc=227254404" alt="" data-heightwidthratio="0.9971014492753624" data-image-width="345" data-image-height="344"/>
+      <img class="block" id="u33137_img" src="images/3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137.jpg?crc=4083547236" data-hidpi-src="images/3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg?crc=4212016143" alt="" data-heightwidthratio="0.9971014492753624" data-image-width="345" data-image-height="344"/>
      </div>
      <div class="clearfix grpelem" id="u33271"><!-- column -->
       <div class="aboutTitleSong clearfix colelem" id="u33258-4"><!-- content -->
@@ -261,8 +261,8 @@ I'm now listening to <a id="recentSong" target="_blank"><span id="recentSongTitl
 $(document).ready(
  function() {
  setInterval(function(){
-const Url='http://ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user=mikaliod&api_key=60982720a3aa28ffe91f2e2b8c6475cf&format=json';
-const Url2='http://ws.audioscrobbler.com/2.0/?method=user.getWeeklyTrackChart&user=mikaliod&api_key=60982720a3aa28ffe91f2e2b8c6475cf&format=json';
+const Url='https://ws.audioscrobbler.com/2.0/?method=user.getRecentTracks&user=mikaliod&api_key=60982720a3aa28ffe91f2e2b8c6475cf&format=json';
+const Url2='https://ws.audioscrobbler.com/2.0/?method=user.getWeeklyTrackChart&user=mikaliod&api_key=60982720a3aa28ffe91f2e2b8c6475cf&format=json';
         $.get( Url, function( data ) {
 var recentSong = document.getElementById("recentSong");
 var recentSongTitle = document.getElementById("recentSongTitle");

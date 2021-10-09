@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633768816919">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1633780216577">
   <folder name="css">
     <file name="site_global.css" crc="118596091"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
     <file name="index.css" crc="3947939535" ref="index"/>
-    <file name="about-me.css" crc="4022503337" ref="about-me"/>
+    <file name="about-me.css" crc="3934286391" ref="about-me"/>
     <file name="financialfeud.css" crc="3825558524" ref="financialfeud"/>
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
@@ -765,10 +765,10 @@
     <file name="24941492-a7d6-4d92-a8ca-71fc2b03e075-crop-u33156_2x.jpg" crc="165543091" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137.jpg" crc="4151562886" seo="true" ref="about-me">
+    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137.jpg" crc="4083547236" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg" crc="227254404" seo="true" ref="about-me">
+    <file name="3eb7a7c3-9035-4277-a8de-28abb2e71343-crop-u33137_2x.jpg" crc="4212016143" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
     <file name="apple iphone 12 pro pacific blue205x388.png" crc="269228338" seo="true" ref="patiently">
@@ -865,7 +865,7 @@
       <caption webpage="patiently" alt=""/>
     </file>
   </folder>
-  <file name="about-me.html" crc="76397954" seo="true" mt="1633425069686" redirect="true"/>
+  <file name="about-me.html" crc="4039878098" seo="true" mt="1633780187652" redirect="true"/>
   <file name="index.html" crc="4055974561" seo="true" mt="1633768772818" redirect="true"/>
   <file name="financialfeud.html" crc="4131258722" seo="true" mt="1633498536091" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
