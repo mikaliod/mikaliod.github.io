@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>http://mike-dong.com/sprout.html</loc>
-    <lastmod>2021-10-16</lastmod>
+    <lastmod>2021-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -52,30 +52,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/processoverview_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/recordvid.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/measurevid.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/sendvid.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/receivevid.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/listenvid.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/overtimeviid.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/sproutcardboardvid.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/imprintvid.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/pxl_20210210_010610136-crop-u31881.jpg</image:loc>
@@ -118,12 +94,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/childrenpoetry-crop-u32063_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/lasercut.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mike-dong.com/images/codingvid.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mike-dong.com/images/measure%20heigh.jpg</image:loc>
@@ -880,14 +850,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/stakeholders.png</loc>
-    <lastmod>2018-02-21</lastmod>
+    <loc>http://mike-dong.com/assets/prototype1.png</loc>
+    <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/value.png</loc>
-    <lastmod>2018-02-21</lastmod>
+    <loc>http://mike-dong.com/assets/prototype3.png</loc>
+    <lastmod>2019-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -910,14 +880,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/storyboard_yoga.png</loc>
-    <lastmod>2018-12-11</lastmod>
+    <loc>http://mike-dong.com/assets/stakeholders.png</loc>
+    <lastmod>2018-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/birdhall-redesign.png</loc>
-    <lastmod>2019-02-06</lastmod>
+    <loc>http://mike-dong.com/assets/value.png</loc>
+    <lastmod>2018-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1072,6 +1042,66 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mike-dong.com/assets/codingvid.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/imprintvid.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/lasercut.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/listenvid.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/measuremovie.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/overtimeviid.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/receivevid.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/recordvid.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/sendvid.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mike-dong.com/assets/sproutcardboardvid.mp4</loc>
+    <lastmod>2021-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mike-dong.com/assets/initial-stakeholder-analysis.png</loc>
     <lastmod>2018-04-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -1096,8 +1126,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/prototype1.png</loc>
-    <lastmod>2019-02-20</lastmod>
+    <loc>http://mike-dong.com/assets/storyboard_yoga.png</loc>
+    <lastmod>2018-12-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1108,8 +1138,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mike-dong.com/assets/prototype3.png</loc>
-    <lastmod>2019-02-20</lastmod>
+    <loc>http://mike-dong.com/assets/birdhall-redesign.png</loc>
+    <lastmod>2019-02-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

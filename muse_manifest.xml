@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1634431738226">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1634469059817">
   <folder name="css">
     <file name="site_global.css" crc="3918248338"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
@@ -8,7 +8,7 @@
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
     <file name="mend.css" crc="3810267185" ref="mend"/>
-    <file name="sprout.css" crc="3826016334" ref="sprout"/>
+    <file name="sprout.css" crc="4066937885" ref="sprout"/>
     <file name="patiently.css" crc="3953829335" ref="patiently"/>
   </folder>
   <folder name="fonts">
@@ -157,6 +157,16 @@
     <file name="vidhappypatient.mp4" crc="419538599" seo="true" mt="1633507530000"/>
     <file name="vidpatientspeak.mp4" crc="465554376" seo="true" mt="1633510964000"/>
     <file name="vidpatientvsprovider.mp4" crc="4015617530" seo="true" mt="1633508657000"/>
+    <file name="codingvid.mp4" crc="84481566" seo="true" mt="1634389523000"/>
+    <file name="imprintvid.mp4" crc="316068556" seo="true" mt="1634389448000"/>
+    <file name="lasercut.mp4" crc="3818884436" seo="true" mt="1634389526000"/>
+    <file name="listenvid.mp4" crc="3872713222" seo="true" mt="1634389455000"/>
+    <file name="measuremovie.mp4" crc="71970866" seo="true" mt="1634389460000"/>
+    <file name="overtimeviid.mp4" crc="4126837897" seo="true" mt="1634389468000"/>
+    <file name="receivevid.mp4" crc="58939818" seo="true" mt="1634389475000"/>
+    <file name="recordvid.mp4" crc="345831575" seo="true" mt="1634389486000"/>
+    <file name="sendvid.mp4" crc="3964967388" seo="true" mt="1634389496000"/>
+    <file name="sproutcardboardvid.mp4" crc="140520342" seo="true" mt="1634389500000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="about-me:index:financialfeud:sketches:mend:sprout:patiently"/>
@@ -285,7 +295,7 @@
       <caption webpage="sketches" alt=""/>
       <caption webpage="old-sketches" alt=""/>
     </file>
-    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:about-me:financialfeud"/>
+    <file name="new-directories-favicon.ico" crc="4085340272" ref="index:about-me:financialfeud:sprout"/>
     <file name="mikememoji@2x.png" crc="4077833838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="new-home" alt=""/>
@@ -573,30 +583,6 @@
     <file name="ffgrouppic-crop-u31336_2x.jpg" crc="4025325389" seo="true" ref="financialfeud">
       <caption webpage="financialfeud" alt=""/>
     </file>
-    <file name="recordvid.gif" crc="436218701" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="measurevid.gif" crc="210351371" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="sendvid.gif" crc="4217583786" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="receivevid.gif" crc="3921543318" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="listenvid.gif" crc="48808986" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="overtimeviid.gif" crc="397361449" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="sproutcardboardvid.gif" crc="3951352161" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="imprintvid.gif" crc="112304390" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
     <file name="pxl_20210210_010610136-crop-u31881.jpg" crc="4195710823" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
@@ -637,12 +623,6 @@
       <caption webpage="sprout" alt=""/>
     </file>
     <file name="childrenpoetry-crop-u32063_2x.jpg" crc="3850317435" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="lasercut.gif" crc="498964484" seo="true" ref="sprout">
-      <caption webpage="sprout" alt=""/>
-    </file>
-    <file name="codingvid.gif" crc="276870636" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
     <file name="measure heigh.jpg" crc="492648628" seo="true" ref="sprout">
@@ -865,22 +845,22 @@
     <file name="younghomemockup-crop-u34338_2x.jpg" crc="493707400" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="windowhand.jpg" crc="3818046708" seo="true" ref="sprout">
+    <file name="windowhand.jpg" crc="4034236283" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="windowhand_2x.jpg" crc="4121625125" seo="true" ref="sprout">
+    <file name="windowhand_2x.jpg" crc="4224241282" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="younghomemockup-crop-u34358.jpg" crc="4108179561" seo="true" ref="sprout">
+    <file name="younghomemockup-crop-u34358.jpg" crc="4181413180" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="younghomemockup-crop-u34358_2x.jpg" crc="4086486893" seo="true" ref="sprout">
+    <file name="younghomemockup-crop-u34358_2x.jpg" crc="3850962118" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="oldhomemockup-crop-u34363.jpg" crc="448304079" seo="true" ref="sprout">
+    <file name="oldhomemockup-crop-u34363.jpg" crc="3921396270" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="oldhomemockup-crop-u34363_2x.jpg" crc="3977401221" seo="true" ref="sprout">
+    <file name="oldhomemockup-crop-u34363_2x.jpg" crc="403404906" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
   </folder>
@@ -889,6 +869,6 @@
   <file name="financialfeud.html" crc="4131258722" seo="true" mt="1633498536091" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="456597712" seo="true" mt="1633347877768" redirect="true"/>
-  <file name="sprout.html" crc="3930964555" seo="true" mt="1634431644297" redirect="true"/>
+  <file name="sprout.html" crc="4279969938" seo="true" mt="1634468982842" redirect="true"/>
   <file name="patiently.html" crc="218022287" seo="true" mt="1634429170203" redirect="true"/>
 </manifest>
