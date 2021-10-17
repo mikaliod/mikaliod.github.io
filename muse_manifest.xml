@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1634469059817">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mike-dong.com" resolutions="1x,2x" timestamp="1634469908206">
   <folder name="css">
-    <file name="site_global.css" crc="3918248338"/>
+    <file name="site_global.css" crc="3874791813"/>
     <file name="master_grandmaster.css" crc="4017877407" ref="index:about-me:financialfeud:sketches:mend:sprout:patiently"/>
     <file name="index.css" crc="3947939535" ref="index"/>
     <file name="about-me.css" crc="3934286391" ref="about-me"/>
@@ -8,7 +8,7 @@
     <file name="sketches.css" crc="4205467139" ref="sketches"/>
     <file name="master_new-directories.css" crc="4208755170" ref="index:about-me:mend:sprout:sketches:financialfeud:patiently"/>
     <file name="mend.css" crc="3810267185" ref="mend"/>
-    <file name="sprout.css" crc="4066937885" ref="sprout"/>
+    <file name="sprout.css" crc="3867243256" ref="sprout"/>
     <file name="patiently.css" crc="3953829335" ref="patiently"/>
   </folder>
   <folder name="fonts">
@@ -839,10 +839,10 @@
     <file name="younghomemockup-crop-u29246_2x.jpg" crc="223980140" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="younghomemockup-crop-u34338.jpg" crc="410592832" seo="true" ref="sprout">
+    <file name="younghomemockup-crop-u34338.jpg" crc="4104599974" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="younghomemockup-crop-u34338_2x.jpg" crc="493707400" seo="true" ref="sprout">
+    <file name="younghomemockup-crop-u34338_2x.jpg" crc="426622758" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
     <file name="windowhand.jpg" crc="4034236283" seo="true" ref="sprout">
@@ -851,10 +851,10 @@
     <file name="windowhand_2x.jpg" crc="4224241282" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="younghomemockup-crop-u34358.jpg" crc="4181413180" seo="true" ref="sprout">
+    <file name="younghomemockup-crop-u34358.jpg" crc="200784769" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
-    <file name="younghomemockup-crop-u34358_2x.jpg" crc="3850962118" seo="true" ref="sprout">
+    <file name="younghomemockup-crop-u34358_2x.jpg" crc="200556184" seo="true" ref="sprout">
       <caption webpage="sprout" alt=""/>
     </file>
     <file name="oldhomemockup-crop-u34363.jpg" crc="3921396270" seo="true" ref="sprout">
@@ -869,6 +869,6 @@
   <file name="financialfeud.html" crc="4131258722" seo="true" mt="1633498536091" redirect="true"/>
   <file name="sketches.html" crc="3827726540" seo="true" mt="1627458271833" redirect="true"/>
   <file name="mend.html" crc="456597712" seo="true" mt="1633347877768" redirect="true"/>
-  <file name="sprout.html" crc="4279969938" seo="true" mt="1634468982842" redirect="true"/>
+  <file name="sprout.html" crc="3768914743" seo="true" mt="1634469863600" redirect="true"/>
   <file name="patiently.html" crc="218022287" seo="true" mt="1634429170203" redirect="true"/>
 </manifest>
